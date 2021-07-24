@@ -1329,3 +1329,4 @@ http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
 http://cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="ihub Live Tv", Zee Bangla Cinema
 http://cdn.ihub.live:8080/j-Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+http://103.157.237.18:8000/play/630
