@@ -1,4 +1,4 @@
-# iptv#EXTM3U 
+#EXTM3U 
 #EXTINF: -1 tvg-id="tv1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA", TV1
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065865
 #EXTINF: -1 tvg-id="tv1.my" tvg-name="TV1 (B)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA", TV1 (FHD)
