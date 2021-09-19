@@ -37,10 +37,6 @@ http://babutv.aliflailabd.com:8989/boishakhi-tv/index.m3u8
 http://babutv.aliflailabd.com:8989/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="News",BTV World
 http://babutv.aliflailabd.com:8989/btv-world/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.protidinerchitrobd.com/media/imgAll/2020January/btv-chittagong-2001251041.jpg" group-title="News",*BTV Chottogram
-http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="News",*BTV Sanshad TV
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="News",Channel I HD
 http://babutv.aliflailabd.com:8989/channel-i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="News",Channel 9 HD
@@ -78,8 +74,6 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1eCbGa7.png" group-title="News",*Ruposhi Bangla
 http://indo51.gcdn.co/BANGLA-IND-Rupashibangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="News",*Sun Bangla SD
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="News",Sony Aath
 http://babutv.aliflailabd.com:8989/sony-aath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="News",Star Jalsha
@@ -90,10 +84,6 @@ http://babutv.aliflailabd.com:8989/zee-bangla/index.m3u8
 http://indo51.gcdn.co/BANGLA-IND-ZEEBANGLACinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="News",*News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-
-
-Hindi
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="News",*& TV HD  
 http://indo51.gcdn.co/hindi-&TVUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg" group-title="News",Colors HD
@@ -144,7 +134,6 @@ http://indo51.gcdn.co/hindi-SONYMAXindia/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="News",*Star Gold HD 
 http://indo51.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGg6i93.png" group-title="News",*Zee Anmol Cinema
 http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="News",*Zee Bolywood
@@ -253,8 +242,6 @@ http://babutv.aliflailabd.com:8989/discovery/index.m3u8
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="News",*Discovery Science English
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="News",*Discovery Turbo
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png" group-title="News",History Channel
 http://babutv.aliflailabd.com:8989/history-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ay4EtVz.png" group-title="News",Nat Geo Wild HD
