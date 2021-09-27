@@ -4,173 +4,173 @@
 http://93.152.174.144:4000/play/ait/index.m3u8
 #EXTINF:-1 group-title="Sports",ARIHANT HINDI
 http://93.152.174.144:4000/play/arihant/index.m3u8
-#EXTINF:-1,African Entertainment NG
+#EXTINF:-1 group-title="Sports",African Entertainment NG
 http://93.152.174.144:4000/play/african/index.m3u8
-#EXTINF:-1,Antena 3 HD SP
+#EXTINF:-1 group-title="Sports",Antena 3 HD SP
 http://93.152.174.144:4000/play/antena3sp/index.m3u8
-#EXTINF:-1,BBC2
+#EXTINF:-1 group-title="Sports",BBC2
 http://93.152.174.144:4000/play/bbc2/index.m3u8
-#EXTINF:-1,BEIN SPORT 1 AR - RT
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 AR - RT
 http://93.152.174.144:4000/play/bein1rt/index.m3u8
-#EXTINF:-1,BEINSPORTAR
+#EXTINF:-1 group-title="Sports",BEINSPORTAR
 http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-#EXTINF:-1,BT SPORT 1
+#EXTINF:-1 group-title="Sports",BT SPORT 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,BT SPORT 2
+#EXTINF:-1 group-title="Sports",BT SPORT 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,BT SPORT ESPN
+#EXTINF:-1 group-title="Sports",BT SPORT ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1,BTSPORT3
+#EXTINF:-1 group-title="Sports",BTSPORT3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1,Bein LaLiga
+#EXTINF:-1 group-title="Sports",Bein LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1,Bein Sport 1 AR
+#EXTINF:-1 group-title="Sports",Bein Sport 1 AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1,Bein Sport 1 FR
+#EXTINF:-1 group-title="Sports",Bein Sport 1 FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,Bein Sport 4 ar
+#EXTINF:-1 group-title="Sports",Bein Sport 4 ar
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1,Bein Sports 2 FR
+#EXTINF:-1 group-title="Sports",Bein Sports 2 FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,Bein Sports 3 AR
+#EXTINF:-1 group-title="Sports",Bein Sports 3 AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1,Bein Sports 3 FR
+#EXTINF:-1 group-title="Sports",Bein Sports 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1,Bein Sports 5 AR
+#EXTINF:-1 group-title="Sports",Bein Sports 5 AR
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1,Bein Sports 7 AR
+#EXTINF:-1 group-title="Sports",Bein Sports 7 AR
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1,CH 13 IL
+#EXTINF:-1 group-title="Sports",CH 13 IL
 http://93.152.174.144:4000/play/ch13/index.m3u8
-#EXTINF:-1,CH. 12 - IL
+#EXTINF:-1 group-title="Sports",CH. 12 - IL
 http://93.152.174.144:4000/play/ch12/index.m3u8
-#EXTINF:-1,Channels 24 NG
+#EXTINF:-1 group-title="Sports",Channels 24 NG
 http://93.152.174.144:4000/play/ch24ng/index.m3u8
-#EXTINF:-1,Channels Television NG
+#EXTINF:-1 group-title="Sports",Channels Television NG
 http://93.152.174.144:4000/play/chtelevision/index.m3u8
-#EXTINF:-1,Colors HINDI
+#EXTINF:-1 group-title="Sports",Colors HINDI
 http://93.152.174.144:4000/play/colorsh/index.m3u8
-#EXTINF:-1,Comedy Channel NG
+#EXTINF:-1 group-title="Sports",Comedy Channel NG
 http://93.152.174.144:4000/play/comedych/index.m3u8
-#EXTINF:-1,Cuatro HD SP
+#EXTINF:-1 group-title="Sports",Cuatro HD SP
 http://93.152.174.144:4000/play/cuatrosp/index.m3u8
-#EXTINF:-1,DD BHARTI HINDI
+#EXTINF:-1 group-title="Sports",DD BHARTI HINDI
 http://93.152.174.144:4000/play/bharti/index.m3u8
-#EXTINF:-1,DD BIHAR HINDI
+#EXTINF:-1 group-title="Sports",DD BIHAR HINDI
 http://93.152.174.144:4000/play/bihar/index.m3u8
-#EXTINF:-1,Energy SP
+#EXTINF:-1 group-title="Sports",Energy SP
 http://93.152.174.144:4000/play/energysp/index.m3u8
-#EXTINF:-1,Eurosport 1 HD SP
+#EXTINF:-1 group-title="Sports",Eurosport 1 HD SP
 http://93.152.174.144:4000/play/eurosport1sp/index.m3u8
-#EXTINF:-1,FDF SP
+#EXTINF:-1 group-title="Sports",FDF SP
 http://93.152.174.144:4000/play/fdfsp/index.m3u8
-#EXTINF:-1,FOX HD PT
+#EXTINF:-1 group-title="Sports",FOX HD PT
 http://93.152.174.144:4000/play/foxpt/index.m3u8
-#EXTINF:-1,FOX LIFE PT
+#EXTINF:-1 group-title="Sports",FOX LIFE PT
 http://93.152.174.144:4000/play/foxlifept/index.m3u8
-#EXTINF:-1,Film4
+#EXTINF:-1 group-title="Sports",Film4
 http://93.152.174.144:4000/play/film4/index.m3u8
-#EXTINF:-1,HOT SPORT 1 IL
+#EXTINF:-1 group-title="Sports",HOT SPORT 1 IL
 http://93.152.174.144:4000/play/hotsport1/index.m3u8
-#EXTINF:-1,HOT SPORT 2 IL
+#EXTINF:-1 group-title="Sports",HOT SPORT 2 IL
 http://93.152.174.144:4000/play/hotsport2/index.m3u8
-#EXTINF:-1,HOT SPORT 3 IL
+#EXTINF:-1 group-title="Sports",HOT SPORT 3 IL
 http://93.152.174.144:4000/play/hotsport3/index.m3u8
-#EXTINF:-1,HOT SPORT 4 IL
+#EXTINF:-1 group-title="Sports",HOT SPORT 4 IL
 http://93.152.174.144:4000/play/hotsport4/index.m3u8
-#EXTINF:-1,HOT SPORT 5 IL
+#EXTINF:-1 group-title="Sports",HOT SPORT 5 IL
 http://93.152.174.144:4000/play/hotsport5/index.m3u8
-#EXTINF:-1,Hollywood HD PT
+#EXTINF:-1 group-title="Sports",Hollywood HD PT
 http://93.152.174.144:4000/play/hollywoodpt/index.m3u8
-#EXTINF:-1,Hope Channel Africa NG
+#EXTINF:-1 group-title="Sports",Hope Channel Africa NG
 http://93.152.174.144:4000/play/hopechannel/index.m3u8
-#EXTINF:-1,IL Sport 5 PLUS
+#EXTINF:-1 group-title="Sports",IL Sport 5 PLUS
 http://93.152.174.144:4000/play/s5plus/index.m3u8
-#EXTINF:-1,ITV1 - REAL TV
+#EXTINF:-1 group-title="Sports",ITV1 - REAL TV
 http://93.152.174.144:4000/play/itv1real/index.m3u8
-#EXTINF:-1,ITV_1
+#EXTINF:-1 group-title="Sports",ITV_1
 http://93.152.174.144:4000/play/itv1/index.m3u8
-#EXTINF:-1,ITV_2
+#EXTINF:-1 group-title="Sports",ITV_2
 http://93.152.174.144:4000/play/itv2/index.m3u8
-#EXTINF:-1,India TV
+#EXTINF:-1 group-title="Sports",India TV
 http://93.152.174.144:4000/play/indiatv/index.m3u8
-#EXTINF:-1,KAN 11 - IL
+#EXTINF:-1 group-title="Sports",KAN 11 - IL
 http://93.152.174.144:4000/play/kan11/index.m3u8
-#EXTINF:-1,KINGS WORD INFO NG
+#EXTINF:-1 group-title="Sports",KINGS WORD INFO NG
 http://93.152.174.144:4000/play/kingsword/index.m3u8
-#EXTINF:-1,La 1 HD SP
+#EXTINF:-1 group-title="Sports",La 1 HD SP
 http://93.152.174.144:4000/play/la1sp/index.m3u8
-#EXTINF:-1,La 2 HD SP
+#EXTINF:-1 group-title="Sports",La 2 HD SP
 http://93.152.174.144:4000/play/la2sp/index.m3u8
-#EXTINF:-1,La Sexta SP
+#EXTINF:-1 group-title="Sports",La Sexta SP
 http://93.152.174.144:4000/play/lasexta/index.m3u8
-#EXTINF:-1,NOVA SP
+#EXTINF:-1 group-title="Sports",NOVA SP
 http://93.152.174.144:4000/play/novasp/index.m3u8
-#EXTINF:-1,NTA NEWS NG
+#EXTINF:-1 group-title="Sports",NTA NEWS NG
 http://93.152.174.144:4000/play/ntanews/index.m3u8
-#EXTINF:-1,Penthouse Gold
+#EXTINF:-1 group-title="Sports",Penthouse Gold
 http://93.152.174.144:4000/play/Penthouse/index.m3u8
-#EXTINF:-1,RTP 1 HD PT
+#EXTINF:-1 group-title="Sports",RTP 1 HD PT
 http://93.152.174.144:4000/play/rtp1/index.m3u8
-#EXTINF:-1,RTP 2 HD Pt
+#EXTINF:-1 group-title="Sports",RTP 2 HD Pt
 http://93.152.174.144:4000/play/rtp2pt/index.m3u8
-#EXTINF:-1,Redlight
+#EXTINF:-1 group-title="Sports",Redlight
 http://93.152.174.144:4000/play/Redlight/index.m3u8
-#EXTINF:-1,SAHARA BIHAR HINDI
+#EXTINF:-1 group-title="Sports",SAHARA BIHAR HINDI
 http://93.152.174.144:4000/play/sahara/index.m3u8
-#EXTINF:-1,SIC PT
+#EXTINF:-1 group-title="Sports",SIC PT
 http://93.152.174.144:4000/play/sic/index.m3u8
-#EXTINF:-1,SPORT TV 1 PT
+#EXTINF:-1 group-title="Sports",SPORT TV 1 PT
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1,STAR GOLD HD HINDI
+#EXTINF:-1 group-title="Sports",STAR GOLD HD HINDI
 http://93.152.174.144:4000/play/stargold/index.m3u8
-#EXTINF:-1,STAR PLUS HD HINDI
+#EXTINF:-1 group-title="Sports",STAR PLUS HD HINDI
 http://93.152.174.144:4000/play/plushd/index.m3u8
-#EXTINF:-1,STAR UTSAV HINDI
+#EXTINF:-1 group-title="Sports",STAR UTSAV HINDI
 http://93.152.174.144:4000/play/utsav/index.m3u8
-#EXTINF:-1,STAR UTSAV MOVIES
+#EXTINF:-1 group-title="Sports",STAR UTSAV MOVIES
 http://93.152.174.144:4000/play/utsavmovies/index.m3u8
-#EXTINF:-1,Sky Sports 1
+#EXTINF:-1 group-title="Sports",Sky Sports 1
 http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1,Sky Sports 2
+#EXTINF:-1 group-title="Sports",Sky Sports 2
 http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,Sky Sports 3
+#EXTINF:-1 group-title="Sports",Sky Sports 3
 http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1,Sky Sports 4
+#EXTINF:-1 group-title="Sports",Sky Sports 4
 http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1,Sky Sports 5
+#EXTINF:-1 group-title="Sports",Sky Sports 5
 http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1,Sky Sports News
+#EXTINF:-1 group-title="Sports",Sky Sports News
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1,Sky Sports f1
+#EXTINF:-1 group-title="Sports",Sky Sports f1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1,Sony Pal HINDI
+#EXTINF:-1 group-title="Sports",Sony Pal HINDI
 http://93.152.174.144:4000/play/sonypal/index.m3u8
-#EXTINF:-1,Star Sports 1 IN
+#EXTINF:-1 group-title="Sports",Star Sports 1 IN
 http://93.152.174.144:4000/play/ss1in/index.m3u8
-#EXTINF:-1,Star Sports 2 IN
+#EXTINF:-1 group-title="Sports",Star Sports 2 IN
 http://93.152.174.144:4000/play/ss2in/index.m3u8
-#EXTINF:-1,Star Sports 3 IN
+#EXTINF:-1 group-title="Sports",Star Sports 3 IN
 http://93.152.174.144:4000/play/ss3in/index.m3u8
-#EXTINF:-1,TV Continental NG
+#EXTINF:-1 group-title="Sports",TV Continental NG
 http://93.152.174.144:4000/play/tvcontinental/index.m3u8
-#EXTINF:-1,TVC NEWS NG
+#EXTINF:-1 group-title="Sports",TVC NEWS NG
 http://93.152.174.144:4000/play/tvc/index.m3u8
-#EXTINF:-1,TVI 24 PT
+#EXTINF:-1 group-title="Sports",TVI 24 PT
 http://93.152.174.144:4000/play/tvi24/index.m3u8
-#EXTINF:-1,TVI PT
+#EXTINF:-1 group-title="Sports",TVI PT
 http://93.152.174.144:4000/play/tvi/index.m3u8
-#EXTINF:-1,Telecinco HD SP
+#EXTINF:-1 group-title="Sports",Telecinco HD SP
 http://93.152.174.144:4000/play/telecincosp/index.m3u8
-#EXTINF:-1,Ten Golf IN HD
+#EXTINF:-1 group-title="Sports",Ten Golf IN HD
 http://93.152.174.144:4000/play/tengolf/index.m3u8
-#EXTINF:-1,WWE NETWORK
+#EXTINF:-1 group-title="Sports",WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1,ZEE Anmol HINDI
+#EXTINF:-1 group-title="Sports",ZEE Anmol HINDI
 http://93.152.174.144:4000/play/zeeanmol/index.m3u8
-#EXTINF:-1,ZEE IN
+#EXTINF:-1 group-title="Sports",ZEE IN
 http://93.152.174.144:4000/play/zee/index.m3u8
-#EXTINF:-1,Zee Action IN
+#EXTINF:-1 group-title="Sports",Zee Action IN
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
-#EXTINF:-1,Zee Cinema HINDI
+#EXTINF:-1 group-title="Sports",Zee Cinema HINDI
 http://93.152.174.144:4000/play/zeecinema/index.m3u8
