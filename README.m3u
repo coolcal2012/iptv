@@ -1,51 +1,53 @@
 
 #EXTM3U
+#EXTINF:-1  group-title="Star India",Zee Bangla Cinema
+http://212.224.98.209:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
+#EXTINF:-1  group-title="Star India",Zee Bangla HD
+http://212.224.98.209:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR BHARAT HD (IN)
-http://212.224.98.207:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR GOLD 2 (IN)
-http://212.224.98.196:2200/R-EX/STAR_GOLD_2-in/playlist.m3u8?token=
-#EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Gold HD
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/STAR_GOLD_2-in/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR GOLD HD (IN)
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
+http://212.224.98.209:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR GOLD SELECT HD (IN)
 http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Jalsha
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+http://212.224.98.209:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
 #EXTINF:-1  group-title="Star India",Jalsha Movies HD
-http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK
+http://212.224.98.209:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Maa HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+http://212.224.98.209:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Maa Movies HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
+http://212.224.98.209:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Movies
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RK
+http://212.224.98.209:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RK
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR MOVIES SELECT HD (IN)
-http://212.102.60.40:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8
+http://212.224.98.209:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=RK
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR PLUS HD (IN)
-http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/playlist.m3u8?token=
+http://212.224.98.209:2200/R-EX/HINDI_STAR_PLUS_HD-in/playlist.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Sports 1
-http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
+http://212.224.98.209:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR SPORTS 1 HD (IN)
-http://212.224.98.196:2200/EX/starsports1hd-in/index.m3u8?token=
+http://212.224.98.209:2200/EX/starsports1hd-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR SPORTS 1 HD (IN)
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/playlist.m3u8?token=
+http://212.224.98.209:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/playlist.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR SPORTS 3 (IN)
-http://212.224.98.207:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
+http://212.224.98.209:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR SPORTS FIRST (IN)
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/index.m3u8?token=
+http://212.224.98.209:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Sports Tamil
-http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
+http://212.224.98.209:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Vijay HD 1
-http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
+http://212.224.98.209:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Vijay Super
-http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
+http://212.224.98.209:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star World HD
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
+http://212.224.98.209:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR WORLD HD (IN)
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
+http://212.224.98.209:2200/R-EX/star-world-LOCKLE-in/index.m3u8?token=RK
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR WORLD HD (IN)
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/playlist.m3u8?token=
+http://212.224.98.209:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=RK
 #EXTINF:-1  group-title="Star India",BEIN 1
 http://212.102.60.40:2200/EX/bein1FHD-ar/tracks-v1a1/index.m3u8    
 #EXTINF:-1  group-title="Star India",BEIN 2
