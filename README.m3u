@@ -1,7 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Bharat HD
-http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR BHARAT HD (IN)
 http://212.224.98.207:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",STAR GOLD 2 (IN)
