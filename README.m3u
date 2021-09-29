@@ -14,6 +14,8 @@ http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Jalsha
 http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+#EXTINF:-1
+http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Maa HD
 http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1  tvg-id="N/A" group-title="Star India" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Maa Movies HD
