@@ -230,7 +230,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="English Movie",AXN HD
 http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
-#http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="English Movie",Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="English Movie",Blue Ant Extreme
@@ -247,13 +247,7 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="English Movie",Fox Life
 http://212.76.29.26:80/btv/SWM/FoxLife/FoxLife.m3u8
 #EXTINF:-1  group-title="English Movie" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg",MY CINEMA
-http://210.210.155.35/session/55528460-d1c8-11eb-8209-c81f66f89318/uq2663/h/h90/S4/mnf.m3u8
-
-
-
- 
-                                                                         **Music**
- 
+http://210.210.155.35/session/55528460-d1c8-11eb-8209-c81f66f89318/uq2663/h/h90/S4/mnf.m3u8                                                                         **Music**
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Music",Music India
@@ -298,13 +292,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Music",Dan Music
 https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Music", MTV Hits
-http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
-
-
-
- 
-                                                                                ** Documentery **
- 
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd                                                                                ** Documentery **
 #EXTINF:0 tvg-logo="https://i.imgur.com/SEvBqtE.jpg" group-title="Documentery",Animal Planet
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8 
 #EXTINF:0 tvg-logo="https://i.imgur.com/jXZCYvK.jpg" group-title="Documentery",Discovery Hindi
@@ -349,14 +337,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Documentery",Rasi Lifestyle
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Documentery", Bisnet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-
-
-									                                   **Kids**
- 
-
-
-
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8									                                   **Kids**
 #EXTINF:0 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
 https://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY
@@ -469,7 +450,7 @@ http://visioncable2020.com:25461/tvlover21/123/651
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7m8LXs0.jpg" group-title="Sports",Star Sports Select 2 HD
 http://visioncable2020.com:25461/tvlover21/123/719
-#http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3 HD
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 #EXTINF:0 tvg-name="PTV Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports HD
