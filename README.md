@@ -1,0 +1,4 @@
+#EXTINF:-1  tvg-id=78  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png"   group-title=Sports,   Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000077&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjEwMDMyMDA3IiwiaXNlIjp0cnVlLCJqdGkiOiIzZmY0MjlhNy05MWI2LTQ0YzQtYThkYS1jMjk4YTZiMmE0OWEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjM1NDE4NjYxLCJuYW1lIjoiUmFqZXNod2FyaSBTIiwiaWF0IjoxNjM1MzMyMjYxLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTIyNSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.khpB3JkhJgpd3UUCuj5GhxiLRz2GbdqIbywuS65Tkp8
+https://delta14tatasky.akamaized.net/out/i/4779601.mpd
