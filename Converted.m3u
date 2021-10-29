@@ -1,0 +1,1470 @@
+#EXTM3U
+#EXTINF:0 tvg-id="NDTV.uk" group-title="Channels",NDTV 24x7
+https://delta13tatasky.akamaized.net/out/i/2284312.mpd
+#EXTINF:0 tvg-id="TimesNow.uk" group-title="Channels",TIMES NOW
+https://delta31tatasky.akamaized.net/out/i/4140.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",INDIA TODAY
+https://delta15tatasky.akamaized.net/out/i/1460881.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNBC-TV18
+https://delta15tatasky.akamaized.net/out/i/1927189.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ET NOW
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/184.mpd
+#EXTINF:0 tvg-id="france24" group-title="Channels",France 24
+https://delta12tatasky.akamaized.net/out/i/5870205.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV5 Monde Asie
+https://delta11tatasky.akamaized.net/out/i/2696453.mpd
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/4092328.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Australia TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/4292421.mpd
+#EXTINF:0 tvg-id="russia-today" group-title="Channels",Russia Today
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3240984.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fateh TV
+https://delta45tatasky.akamaized.net/out/i/353.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ek Onkar
+https://delta45tatasky.akamaized.net/out/i/371.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boogle Bollywood
+https://delta45tatasky.akamaized.net/out/i/263.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Powai Sarvajanin Durgotsav
+https://delta14tatasky.akamaized.net/out/i/5752721.mpd
+#EXTINF:0 tvg-id="DY365.in" group-title="Channels",DY 365
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2115400.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS LIVE
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145171.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Protidin Time
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145168.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prag News
+https://delta39tatasky.akamaized.net/out/i/2817627.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",NKTV 24x7
+https://delta39tatasky.akamaized.net/out/i/4938758.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hornbill TV
+https://delta44tatasky.akamaized.net/out/i/190490.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD North East
+https://delta15tatasky.akamaized.net/out/i/1454826.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Kashir
+https://delta15tatasky.akamaized.net/out/i/1454821.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rang
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/2727342.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Indradhanu
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/3550131.mpd
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Channels",Zee Action
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2122476.mpd
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="Channels",Zee News
+https://delta16tatasky.akamaized.net/out/i/2903703.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Hindustan
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2973727.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",WION
+https://delta16tatasky.akamaized.net/out/i/3215617.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Zest HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_604/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Zest
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_830/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Salaam
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Seithigal TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd
+#EXTINF:0 tvg-id="AngelTv.in" group-title="Channels",Angel TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Keralam HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Keralam
+https://delta35tatasky.akamaized.net/out/i/2643036.mpd
+#EXTINF:0 tvg-id="WEtv.us" group-title="Channels",We TV
+https://delta43tatasky.akamaized.net/out/i/18131.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Safari TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/2734019.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kairali News
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/47.mpd
+#EXTINF:0 tvg-id="MathrubhumiNews.in" group-title="Channels",Mathrubhumi News
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/4752209.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Janam TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kaumudy TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Raj News Malayalam
+https://delta16tatasky.akamaized.net/out/i/2914715.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Raj Musix Malayalam
+https://delta33tatasky.akamaized.net/out/i/2496615.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kappa TV
+https://delta32tatasky.akamaized.net/out/i/1727668.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Goodness
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shalom TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2227018.mpd
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Channels",9X Jalwa
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/5061322.mpd
+#EXTINF:0 tvg-id="9XJhakaas.in" group-title="Channels",9X Jhakaas
+https://delta13tatasky.akamaized.net/out/i/2284240.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://delta31tatasky.akamaized.net/out/i/57073.mpd
+#EXTINF:0 tvg-id="karusel" group-title="Channels",DD National
+https://delta12tatasky.akamaized.net/out/i/3569776.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Naaptol
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_647/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ezmall
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_872/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Q
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2100177.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dangal
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2100163.mpd
+#EXTINF:0 tvg-id="AnjanTv.in" group-title="Channels",Anjan TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Retro
+https://delta11tatasky.akamaized.net/out/i/2960270.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shemaroo TV
+https://delta37tatasky.akamaized.net/out/i/2894730.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ishara
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azaad
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1772/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Kisan
+https://delta15tatasky.akamaized.net/out/i/1454898.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",B4U Kadak
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd
+#EXTINF:0 tvg-id="B4UMovies.uk" group-title="Channels",B4U Movies
+https://tataskylinear.pc.cdn.bitgravity.com/delta1/out/i/2985036.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema TV India
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/1333398.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",WoW Cinema One
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Enterr10 Movies
+https://delta35tatasky.akamaized.net/out/i/2630915.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bflix Movies
+https://delta33tatasky.akamaized.net/out/i/2492508.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dhinchaak
+https://delta13tatasky.akamaized.net/out/i/2649885.mpd
+#EXTINF:0 tvg-id="DDSports.in" group-title="Channels",DD Sports
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2112645.mpd
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Channels",Star Sports 1 HD
+https://delta14tatasky.akamaized.net/out/i/4779601.mpd
+#EXTINF:0 tvg-id="DDNews.in" group-title="Channels",DD News
+https://delta32tatasky.akamaized.net/out/i/1691524.mpd
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="Channels",ABP News
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/2455131.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tata Sky Family Health..
+https://delta12tatasky.akamaized.net/out/i/3569764.mpd
+#EXTINF:0 tvg-id="zee" group-title="Channels",India TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2108734.mpd
+#EXTINF:0 tvg-id="news24" group-title="Channels",News 24
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145150.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",R Bharat
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3253285.mpd
+#EXTINF:0 tvg-id="IndiaNews.in" group-title="Channels",India News
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/221.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News Nation
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3240938.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV9 Bharatvarsh
+https://delta42tatasky.akamaized.net/out/i/200.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOTAL TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_785/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Times Now Navbharat HD
+https://delta43tatasky.akamaized.net/out/i/793883.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sudarshan News
+https://delta35tatasky.akamaized.net/out/i/2642982.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",APN News
+https://delta42tatasky.akamaized.net/out/i/22.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ET Now Swadesh
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India Voice
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News11 Bharat
+https://delta37tatasky.akamaized.net/out/i/2631009.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News 1 India
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hindi Khabar
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bharat Samachar
+https://delta12tatasky.akamaized.net/out/i/5402804.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Khabarain Abhi Tak
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_596/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Samay
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_703/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Network 10
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/4326676.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jantantra TV
+https://delta39tatasky.akamaized.net/out/i/4207498.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime News
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1145/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News India 24x7
+https://delta44tatasky.akamaized.net/out/i/167779.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sansad TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2231635.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sansad TV HD
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/2881402.mpd
+#EXTINF:0 tvg-id="NewsX.in" group-title="Channels",NewsX
+https://delta35tatasky.akamaized.net/out/i/2630912.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",REPUBLIC TV
+https://delta13tatasky.akamaized.net/out/i/2284269.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India Ahead
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_913/output/manifest.mpd
+#EXTINF:0 tvg-id="DDIndia.in" group-title="Channels",DD India
+https://delta32tatasky.akamaized.net/out/i/1739512.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_275/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel News Asia
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/4098392.mpd
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network HD+
+https://delta43tatasky.akamaized.net/out/i/18056.mpd
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+https://delta14tatasky.akamaized.net/out/i/4779579.mpd
+#EXTINF:0 tvg-id="POGO.in" group-title="Channels",Pogo
+https://delta14tatasky.akamaized.net/out/i/5581049.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ETV Bal Bharat
+https://delta44tatasky.akamaized.net/out/i/190502.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tata Sky Curiosity Channel
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/3431292.mpd
+#EXTINF:0 tvg-id="HistoryTv18.in" group-title="Channels",History TV18 HD
+https://delta43tatasky.akamaized.net/out/i/73.mpd
+#EXTINF:0 tvg-id="HistoryTv18.in" group-title="Channels",History TV18
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TravelXP 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/86565.m3u8
+#EXTINF:0 tvg-id="FoodFood.in" group-title="Channels",Food Food
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/2455096.mpd
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashion TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3241367.mpd
+#EXTINF:0 tvg-id="9XM.in" group-title="Channels",9XM
+https://delta13tatasky.akamaized.net/out/i/2240485.mpd
+#EXTINF:0 tvg-id="E24.in" group-title="Channels",E24
+https://delta38tatasky.akamaized.net/out/i/2057622.mpd
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Channels",B4U Music
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/3127385.mpd
+#EXTINF:0 tvg-id="Mastiii.in" group-title="Channels",Mastiii
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3158956.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Showbox
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/2648337.mpd
+#EXTINF:0 tvg-id="Aastha.uk" group-title="Channels",Aastha
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3240929.mpd
+#EXTINF:0 tvg-id="Sanskar.uk" group-title="Channels",Sanskar
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/2679655.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disha TV
+https://delta42tatasky.akamaized.net/out/i/567173.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Paras TV
+https://delta36tatasky.akamaized.net/out/i/4594258.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MH One Shraddha
+https://delta38tatasky.akamaized.net/out/i/2051386.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sadhna TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/4119911.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Peace of Mind
+https://delta38tatasky.akamaized.net/out/i/2051407.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jinvani Channel
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/3800634.mpd
+#EXTINF:0 tvg-id="ArihantTv.in" group-title="Channels",Arihant
+https://delta34tatasky.akamaized.net/out/i/2477128.mpd
+#EXTINF:0 tvg-id="IshwarTv.in" group-title="Channels",Ishwar TV
+https://delta11tatasky.akamaized.net/out/i/3161401.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Satsang TV
+https://delta40tatasky.akamaized.net/out/i/2326386.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shubh TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2227021.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aastha Bhajan
+https://delta16tatasky.akamaized.net/out/i/2903719.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vedic
+https://delta12tatasky.akamaized.net/out/i/3562162.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Subharti TV
+https://delta15tatasky.akamaized.net/out/i/2554658.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIVYA
+https://delta15tatasky.akamaized.net/out/i/2554676.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Awakening
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Santwani
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dishum
+https://delta34tatasky.akamaized.net/out/i/2477152.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Enterr10 Rangeela
+https://delta44tatasky.akamaized.net/out/i/190499.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Biskope
+https://delta11tatasky.akamaized.net/out/i/2852946.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Filamchi Bhojpuri
+https://delta38tatasky.akamaized.net/out/i/2948826.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bhojpuri Cinema
+https://tataskylinear.pc.cdn.bitgravity.com/delta1/out/i/2974486.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oscar Movies Bhojpuri
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2685474.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",B4U Bhojpuri
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mango TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kashish News
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABP Ganga
+https://delta40tatasky.akamaized.net/out/i/3394372.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India News UP UK
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2219352.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News State UP Uttarakhand
+https://delta35tatasky.akamaized.net/out/i/24405.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sadhna Plus News
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd
+#EXTINF:0 tvg-id="DDBharati.in" group-title="Channels",DD Bharati
+https://delta15tatasky.akamaized.net/out/i/1454813.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Uttar Pradesh
+https://delta33tatasky.akamaized.net/out/i/2506888.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Bihar
+https://delta32tatasky.akamaized.net/out/i/1739499.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",IBC 24
+https://tataskylinear.pc.cdn.bitgravity.com/delta1/out/i/2970559.mpd
+#EXTINF:0 tvg-id="BansalNews.in" group-title="Channels",Bansal News
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",INH 24X7
+https://delta16tatasky.akamaized.net/out/i/2914733.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India News MP CG
+https://tataskylinear.pc.cdn.bitgravity.com/delta1/out/i/2974474.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News State MP CG
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/3554776.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Swaraj Express SMBC
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/3127354.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sadhna News MP CG
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News 24 Madhyapradesh Chattisgarh
+https://delta31tatasky.akamaized.net/out/i/4114.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Anaadi TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Madhya Pradesh
+https://delta40tatasky.akamaized.net/out/i/2274124.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",First India Rajasthan
+https://delta12tatasky.akamaized.net/out/i/3569767.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India News Rajasthan
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/4111593.mpd
+#EXTINF:0 tvg-id="JanTV.am" group-title="Channels",Jan TV
+https://delta42tatasky.akamaized.net/out/i/664890.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",A1 TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_927/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Haryana Beats
+https://delta45tatasky.akamaized.net/out/i/139.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Rajasthan
+https://delta15tatasky.akamaized.net/out/i/2627381.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tehzeeb TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1146/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fakt Marathi
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/3117480.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shemaroo MarathiBana
+https://delta42tatasky.akamaized.net/out/i/238.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABP Majha
+https://delta11tatasky.akamaized.net/out/i/2696550.mpd
+#EXTINF:0 tvg-id="SaamTV.in" group-title="Channels",Saam TV
+https://delta39tatasky.akamaized.net/out/i/2817634.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jai Maharashtra
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV9 Marathi
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3240976.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lokshahi
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Sahyadri
+https://delta38tatasky.akamaized.net/out/i/2051474.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Vajwa
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1139/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Enterr10 Bangla
+https://delta44tatasky.akamaized.net/out/i/449677.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABP Ananda
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2108737.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV9 Bangla
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Republic Bangla
+https://delta36tatasky.akamaized.net/out/i/4562704.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTVN AKD Plus
+https://delta40tatasky.akamaized.net/out/i/2319443.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Bangla
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/4450742.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telugu Naaptol
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_485/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Studio Yuva
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1140/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABN Andhra Jyothy
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3241370.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",T News
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/2640605.mpd
+#EXTINF:0 tvg-id="V6News.in" group-title="Channels",V6 News
+https://delta36tatasky.akamaized.net/out/i/2811107.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",HM TV
+https://delta38tatasky.akamaized.net/out/i/2044287.mpd
+#EXTINF:0 tvg-id="10-tv" group-title="Channels",10 TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vidya
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1137/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nipuna
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1138/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Saptagiri
+https://delta32tatasky.akamaized.net/out/i/1739517.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Yadagiri
+https://delta33tatasky.akamaized.net/out/i/4144008.mpd
+#EXTINF:0 tvg-id="BhaktiTV.in" group-title="Channels",Bhakti TV
+https://delta42tatasky.akamaized.net/out/i/76.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shubhavaarta TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aradana TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Swara Sagar
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hindu Dharmam
+https://delta37tatasky.akamaized.net/out/i/151.mpd
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="Channels",Sun TV HD
+https://delta14tatasky.akamaized.net/out/i/2643861.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sun Life
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Vijay HD
+https://delta12tatasky.akamaized.net/out/i/3562165.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Tamil HD
+https://delta13tatasky.akamaized.net/out/i/3006053.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Tamil
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Colors Tamil
+https://delta12tatasky.akamaized.net/out/i/3562168.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jaya TV HD
+https://tataskylinear.pc.cdn.bitgravity.com/delta1/out/i/2984980.mpd
+#EXTINF:0 tvg-id="KalaignarTv.in" group-title="Channels",Kalaignar TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/3117489.mpd
+#EXTINF:0 tvg-id="RajTv.in" group-title="Channels",Raj TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta1/out/i/4183362.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",D Tamil
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3240991.mpd
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Channels",Raj Digital Plus
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2227027.mpd
+#EXTINF:0 tvg-id="mega" group-title="Channels",Mega TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta5/out/i/3240952.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tamil Naaptol
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_954/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vasanth TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/2458442.mpd
+#EXTINF:0 tvg-id="KalaignarSirippoli.in" group-title="Channels",Sirippoli
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/3808187.mpd
+#EXTINF:0 tvg-id="PolimerTv.in" group-title="Channels",Polimer TV
+https://delta40tatasky.akamaized.net/out/i/2319454.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Makkal TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2107642.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moon TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_635/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vendhar TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd
+#EXTINF:0 tvg-id="KtvHD.in" group-title="Channels",KTV HD
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2122483.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",J Movies
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2220489.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Thirai
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/2648363.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Ten 4
+https://delta31tatasky.akamaized.net/out/i/41.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Travelxp Tamil
+https://delta34tatasky.akamaized.net/out/i/2484361.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kalvi TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1142/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Colors Tamil HD
+https://delta44tatasky.akamaized.net/out/i/167771.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Puthiya Thalaimurai
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145201.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Thanthi TV
+https://delta33tatasky.akamaized.net/out/i/2496608.mpd
+#EXTINF:0 tvg-id="JayaPlus.in" group-title="Channels",Jaya Plus
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145147.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News 7 Tamil
+https://delta37tatasky.akamaized.net/out/i/3339619.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polimer News
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/2646807.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News18 Tamil Nadu
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/2455053.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Raj News Tamil
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sathiyam TV
+https://delta40tatasky.akamaized.net/out/i/2326432.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MalaiMurasu Seithigal
+https://delta37tatasky.akamaized.net/out/i/2631012.mpd
+#EXTINF:0 tvg-id="CaptainNews.in" group-title="Channels",Captain News
+https://delta39tatasky.akamaized.net/out/i/2815385.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News J
+https://delta36tatasky.akamaized.net/out/i/2819815.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Podhigai
+https://delta15tatasky.akamaized.net/out/i/1454859.mpd
+#EXTINF:0 tvg-id="JayaMax.in" group-title="Channels",Jaya Max
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/2640682.mpd
+#EXTINF:0 tvg-id="RajMusix.in" group-title="Channels",Raj Musix
+https://tataskylinear.pc.cdn.bitgravity.com/delta3/out/i/2227030.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Isaiaruvi
+https://delta36tatasky.akamaized.net/out/i/2819806.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Murasu TV
+https://delta38tatasky.akamaized.net/out/i/2051397.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jothi TV
+https://delta38tatasky.akamaized.net/out/i/2051428.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Madha TV
+https://delta36tatasky.akamaized.net/out/i/2811115.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nambikkai TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",SVBC 2
+https://delta32tatasky.akamaized.net/out/i/1734546.mpd
+#EXTINF:0 tvg-id="JeevanTv.in" group-title="Channels",Jeevan TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kannada Naaptol
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_649/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIRIKANNADA Alltime
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1771/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee Picchar
+https://delta14tatasky.akamaized.net/out/i/2721311.mpd
+#EXTINF:0 tvg-id="TV9Kannada.in" group-title="Channels",TV9 Kannada
+https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3145105.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV5 Kannada
+https://delta35tatasky.akamaized.net/out/i/3114960.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dighvijay 24x7 News
+https://delta16tatasky.akamaized.net/out/i/2903729.mpd
+#EXTINF:0 tvg-id="PowerTV.pl" group-title="Channels",Power TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",News 1st
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Chandana
+https://delta38tatasky.akamaized.net/out/i/2051449.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Public Music
+https://delta39tatasky.akamaized.net/out/i/2817608.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sri Sankara TV
+https://delta42tatasky.akamaized.net/out/i/130.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ayush TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gujarat Samachar TV
+https://delta33tatasky.akamaized.net/out/i/2496644.mpd
+#EXTINF:0 tvg-id="SandeshNewsDNN.in" group-title="Channels",Sandesh News
+https://delta34tatasky.akamaized.net/out/i/2484392.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABP Asmita
+https://delta13tatasky.akamaized.net/out/i/2284231.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV Gujarati
+https://delta36tatasky.akamaized.net/out/i/2819769.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India News Gujarat
+https://delta33tatasky.akamaized.net/out/i/4160851.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mantavya News
+https://delta44tatasky.akamaized.net/out/i/36.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Girnar
+https://delta42tatasky.akamaized.net/out/i/110.mpd
+#EXTINF:0 tvg-id="o-tv" group-title="Channels",OTV
+https://delta36tatasky.akamaized.net/out/i/2819742.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Peppers TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta6/out/i/2325119.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanak News
+https://delta35tatasky.akamaized.net/out/i/2638473.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kalinga TV
+https://delta16tatasky.akamaized.net/out/i/2903724.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Manjari
+https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/4326697.mpd
+#EXTINF:0 tvg-id="News7.bg" group-title="Channels",News7
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nandighosha TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Argus News
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Odia
+https://delta15tatasky.akamaized.net/out/i/1454829.mpd
+#EXTINF:0 tvg-id="AmritaTv.in" group-title="Channels",Amrita TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/2640649.mpd
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Channels",Mazhavil Manorama HD
+https://delta34tatasky.akamaized.net/out/i/81.mpd
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Channels",Mazhavil Manorama
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd
+#EXTINF:0 tvg-id="KairaliTv.in" group-title="Channels",Kairali TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/3115492.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Malayalam Naaptol
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1313/output/manifest.mpd
+#EXTINF:0 tvg-id="AsianetNews.in" group-title="Channels",Asianet News
+https://delta33tatasky.akamaized.net/out/i/2496637.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Manorama News
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/3117328.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jaihind TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Media One
+https://delta38tatasky.akamaized.net/out/i/3296203.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Twenty Four
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",KITE Victers
+https://delta34tatasky.akamaized.net/out/i/4121224.mpd
+#EXTINF:0 tvg-id="GodTV.us" group-title="Channels",God TV
+https://delta42tatasky.akamaized.net/out/i/168.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Harvest TV 24x7
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_559/output/manifest.mpd
+#EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="Channels",Zee Punjabi
+https://delta15tatasky.akamaized.net/out/i/2554667.mpd
+#EXTINF:0 tvg-id="PTCPUNJABI.uk" group-title="Channels",PTC Punjabi
+https://delta11tatasky.akamaized.net/out/i/2696497.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pitaara TV
+https://delta39tatasky.akamaized.net/out/i/2817685.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",PTC Punjabi Gold
+https://delta36tatasky.akamaized.net/out/i/3822887.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India News Punjab
+https://delta33tatasky.akamaized.net/out/i/2492511.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",India News Haryana
+https://tataskylinear.pc.cdn.bitgravity.com/delta2/out/i/3115511.mpd
+#EXTINF:0 tvg-id="JanTV.in" group-title="Channels",Janta TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd
+#EXTINF:0 tvg-id="MH1News.in" group-title="Channels",MH One News
+https://delta37tatasky.akamaized.net/out/i/2631006.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANB NEWS
+https://delta35tatasky.akamaized.net/out/i/4452806.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Living India News
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Punjabi
+https://delta32tatasky.akamaized.net/out/i/1739529.mpd
+#EXTINF:0 tvg-id="9XTashan.in" group-title="Channels",9X Tashan
+https://tataskylinear.pc.cdn.bitgravity.com/delta10/out/i/2455039.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",PTC Music
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Punjabi Hits
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Chardikla Time TV
+https://tataskylinear.pc.cdn.bitgravity.com/delta9/out/i/2100220.mpd
+
+#EXTINF:0 tvg-id="SunMusic.in" group-title="Tamil",Sun Music HD
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w303707639.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="India",########## India ##########
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5597
+#EXTINF:0 tvg-id="9XM.in" group-title="India",9XM IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/4009
+#EXTINF:0 tvg-id="Pictures.in" group-title="India",& Pictures IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10622
+#EXTINF:0 tvg-id="9XTashan.in" group-title="India",9X Tashan IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10617
+#EXTINF:0 tvg-id="ext" group-title="India",NDTV 24x7 HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/4008
+#EXTINF:0 tvg-id="ext" group-title="India",ABP News IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3998
+#EXTINF:0 tvg-id="Asianet.in" group-title="India",Asianet IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5575
+#EXTINF:0 tvg-id="AsianetMovies.in" group-title="India",Asianet Movies IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5577
+#EXTINF:0 tvg-id="AsianetNews.in" group-title="India",Asianet News IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5578
+#EXTINF:0 tvg-id="AsianetPlus.in" group-title="India",Asianet Plus IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5576
+#EXTINF:0 tvg-id="ext" group-title="India",Anand IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10595
+#EXTINF:0 tvg-id="ext" group-title="India",Aaj Tak News IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/11294
+#EXTINF:0 tvg-id="ext" group-title="India",Aastha TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/11297
+#EXTINF:0 tvg-id="B4UMovies.in" group-title="India",B4U Movies IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672302
+#EXTINF:0 tvg-id="B4UMusic.in" group-title="India",B4U Music IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3993
+#EXTINF:0 tvg-id="ext" group-title="India",B4u+ IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672304
+#EXTINF:0 tvg-id="ext" group-title="India",B4u kadak IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672305
+#EXTINF:0 tvg-id="ext" group-title="India",ATN Bangla IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10610
+#EXTINF:0 tvg-id="ext" group-title="India",Banglavision IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10614
+#EXTINF:0 tvg-id="IBN7.in" group-title="India",News 18 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10620
+#EXTINF:0 tvg-id="ext" group-title="India",Movie Bangla IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10613
+#EXTINF:0 tvg-id="ext" group-title="India",Bollywood Movies IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/4007
+#EXTINF:0 tvg-id="ext" group-title="India",Chardikla Time TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5563
+#EXTINF:0 tvg-id="ext" group-title="India",Colors [UK] FHD VIP IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672308
+#EXTINF:0 tvg-id="Colors.in" group-title="India",Colors HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/651513
+#EXTINF:0 tvg-id="Colors.in" group-title="India",Colors  HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5579
+#EXTINF:0 tvg-id="ext" group-title="India",Desi Channel Punjabi IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/4005
+#EXTINF:0 tvg-id="ext" group-title="India",Deepto IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10624
+#EXTINF:0 tvg-id="DhoomMusic.in" group-title="India",Dhoom Music IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10599
+#EXTINF:0 tvg-id="ext" group-title="India",India Today IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5561
+#EXTINF:0 tvg-id="IndiaTV.in" group-title="India",India TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5562
+#EXTINF:0 tvg-id="ext" group-title="India",Independent TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10600
+#EXTINF:0 tvg-id="ext" group-title="India",Jaya Max USA IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5582
+#EXTINF:0 tvg-id="JayaMovie.in" group-title="India",Jaya Movies IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5581
+#EXTINF:0 tvg-id="JayaPlus.in" group-title="India",Jaya Plus IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5580
+#EXTINF:0 tvg-id="ext" group-title="India",Jamuna TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10601
+#EXTINF:0 tvg-id="JayaTv.in" group-title="India",Jaya TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5583
+#EXTINF:0 tvg-id="KtvHD.in" group-title="India",KTV HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5560
+#EXTINF:0 tvg-id="ext" group-title="India",Living Foodz IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10612
+#EXTINF:0 tvg-id="ext" group-title="India",MTV India IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5556
+#EXTINF:0 tvg-id="MtunesHD.in" group-title="India",M Tunes IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5584
+#EXTINF:0 tvg-id="MaaGold.in" group-title="India",Maa Gold IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5586
+#EXTINF:0 tvg-id="MaaMovies.in" group-title="India",Maa Movies IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5585
+#EXTINF:0 tvg-id="MoviesOK.in" group-title="India",Movies OK IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5558
+#EXTINF:0 tvg-id="ext" group-title="India",MTV Beats IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5557
+#EXTINF:0 tvg-id="ext" group-title="India",Mohona TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10587
+#EXTINF:0 tvg-id="NewsX.in" group-title="India",News X IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10592
+#EXTINF:0 tvg-id="ext" group-title="India",NTV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10602
+#EXTINF:0 tvg-id="ext" group-title="India",NTV Europe IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10603
+#EXTINF:0 tvg-id="ext" group-title="India",NDTV 24x7 HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/19491
+#EXTINF:0 tvg-id="ext" group-title="India",NTV HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10589
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="India",PTC Chakde IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5553
+#EXTINF:0 tvg-id="ext" group-title="India",PTC News Punjabi IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5555
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Punjabi Gold IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5554
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="India",Raj Digital Plus IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5551
+#EXTINF:0 tvg-id="RajMusix.in" group-title="India",Raj Musix IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5550
+#EXTINF:0 tvg-id="RajNews24x7.in" group-title="India",Raj News 24x7 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5549
+#EXTINF:0 tvg-id="RajTv.in" group-title="India",Raj TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5552
+#EXTINF:0 tvg-id="ext" group-title="India",Rishtey Color IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/11295
+#EXTINF:0 tvg-id="ext" group-title="India",Rishtey Europe IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/11296
+#EXTINF:0 tvg-id="ext" group-title="India",RTV HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10626
+#EXTINF:0 tvg-id="ext" group-title="India",Santhora TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5564
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Saab FHD VIP IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672322
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Saab TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3987
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Sab (UK) IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672323
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Set Max FHD IN VIP
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672324
+#EXTINF:0 tvg-id="ext" group-title="India",Sony MIX HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3988
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="India",Sony Max IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3990
+#EXTINF:0 tvg-id="SonyMax2.in" group-title="India",Sony Max 2 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3989
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Max UK IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672321
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="India",Sony Pix HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10607
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="India",Sony Pix IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10606
+#EXTINF:0 tvg-id="ext" group-title="India",Sony [UK] HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10609
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="India",Sony Six HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3985
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="India",Sony HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5574
+#EXTINF:0 tvg-id="SonyEntertainmentTV.in" group-title="India",Sony TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3984
+#EXTINF:0 tvg-id="ext" group-title="India",Sony TV UK IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/13175
+#EXTINF:0 tvg-id="SonySix.in" group-title="India",Sony Six IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5548
+#EXTINF:0 tvg-id="TenSports.in" group-title="India",Sony Ten 1 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672325
+#EXTINF:0 tvg-id="TenAction.in" group-title="India",Sony Ten 2 HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672444
+#EXTINF:0 tvg-id="TenCricket.in" group-title="India",Sony Ten 3 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672445
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Waha FHD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672446
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Pal FHD VIP IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/676908
+#EXTINF:0 tvg-id="StarPlusHD.in" group-title="India",Star Plus HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672450
+#EXTINF:0 tvg-id="ext" group-title="India",Star Plus [UK] IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/13174
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India",Star Gold HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3983
+#EXTINF:0 tvg-id="StarJalsha.in" group-title="India",Star Jalsha IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3982
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="India",Star Movies HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3981
+#EXTINF:0 tvg-id="StarMovies.in" group-title="India",Star Movies IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672448
+#EXTINF:0 tvg-id="StarSports1.in" group-title="India",Star Sports 1 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3979
+#EXTINF:0 tvg-id="StarSports2.in" group-title="India",Star Sports 2 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/397844
+#EXTINF:0 tvg-id="StarSports3.in" group-title="India",Star Sports 3 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3977
+#EXTINF:0 tvg-id="LifeOk.in" group-title="India",Star Bharat IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5544
+#EXTINF:0 tvg-id="ext" group-title="India",Star Bharat (UK) IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672447
+#EXTINF:0 tvg-id="StarVijay.in" group-title="India",Star Vijay IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5545
+#EXTINF:0 tvg-id="SunMusic.in" group-title="India",Sun Music IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3975
+#EXTINF:0 tvg-id="SunTv.in" group-title="India",Sun TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3974
+#EXTINF:0 tvg-id="ext" group-title="India",Sun TV [US] IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3973
+#EXTINF:0 tvg-id="ext" group-title="India",Somoy News TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10605
+#EXTINF:0 tvg-id="ext" group-title="India",Ten 1 HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3972
+#EXTINF:0 tvg-id="ext" group-title="India",Ten 2 HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5589
+#EXTINF:0 tvg-id="ext" group-title="India",Ten 3 HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5590
+#EXTINF:0 tvg-id="TenSports.in" group-title="India",Ten Sports IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10608
+#EXTINF:0 tvg-id="ext" group-title="India",UTV Movies HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5542
+#EXTINF:0 tvg-id="ext" group-title="India",UTV Movies US IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10615
+#EXTINF:0 tvg-id="ext" group-title="India",UTV Bindas IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5541
+#EXTINF:0 tvg-id="ext" group-title="India",Willow IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10631
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",Zee Cinema FHD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/4002
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",Zee Cinema IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3967
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",Zee Cinema IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3968
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Cinema (USA) IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672452
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Cinema Inter IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/4001
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Action HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3971
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Anmol Cinema IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3970
+#EXTINF:0 tvg-id="ZeeTVHD.in" group-title="India",Zee TV HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672459
+#EXTINF:0 tvg-id="ZEETV.in" group-title="India",Zee TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/4000
+#EXTINF:0 tvg-id="ext" group-title="India",Zee TV US HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/20912
+#EXTINF:0 tvg-id="ext" group-title="India",Zee TV UK IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672458
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="India",Zee Bangla IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5592
+#EXTINF:0 tvg-id="ZeeBusiness.in" group-title="India",Zee Business IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5570
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Bollywood IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5565
+#EXTINF:0 tvg-id="ext" group-title="India",Zee ETC Bollywood IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5539
+#EXTINF:0 tvg-id="ZeeNews.in" group-title="India",Zee News IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672455
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Punjabi IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5571
+#EXTINF:0 tvg-id="ZeeTelugu.in" group-title="India",Zee Telugu IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5593
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Alwan IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10630
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Living HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672453
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE living (USA) IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672454
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Rajasthan HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672456
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Theatre HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672457
+#EXTINF:0 tvg-id="Zing.in" group-title="India",Zing IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5596
+#EXTINF:0 tvg-id="ext" group-title="India",Zing UK IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5595
+#EXTINF:0 tvg-id="Zoom.in" group-title="India",Zoom IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5538
+#EXTINF:0 tvg-id="ext" group-title="India",MTA 3 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/624945
+#EXTINF:0 tvg-id="ext" group-title="India",&TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672296
+#EXTINF:0 tvg-id="ext" group-title="India",1st India News HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672297
+#EXTINF:0 tvg-id="ext" group-title="India",9XM Musci IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672298
+#EXTINF:0 tvg-id="ext" group-title="India",Aastha TV [UK] IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672299
+#EXTINF:0 tvg-id="AnimalPlanet.in" group-title="India",Animal Planet IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672301
+#EXTINF:0 tvg-id="ext" group-title="India",CNBC TV 18 IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672306
+#EXTINF:0 tvg-id="DDNational.in" group-title="India",DD National IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672310
+#EXTINF:0 tvg-id="EPIC.in" group-title="India",Epic HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672313
+#EXTINF:0 tvg-id="ext" group-title="India",Food Food HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672314
+#EXTINF:0 tvg-id="ext" group-title="India",Nazrana Music HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672317
+#EXTINF:0 tvg-id="ext" group-title="India",NDTV News HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672318
+#EXTINF:0 tvg-id="NDTVProfit.in" group-title="India",NDTV Profit IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672319
+#EXTINF:0 tvg-id="ext" group-title="India",POP Music HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672320
+#EXTINF:0 tvg-id="TLC.in" group-title="India",TLC IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/672451
+#EXTINF:0 tvg-id="ext" group-title="India",Vision Punjab TV FHD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/676906
+#EXTINF:0 tvg-id="FILMY.in" group-title="India",Sahara Filmy IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/676909
+#EXTINF:0 tvg-id="ext" group-title="India",Sanskar TV IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690413
+#EXTINF:0 tvg-id="ext" group-title="India",Zee 24 Kalak IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690415
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Gujarati SD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690416
+#EXTINF:0 tvg-id="ext" group-title="India",DD Girnar IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690417
+#EXTINF:0 tvg-id="ext" group-title="India",Sandesh News FHD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690418
+#EXTINF:0 tvg-id="ext" group-title="India",ABP Asmita FHD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690419
+#EXTINF:0 tvg-id="ext" group-title="India",Kalupur Mandir HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690420
+#EXTINF:0 tvg-id="CNBCBajar.in" group-title="India",CNBC Bajar IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690421
+#EXTINF:0 tvg-id="ext" group-title="India",GS TV HD IN
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/690422
+#EXTINF:0 tvg-id="ext" group-title="India",IN:  Star Sports 1 4k
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17763
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="India",IN:  Star Sports 1 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12191
+#EXTINF:0 tvg-id="ext" group-title="India",IN:  Star Sports 1 4k Hindi
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/20241
+#EXTINF:0 tvg-id="StarSportsHindiHD1.in" group-title="India",IN:  Star Sports 1 HD Hindi
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12189
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="India",IN:  Star Sports 2 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12190
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="India",IN:  Star Sports 2 HD.
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17762
+#EXTINF:0 tvg-id="ext" group-title="India",IN:   Star Sports tamil 1
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/30172
+#EXTINF:0 tvg-id="StarSports3.in" group-title="India",IN:  Star Sports 3
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12196
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="India",IN: Star Sports Select 1 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/32652
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="India",IN:  Star Sports Select 1 HD.
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12551
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="India",IN: Star Sports Select 2 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/32653
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="India",IN:  Star Sports Select 2 HD.
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/11955
+#EXTINF:0 tvg-id="TenHD.in" group-title="India",IN:  Sony Ten 1 FHD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12197
+#EXTINF:0 tvg-id="TenHD.in" group-title="India",IN:  Sony Ten 1 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17757
+#EXTINF:0 tvg-id="TenAction.in" group-title="India",IN:  Sony Ten 2 FHD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12198
+#EXTINF:0 tvg-id="TenAction.in" group-title="India",IN:  Sony Ten 2 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17758
+#EXTINF:0 tvg-id="TenCricket.in" group-title="India",IN:  Sony Ten 3 FHD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17759
+#EXTINF:0 tvg-id="TenCricket.in" group-title="India",IN:  Sony Ten 3 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12199
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="India",IN:  Sony Six FHD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12200
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="India",IN:  Sony Six HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17764
+#EXTINF:0 tvg-id="TenSports.in" group-title="India",IN:  Ten Sports
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12206
+#EXTINF:0 tvg-id="ext" group-title="India",IN:  D Sports
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12207
+#EXTINF:0 tvg-id="DDSports.in" group-title="India",IN:  DD Sports
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12209
+#EXTINF:0 tvg-id="ext" group-title="India",IN:  D Sports HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17756
+#EXTINF:0 tvg-id="ext" group-title="India",IN| 8 EXPLOR HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113836
+#EXTINF:0 tvg-id="ext" group-title="India",& PICTURES HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/114963
+#EXTINF:0 tvg-id="ext" group-title="India",IN| 1ST NEWS TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113838
+#EXTINF:0 tvg-id="ext" group-title="India",IN| ABZY COOL HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113837
+#EXTINF:0 tvg-id="StarWorldHD.in" group-title="India",IN| STAR WORLD HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113954
+#EXTINF:0 tvg-id="ext" group-title="India",IN| SONY SAB HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113839
+#EXTINF:0 tvg-id="ext" group-title="India",IN| 8X TV MUSIC HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113955
+#EXTINF:0 tvg-id="ext" group-title="India",IN| 9X TV MUSIC HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113956
+#EXTINF:0 tvg-id="ext" group-title="India",AAJ TAAK TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9948
+#EXTINF:0 tvg-id="ext" group-title="India",ABP NEWS TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9947
+#EXTINF:0 tvg-id="ext" group-title="India",AONE PUNJABI (PUNJABI)
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113191
+#EXTINF:0 tvg-id="AmritaTv.in" group-title="India",AMRITA TV
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113198
+#EXTINF:0 tvg-id="ext" group-title="India",ABP ASMITA TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/89048
+#EXTINF:0 tvg-id="ext" group-title="India",IN| B4U KADAK HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113200
+#EXTINF:0 tvg-id="ext" group-title="India",B4U MUSIC HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9942
+#EXTINF:0 tvg-id="ext" group-title="India",B4U Movies HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9943
+#EXTINF:0 tvg-id="ext" group-title="India",B4U PLUS HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/90462
+#EXTINF:0 tvg-id="ext" group-title="India",COLORS GUJRATI HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/89047
+#EXTINF:0 tvg-id="ext" group-title="India",COLORS GUJRATI 4K
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9939
+#EXTINF:0 tvg-id="Colors.in" group-title="India",COLORS TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9940
+#EXTINF:0 tvg-id="ext" group-title="India",DESI Channel HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/37612
+#EXTINF:0 tvg-id="ext" group-title="India",DD INDIA LIVE
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9875
+#EXTINF:0 tvg-id="DDSports.in" group-title="India",DD SPORTS
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113195
+#EXTINF:0 tvg-id="ext" group-title="India",IN| EPIC TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113208
+#EXTINF:0 tvg-id="ext" group-title="India",IN| GEMINI MOVIE HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113514
+#EXTINF:0 tvg-id="GeminiTv.in" group-title="India",GEMINI TV
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/90563
+#EXTINF:0 tvg-id="ext" group-title="India",MAA GOLD TELG
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/7659
+#EXTINF:0 tvg-id="ext" group-title="India",JANAM TV
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113197
+#EXTINF:0 tvg-id="ext" group-title="India",IN| JANTA TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113201
+#EXTINF:0 tvg-id="ext" group-title="India",Dangal
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/37613
+#EXTINF:0 tvg-id="ext" group-title="India",IN| KAPPA TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113206
+#EXTINF:0 tvg-id="ext" group-title="India",IN| KAIRALI HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113205
+#EXTINF:0 tvg-id="ext" group-title="India",IN| INDIA TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113224
+#EXTINF:0 tvg-id="WillowCricket.us" group-title="India",WILLOW CRICKET HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/43922
+#EXTINF:0 tvg-id="ext" group-title="India",IN| MASTII TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113221
+#EXTINF:0 tvg-id="ext" group-title="India",PITAARA Movie
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/481543
+#EXTINF:0 tvg-id="ext" group-title="India",MH1 MUSIC
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113188
+#EXTINF:0 tvg-id="ext" group-title="India",IN| TELUGU Gemini Comedy
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113513
+#EXTINF:0 tvg-id="ext" group-title="India",| MTV CLUB HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9876
+#EXTINF:0 tvg-id="ext" group-title="India",NDTV 24X7 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9918
+#EXTINF:0 tvg-id="ext" group-title="India",IN| REPUBLIC BHARAT HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113229
+#EXTINF:0 tvg-id="ext" group-title="India",PICTURE TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2043
+#EXTINF:0 tvg-id="ext" group-title="India",PTC NEWS TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9912
+#EXTINF:0 tvg-id="ext" group-title="India",PTC CHAKDE HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9913
+#EXTINF:0 tvg-id="ext" group-title="India",PTC PUNJABI GOLD HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9941
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Simran
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/91969
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India",Star GOLD HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/7665
+#EXTINF:0 tvg-id="ext" group-title="India",SONY TV 4K
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2036
+#EXTINF:0 tvg-id="ext" group-title="India",ASIAN| SONY MAX HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2039
+#EXTINF:0 tvg-id="set" group-title="India",SONY TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9899
+#EXTINF:0 tvg-id="ext" group-title="India",SONY SB TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9901
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="India",Star PLUS HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9896
+#EXTINF:0 tvg-id="ext" group-title="India",STAR SPORT 1 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2034
+#EXTINF:0 tvg-id="ext" group-title="India",STAR SPORT 2 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2033
+#EXTINF:0 tvg-id="StarSelect1.in" group-title="India",STAR SELECT 1 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/103463
+#EXTINF:0 tvg-id="StarSelect2.in" group-title="India",STAR SELECT 2 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/103462
+#EXTINF:0 tvg-id="ext" group-title="India",SURYA TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/26860
+#EXTINF:0 tvg-id="ext" group-title="India",TEN 1 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/103459
+#EXTINF:0 tvg-id="ext" group-title="India",TEN 2 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/103460
+#EXTINF:0 tvg-id="ext" group-title="India",TEN 3 HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/103461
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE ACTION HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2018
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE CLASSIC 4K
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2020
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE TV HD A
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2029
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE NEWS TV HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9867
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",ZEE CINEMA HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/2030
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE CLASSIC HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/9872
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE BOLLYWOOD HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113185
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE PUNJABI HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/32995
+#EXTINF:0 tvg-id="ext" group-title="India",IN| MH1 PRIME HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/113222
+#EXTINF:0 tvg-id="ext" group-title="India",IN| BFLIX MOVEIES HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/114062
+#EXTINF:0 tvg-id="ext" group-title="India",IN| 9X JALWA HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/114061
+#EXTINF:0 tvg-id="ext" group-title="India",IN| NTV PLUS HD
+http://re.cctvsecurelive.com:7742/EVPlslbETT/7TJZViTGNF/114058
+#EXTINF:0 tvg-id="ext" group-title="India",Utsav Plus  (Uk) 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/87480
+#EXTINF:0 tvg-id="ext" group-title="India",Utsav Plus  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/24537
+#EXTINF:0 tvg-id="ext" group-title="India",Utsav Plus  (Uk).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12235
+#EXTINF:0 tvg-id="ext" group-title="India",Star Plus 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12223
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="India",Star Plus HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17765
+#EXTINF:0 tvg-id="ext" group-title="India",Star Bharat  (Uk) HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/33256
+#EXTINF:0 tvg-id="ext" group-title="India",Star Bharat  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89307
+#EXTINF:0 tvg-id="ext" group-title="India",Star Bharat 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12237
+#EXTINF:0 tvg-id="LifeOk.in" group-title="India",Star Bharat HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17750
+#EXTINF:0 tvg-id="ext" group-title="India",Utsav Gold  (Uk) 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/25257
+#EXTINF:0 tvg-id="ext" group-title="India",Utsav Gold  (Uk) HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/40831
+#EXTINF:0 tvg-id="ext" group-title="India",Utsav Gold  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/28470
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India",Star Gold FHD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12226
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India",Star Gold HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17767
+#EXTINF:0 tvg-id="ext" group-title="India",Star Gold 2
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30174
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India",Star Gold Select HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17754
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India",Star Gold Select HD.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/34169
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="India",Star Movies HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12261
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India",Star Movies Select HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17748
+#EXTINF:0 tvg-id="ext" group-title="India",Movies Active HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/13727
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Cinema  (Uk) HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/58677
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Cinema  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12240
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Cinema 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12230
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",Zee Cinema HD.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17768
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Tv  (Uk) HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89294
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Tv  (Uk) SD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/19976
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Tv  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/99245
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Tv 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12228
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="India",Zee Tv HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17766
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Tv  (Uk) 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89351
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Tv  (Uk) HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/40125
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Tv  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12246
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Tv 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17771
+#EXTINF:0 tvg-id="set" group-title="India",Sony Tv HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12244
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Max  (Uk) 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/94443
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Max  (Uk) HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17769
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Max  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12250
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="India",Sony Max HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/21354
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="India",Sony Max HD.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12249
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Max 2  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89366
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title="India",Sony Max 2
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30173
+#EXTINF:0 tvg-id="SonyMix.uk" group-title="India",Sony Mix
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12252
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="India",Sony Pix HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17761
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="India",Sony Pix HD.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12253
+#EXTINF:0 tvg-id="ext" group-title="India",Colors  (Uk) 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/20648
+#EXTINF:0 tvg-id="ext" group-title="India",Colors  (Uk) 4k.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12255
+#EXTINF:0 tvg-id="ext" group-title="India",Colors  (Uk).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/40830
+#EXTINF:0 tvg-id="ext" group-title="India",Colors 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/21353
+#EXTINF:0 tvg-id="Colors.in" group-title="India",Colors HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17770
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Cineplex  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12165
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Cineplex HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17749
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Cineplex HD.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89292
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Rishtey  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12257
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Rishtey  (Uk).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/92599
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Rishtey
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/32034
+#EXTINF:0 tvg-id="StarWorldHD.in" group-title="India",Star World HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17747
+#EXTINF:0 tvg-id="ext" group-title="India",B4u Movies  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12219
+#EXTINF:0 tvg-id="ext" group-title="India",B4u Movies  (Uk).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/92668
+#EXTINF:0 tvg-id="B4UMovies.uk" group-title="India",B4u Movies
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12217
+#EXTINF:0 tvg-id="B4UMovies.uk" group-title="India",B4u Movies.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30179
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="India",B4u Music
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89349
+#EXTINF:0 tvg-id="ext" group-title="India",Sab Tv  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12259
+#EXTINF:0 tvg-id="ext" group-title="India",Sab Tv  (Uk).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/34576
+#EXTINF:0 tvg-id="SonySAB.in" group-title="India",Sab Tv HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/17755
+#EXTINF:0 tvg-id="SonySAB.in" group-title="India",Sab Tv HD.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12260
+#EXTINF:0 tvg-id="ext" group-title="India",BBO HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12269
+#EXTINF:0 tvg-id="ext" group-title="India",BBO HD Classic
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12270
+#EXTINF:0 tvg-id="ext" group-title="India",&Pictures 4k
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12273
+#EXTINF:0 tvg-id="Pictures.in" group-title="India",&Pictures HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12272
+#EXTINF:0 tvg-id="priveHD.in" group-title="India",&Prive HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12274
+#EXTINF:0 tvg-id="ext" group-title="India",&Flix HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/34168
+#EXTINF:0 tvg-id="ext" group-title="India",&TV  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12277
+#EXTINF:0 tvg-id="ext" group-title="India",&TV HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12276
+#EXTINF:0 tvg-id="ext" group-title="India",&TV SD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12275
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="India",Zee Action
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12243
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="India",Zee Action.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30177
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Anmol
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12242
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Anmol Cinema
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12241
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Anmol Cinema.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30178
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="India",Zee Bollywood
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12267
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Salaam
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/34167
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Etc
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89358
+#EXTINF:0 tvg-id="ext" group-title="India",Aastha  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12278
+#EXTINF:0 tvg-id="ext" group-title="India",9x Music
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12279
+#EXTINF:0 tvg-id="9XM.in" group-title="India",9xm
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/20595
+#EXTINF:0 tvg-id="Zing.uk" group-title="India",Zing
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12238
+#EXTINF:0 tvg-id="zoom" group-title="India",Zoom
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12263
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Gujarati HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/31998
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Gujarati
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/100795
+#EXTINF:0 tvg-id="ext" group-title="India",24/7 Family Time With Kapil Sharma
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/87456
+#EXTINF:0 tvg-id="ext" group-title="India",24/7 Family Time With Kapil Sharma
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/92478
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="India",Venus TV UK
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/106747
+#EXTINF:0 tvg-id="ext" group-title="India",NDTV 24x7 (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/32116
+#EXTINF:0 tvg-id="NDTV.uk" group-title="India",NDTV 24x7
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/106323
+#EXTINF:0 tvg-id="NDTV.uk" group-title="India",NDTV India
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/92121
+#EXTINF:0 tvg-id="ext" group-title="India",Aaj Tak HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12281
+#EXTINF:0 tvg-id="AAJTAK.uk" group-title="India",Aaj Tak SD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30175
+#EXTINF:0 tvg-id="ext" group-title="India",Aaj Tak  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/14987
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="India",Abp News
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12280
+#EXTINF:0 tvg-id="ext" group-title="India",Abp News HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30176
+#EXTINF:0 tvg-id="news24" group-title="India",News 24
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/97334
+#EXTINF:0 tvg-id="news24" group-title="India",News 24.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/14988
+#EXTINF:0 tvg-id="ext" group-title="India",DD India HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/92065
+#EXTINF:0 tvg-id="DDNews.in" group-title="India",DD News
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12287
+#EXTINF:0 tvg-id="ext" group-title="India",ET Now
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12288
+#EXTINF:0 tvg-id="ext" group-title="India",India Today
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12289
+#EXTINF:0 tvg-id="zee" group-title="India",India Tv.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/20593
+#EXTINF:0 tvg-id="PTCNews.in" group-title="India",PTC News
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/20591
+#EXTINF:0 tvg-id="PTCNews.in" group-title="India",PTC News.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12296
+#EXTINF:0 tvg-id="ext" group-title="India",TEZ News
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/14205
+#EXTINF:0 tvg-id="TimesNow.uk" group-title="India",Times Now
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12291
+#EXTINF:0 tvg-id="ext" group-title="India",Zee Mp Cg
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/34170
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="India",Zee News
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12283
+#EXTINF:0 tvg-id="ext" group-title="India",Zee punjab Haryana
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12295
+#EXTINF:0 tvg-id="ext" group-title="India",Zee punjab Haryana.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12294
+#EXTINF:0 tvg-id="ext" group-title="India",Abp Ananda
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12284
+#EXTINF:0 tvg-id="ext" group-title="India",TEZ News
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12286
+#EXTINF:0 tvg-id="ext" group-title="India",TV9  Gujarati
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/32121
+#EXTINF:0 tvg-id="ext" group-title="India",VTV News Gujarati
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/32120
+#EXTINF:0 tvg-id="MATVNational.uk" group-title="India",MATV National UK
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/106746
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Punjabi  (UK)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/32122
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Punjabi  (UK).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12310
+#EXTINF:0 tvg-id="PTCPUNJABI.uk" group-title="India",PTC Punjabi
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12298
+#EXTINF:0 tvg-id="PTCPUNJABI.uk" group-title="India",PTC Punjabi.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/20592
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="India",PTC Chakde
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12302
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="India",PTC Chakde.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/20590
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Gold
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12299
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Gold.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/39642
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Music
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/20646
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Simran
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12303
+#EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="India",Zee Punjabi
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12169
+#EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="India",Zee Punjabi.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/30180
+#EXTINF:0 tvg-id="ext" group-title="India",5aab Tv
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12321
+#EXTINF:0 tvg-id="9XTashan.in" group-title="India",9X Tashan
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12320
+#EXTINF:0 tvg-id="ext" group-title="India",A One Punjabi
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12319
+#EXTINF:0 tvg-id="AkaalChannel.uk" group-title="India",Akaal Channel
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12325
+#EXTINF:0 tvg-id="ext" group-title="India",Apna Punjab
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12330
+#EXTINF:0 tvg-id="ext" group-title="India",Hulchul TV
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12322
+#EXTINF:0 tvg-id="ext" group-title="India",Brit Asia  (UK)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89346
+#EXTINF:0 tvg-id="ext" group-title="India",Brit Asia  (UK).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12338
+#EXTINF:0 tvg-id="ext" group-title="India",Canada One
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12331
+#EXTINF:0 tvg-id="ext" group-title="India",Channel Y HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12334
+#EXTINF:0 tvg-id="ext" group-title="India",Chardikala Time Tv
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12346
+#EXTINF:0 tvg-id="ext" group-title="India",Vision Punjab TV
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12337
+#EXTINF:0 tvg-id="ext" group-title="India",DD Punjabi
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12345
+#EXTINF:0 tvg-id="ext" group-title="India",Desi Channel
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12324
+#EXTINF:0 tvg-id="ext" group-title="India",Desi Plus HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12323
+#EXTINF:0 tvg-id="ext" group-title="India",Balle Balle
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12313
+#EXTINF:0 tvg-id="ext" group-title="India",Garv Punjab
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12336
+#EXTINF:0 tvg-id="ext" group-title="India",Gaunda Punjab
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12312
+#EXTINF:0 tvg-id="ext" group-title="India",Vision Punjab Gurbani
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12335
+#EXTINF:0 tvg-id="ext" group-title="India",Gurbani TV HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12314
+#EXTINF:0 tvg-id="ext" group-title="India",Hamdard Laugther HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12340
+#EXTINF:0 tvg-id="ext" group-title="India",Vision Punjab Music
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12315
+#EXTINF:0 tvg-id="ext" group-title="India",Jhanjar Music
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12317
+#EXTINF:0 tvg-id="ext" group-title="India",Jus One
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12329
+#EXTINF:0 tvg-id="ext" group-title="India",JUS Punjabi HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/92994
+#EXTINF:0 tvg-id="KanshiTV.uk" group-title="India",Kanshi Tv
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/29771
+#EXTINF:0 tvg-id="ext" group-title="India",Life Punjabi
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12339
+#EXTINF:0 tvg-id="ext" group-title="India",PTC Dhol HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12301
+#EXTINF:0 tvg-id="ext" group-title="India",Pardesi Tv
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12307
+#EXTINF:0 tvg-id="ext" group-title="India",PBN Music
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12343
+#EXTINF:0 tvg-id="Pitaara.uk" group-title="India",Pitaara
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12327
+#EXTINF:0 tvg-id="Pitaara.uk" group-title="India",Pitaara.
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/94308
+#EXTINF:0 tvg-id="ext" group-title="India",Pitaara International
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/92077
+#EXTINF:0 tvg-id="ext" group-title="India",Prime Asia Tv
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12341
+#EXTINF:0 tvg-id="ext" group-title="India",Steelbird Music HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12305
+#EXTINF:0 tvg-id="ext" group-title="India",Punjabi Tv
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12306
+#EXTINF:0 tvg-id="ext" group-title="India",Shan Punjabi
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12318
+#EXTINF:0 tvg-id="ext" group-title="India",Sangat  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/96449
+#EXTINF:0 tvg-id="ext" group-title="India",Sangat  (Uk).
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/89374
+#EXTINF:0 tvg-id="ext" group-title="India",Sikh Channel (usa)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12332
+#EXTINF:0 tvg-id="ext" group-title="India",Sikh Channel  (Uk)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12316
+#EXTINF:0 tvg-id="ext" group-title="India",Khalsa TV (UK)
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/12344
+#EXTINF:0 tvg-id="ext" group-title="India",Punjabi National HD
+http://ztvuk.com:80/xxxxxx/R1yodfRNeg/100617
+
