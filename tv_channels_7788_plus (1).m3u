@@ -1,74 +1,51 @@
-#EXTM3U    x-tvg-url="http://botallen.live/epg.xml.gz" 
+#EXTM3U    
 
 #EXTINF:-1 group-title="Sneh All India",STAR SPORTS1 TAMIL
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India",Sun TV HD
 http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Nick India FHD
 http://212.224.98.196:2200/R-EX/FHD_NICK_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Music Active
 http://212.224.98.196:2200/R-EX/MUSIC_ACTIVE_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", GEMINI Music
 http://212.224.98.196:2200/R-EX/FHD_GEMINI_MUSIC_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", 7SMUSIC
 http://212.224.98.196:2200/R-EX/7SMUSIC_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", B4u Music 
 http://212.224.98.196:2200/EX/b4umusic-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", B4u Music
 http://212.224.98.196:2200/NL/b4umusic-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Music Active Masala
 http://212.224.98.196:2200/R-EX/MUSIC_ACTIVE_MASALA_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Euro Sports
 http://212.224.98.196:2200/R-EX/EURO_SPORTS_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Sony Six FHD
 http://212.224.98.196:2200/R-EX/FHD_SONY_SIXX_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Star Sports 2 FHD
 http://212.224.98.196:2200/R-EX/FHD_STAR_SPORTS_2_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Sports Sony Six HD
 http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Hindi Star Sports 1 FHD
 http://212.224.98.196:2200/R-EX/FHD_HINDI_STAR_SPORTS_1_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India",Star Sports 1 FHD
 http://212.224.98.196:2200/R-EX/FHD_STAR_SPORTS_1_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Ten 1 HD
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Sony Ten 1 FHD
 http://212.224.98.196:2200/R-EX/FHD_SONY_TEN_1_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Ten 3 HD
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Ten 2 HD
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Star Sports First
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Star Sports Select 2 HD
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Star Sports 3
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Star Sports Select 1 HD
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
-
 #EXTINF:-1 group-title="Sneh All India", Star Sports 1 English HD
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=snehtv  
 
