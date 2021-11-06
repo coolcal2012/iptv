@@ -176,36 +176,36 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla
-#http://babutv.aliflailabd.com:8989/discovery/index.m3u8
-#http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
-#http://5giptv.me:8880/34516317/55678974/325128
+http://babutv.aliflailabd.com:8989/discovery/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
+http://5giptv.me:8880/34516317/55678974/325128
 https://last.gcdn.co/IND415/index.m3u8
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Hindi
-#https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 http://rv.flysat.live:80/ams/ams123/83666
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Engliah HD
-#https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
 http://172.17.50.112/live/antbd1008/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
-#http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
-#https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://rv.flysat.live:80/ams/ams123/83645
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD Bangla
-#http://rv.flysat.live:80/ams/ams123/83731
+http://rv.flysat.live:80/ams/ams123/83731
 https://last.gcdn.co/IND414/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
-#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
 http://rv.flysat.live:80/ams/ams123/83646
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
-#http://jo123.biz/jweb/m3u8.php?c=Travel_XP_HD&q=800&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Travel_XP_HD&q=800&e=junk.m3u8
 http://nicefly.xyz:80/h21041003/651032140/246233
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel Tv HD
 https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w1084546598_b2128000_slbul.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
-#http://103.159.4.38:5868/ENTEMENT-2/tracks-v1/mono.m3u8
+http://103.159.4.38:5868/ENTEMENT-2/tracks-v1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
