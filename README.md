@@ -16,7 +16,5 @@ https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Discovery", Discovery hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Discovery", Enter 10 Bangla
-http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Discovery", investigation Discovery
 http://idvd.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
