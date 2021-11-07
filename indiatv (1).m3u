@@ -99,10 +99,6 @@ https://last.gcdn.co/IND453/index.m3u8
 https://localiptv.tk/Local_IPTV_PLAYLIST/GAZI_TV_LIVE.m3u8
 #EXTINF:-1 tvg-chno="2408" group-title="Kolkata bangla last.gcdn",Sonic
 http://indtv.me:80/jiotv/Sonic_Bangla.m3u8
-#EXTINF:-1 tvg-chno="2430" group-title="ZEE5 LIVE",Colors bangla cinema
-#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.me/server1/tatasky/ch_896.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://tataskytv.indtv.me/server1/tatasky/ch_896.mpd
 #EXTINF:-1 tvg-name="IN:VIP HBO" tvg-chno="2434" group-title="English channel",MNX HD
 https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692822
 #EXTINF:-1 tvg-chno="2437" group-title="ICC T20 LIVE",Willow cricket HD
@@ -113,14 +109,23 @@ http://nwbz1u.ecm.tm:80/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1
 https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692908
 #EXTINF:-1 tvg-chno="3424" group-title="ICC T20 LIVE", T SPORTS
 http://103.70.140.27:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-chno="4356" group-title="ICC T20 LIVE",Astro cricket HD
-http://nwbz1u.ecm.tm:80/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
-#EXTINF:-1 tvg-chno="4443" group-title="ICC T20 LIVE",Sky sports cricket HD
-http://nwbz1u.ecm.tm:80/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/2021/11/01/19/18/18-06360.ts?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
-#EXTINF:-1 tvg-chno="5234" group-title="ICC T20 LIVE",Ptv sports
-http://nwbz1u.ecm.tm:80/806B6CF/143120e/SM_SD-PAK-PTVSPORTS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf44aab235aaeda29727049e407f35355117c54e7f65e1f1fb0d9c6753efce9651450c35a066eea31ac9e27fe0e85a5fe910206961cf0ccaebfa9ef9fd9b6958e96e5e2a13d616c920ecb2f5197777ffc3189e3d9e5
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" tvg-chno="6335" group-title="SonyLIV FHD-India Only",Star movies select hd
-http://185.83.69.194:8080/xSeh23Bxrt/oliSJSm1w8/585906?play_token=DfcBhe7wAO&token=SBNbWEZdQA0VBwJdAgUBXlNRAQhRBFQCVlQHAlVRDlIKCAAIVlRUD1QXHRtEEEMDVglnWVAXW1NeUA8FAk0bE0BUQWZcUUANFQEGCQNQE0oVEFFdURdbV1BWBAANUg9TAx0RSVxRQA0VBgQBAFwTShUBQERRRw8HCjpSUEIIWgMRC11MWVlOFVhbbl1SCVAIU0YCEgQXTUQPFkYXDkN7D11QQUAVYg1FW1ETFRUGWBJFBUxVFg9DVVJdBhcYQ1oJRl9HS0wXWBV+exMVFQFJElIKS1lbW0NcRBFFFxhDUBVsQ1ZKQUcHVlpQQxsNRgFEG0ZVUUxqAgkIC1NWQAhWCEATCRsEF04VWlpfUEMLQzlHDVwSDhdUVVBQFEg=
+#EXTINF:-1 group-title="ICC T20 LIVE", T Sports
+http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ICC T20 LIVE", Star Sports 1 HD
+http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8
+#EXTINF:-1 group-title="ICC T20 LIVE",Star Sports 1 HD Hindi
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:-1 group-title="ICC T20 LIVE", Star Sports 1 HD Tamil
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1 group-title="ICC T20 LIVE", Star Sports 2 HD
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8
+#EXTINF:-1 group-title="ICC T20 LIVE", Star Sports Select 1 HD
+http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
+#EXTINF:-1 group-title="ICC T20 LIVE", Star Sports Select 2 HD
+http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
+#EXTINF:-1 group-title="ICC T20 LIVE", Super Sports SSC
+http://212.224.98.209:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+
 #EXTINF:-1 tvg-chno="6346" group-title="ICC T20 LIVE",Star sports 1 HD HINDI
 https://localiptv.tk/Local_IPTV_PLAYLIST/STAR_SPORTS_1_HINDI_LIVE.m3u8
 #EXTINF:-1 tvg-chno="6588" group-title="English channel",Star world HD
