@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,BTV
+#EXTINF:-1 group-title="Bangladeshi",BTV
 http://visioncable2020.com:25461/Kamrul99/1234590/2132
-#EXTINF:-1,BTV World HD
+#EXTINF:-1 group-title="Bangladeshi",BTV World HD
 http://visioncable2020.com:25461/Kamrul99/1234590/561
-#EXTINF:-1,DBC NEWS
+#EXTINF:-1 group-title="Bangladeshi",DBC NEWS
 http://visioncable2020.com:25461/Kamrul99/1234590/535
 #EXTINF:-1,Somoy News
 http://visioncable2020.com:25461/Kamrul99/1234590/2483
@@ -47,7 +47,7 @@ http://visioncable2020.com:25461/Kamrul99/1234590/532
 http://visioncable2020.com:25461/Kamrul99/1234590/537
 #EXTINF:-1,Ekushey TV
 http://visioncable2020.com:25461/Kamrul99/1234590/539
-#EXTINF:-1,Gazi TV
+#EXTINF:-1 group-title="Bangladeshi",Gazi TV
 http://visioncable2020.com:25461/Kamrul99/1234590/525
 #EXTINF:-1,NTV
 http://visioncable2020.com:25461/Kamrul99/1234590/540
@@ -89,41 +89,41 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2830
 http://visioncable2020.com:25461/Kamrul99/1234590/2816
 #EXTINF:-1,NCN ( New York )
 http://visioncable2020.com:25461/Kamrul99/1234590/2801
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Bangladeshi",Sony Aath
 http://visioncable2020.com:25461/Kamrul99/1234590/566
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1 group-title="Bangladeshi",Star Jalsha
 http://visioncable2020.com:25461/Kamrul99/1234590/898
-#EXTINF:-1,Star Jalsha 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Jalsha 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/899
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="Bangladeshi",Zee Bangla
 http://visioncable2020.com:25461/Kamrul99/1234590/974
-#EXTINF:-1,Zee Bangla 4K
+#EXTINF:-1 group-title="Bangladeshi",Zee Bangla 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/975
-#EXTINF:-1,Sun Bangla
+#EXTINF:-1 group-title="Bangladeshi",Sun Bangla
 http://visioncable2020.com:25461/Kamrul99/1234590/2581
-#EXTINF:-1,SUN Bangla HD
+#EXTINF:-1 group-title="Bangladeshi",SUN Bangla HD
 http://visioncable2020.com:25461/Kamrul99/1234590/1012
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 group-title="Bangladeshi",Colors Bangla
 http://visioncable2020.com:25461/Kamrul99/1234590/1148
-#EXTINF:-1,Colors Bangla 4K 
+#EXTINF:-1 group-title="Bangladeshi",Colors Bangla 4K 
 http://visioncable2020.com:25461/Kamrul99/1234590/976
-#EXTINF:-1,Akash Aath
+#EXTINF:-1 group-title="Bangladeshi",Akash Aath
 http://visioncable2020.com:25461/Kamrul99/1234590/1522
-#EXTINF:-1,Jalsha Movies
+#EXTINF:-1 group-title="Bangladeshi",Jalsha Movies
 http://visioncable2020.com:25461/Kamrul99/1234590/570
-#EXTINF:-1,Jalsha Movies 4K
+#EXTINF:-1 group-title="Bangladeshi",Jalsha Movies 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/962
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="Bangladeshi",Zee Bangla Cinema
 http://visioncable2020.com:25461/Kamrul99/1234590/1150
-#EXTINF:-1,Zee Bangla Cinema HD
+#EXTINF:-1 group-title="Bangladeshi",Zee Bangla Cinema HD
 http://visioncable2020.com:25461/Kamrul99/1234590/573
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="Bangladeshi",Sangeet Bangla
 http://visioncable2020.com:25461/Kamrul99/1234590/571
-#EXTINF:-1,Ruposhi Bangla
+#EXTINF:-1 group-title="Bangladeshi",Ruposhi Bangla
 http://visioncable2020.com:25461/Kamrul99/1234590/567
-#EXTINF:-1,News 18
+#EXTINF:-1 group-title="Bangladeshi",News 18
 http://visioncable2020.com:25461/Kamrul99/1234590/1442
-#EXTINF:-1,ABP Ananda
+#EXTINF:-1 group-title="Bangladeshi",ABP Ananda
 http://visioncable2020.com:25461/Kamrul99/1234590/1426
 #EXTINF:-1,SONY TV 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/950
