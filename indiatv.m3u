@@ -1,5 +1,4 @@
 #EXTM3U
-?c=0-9-133
 #EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Cinemalu
 https://sneh-zee5tv-1.up.railway.app?c=0-9-zeecinemalu
 #EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",9XM
