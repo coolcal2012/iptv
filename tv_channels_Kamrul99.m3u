@@ -33,7 +33,7 @@ http://visioncable2020.com:25461/Kamrul99/1234590/536
 http://visioncable2020.com:25461/Kamrul99/1234590/1882
 #EXTINF:-1,Channel I 
 http://visioncable2020.com:25461/Kamrul99/1234590/534
-#EXTINF:-1,Channel 9
+#EXTINF:-1 group-title="Bangladeshi",Channel 9
 http://visioncable2020.com:25461/Kamrul99/1234590/533
 #EXTINF:-1,Asian TV
 http://visioncable2020.com:25461/Kamrul99/1234590/527
@@ -125,141 +125,141 @@ http://visioncable2020.com:25461/Kamrul99/1234590/567
 http://visioncable2020.com:25461/Kamrul99/1234590/1442
 #EXTINF:-1 group-title="Bangladeshi",ABP Ananda
 http://visioncable2020.com:25461/Kamrul99/1234590/1426
-#EXTINF:-1,SONY TV 4K
+#EXTINF:-1 group-title="Bangladeshi",SONY TV 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/950
-#EXTINF:-1,Sony TV HD
+#EXTINF:-1 group-title="Bangladeshi",Sony TV HD
 http://visioncable2020.com:25461/Kamrul99/1234590/1139
-#EXTINF:-1,Sony USA
+#EXTINF:-1 group-title="Bangladeshi",Sony USA
 http://visioncable2020.com:25461/Kamrul99/1234590/2659
-#EXTINF:-1,Star Plus
+#EXTINF:-1 group-title="Bangladeshi",Star Plus
 http://visioncable2020.com:25461/Kamrul99/1234590/1144
-#EXTINF:-1,Star Plus 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Plus 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/591
-#EXTINF:-1,Star Bharat 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Bharat 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/593
-#EXTINF:-1,Colors
+#EXTINF:-1 group-title="Bangladeshi",Colors
 http://visioncable2020.com:25461/Kamrul99/1234590/1143
-#EXTINF:-1,Colors 4K
+#EXTINF:-1 group-title="Bangladeshi",Colors 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/605
-#EXTINF:-1,Aapka Colors HD
+#EXTINF:-1 group-title="Bangladeshi",Aapka Colors HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2661
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Bangladeshi",Zee TV
 http://visioncable2020.com:25461/Kamrul99/1234590/1448
-#EXTINF:-1,Zee TV 4K
+#EXTINF:-1 group-title="Bangladeshi",Zee TV 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/603
-#EXTINF:-1,Zee TV HD USA
+#EXTINF:-1 group-title="Bangladeshi",Zee TV HD USA
 http://visioncable2020.com:25461/Kamrul99/1234590/1145
-#EXTINF:-1,Sony SAB 4K
+#EXTINF:-1 group-title="Bangladeshi",Sony SAB 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/582
-#EXTINF:-1,& TV 4K
+#EXTINF:-1 group-title="Bangladeshi",& TV 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/988
-#EXTINF:-1,Sony Max 4K
+#EXTINF:-1 group-title="Bangladeshi",Sony Max 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/585
-#EXTINF:-1,Zee Cinema 4K
+#EXTINF:-1 group-title="Bangladeshi",Zee Cinema 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/598
-#EXTINF:-1,Colors Cineplex 4K
+#EXTINF:-1 group-title="Bangladeshi",Colors Cineplex 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/1050
-#EXTINF:-1,& Pictures HD
+#EXTINF:-1 group-title="Bangladeshi",& Pictures HD
 http://visioncable2020.com:25461/Kamrul99/1234590/701
-#EXTINF:-1,& Xplor 4K
+#EXTINF:-1 group-title="Bangladeshi",& Xplor 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/702
-#EXTINF:-1,Star Gold HD
+#EXTINF:-1 group-title="Bangladeshi",Star Gold HD
 http://visioncable2020.com:25461/Kamrul99/1234590/604
-#EXTINF:-1,Star Gold Select 4K
+#EXTINF:-1 ,Star Gold Select 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/706
-#EXTINF:-1,Mini Plex HD
+#EXTINF:-1 group-title="Bangladeshi",Mini Plex HD
 http://visioncable2020.com:25461/Kamrul99/1234590/709
-#EXTINF:-1,Sony Max 2
+#EXTINF:-1 group-title="Bangladeshi",Sony Max 2
 http://visioncable2020.com:25461/Kamrul99/1234590/705
-#EXTINF:-1,MBC Bollywood
+#EXTINF:-1 group-title="Bangladeshi",MBC Bollywood
 http://visioncable2020.com:25461/Kamrul99/1234590/2456
-#EXTINF:-1,ZEE Anmol Cinema 
+#EXTINF:-1 group-title="Bangladeshi",ZEE Anmol Cinema 
 http://visioncable2020.com:25461/Kamrul99/1234590/613
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 group-title="Bangladeshi",Zee Bollywood
 http://visioncable2020.com:25461/Kamrul99/1234590/606
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Bangladeshi",Zee Action
 http://visioncable2020.com:25461/Kamrul99/1234590/584
-#EXTINF:-1,Zee Classic
+#EXTINF:-1 group-title="Bangladeshi",Zee Classic
 http://visioncable2020.com:25461/Kamrul99/1234590/586
-#EXTINF:-1,UTV Action
+#EXTINF:-1 group-title="Bangladeshi",UTV Action
 http://visioncable2020.com:25461/Kamrul99/1234590/588
-#EXTINF:-1,B4U Plus
+#EXTINF:-1 group-title="Bangladeshi",B4U Plus
 http://visioncable2020.com:25461/Kamrul99/1234590/1020
-#EXTINF:-1,MTV India
+#EXTINF:-1 group-title="Bangladeshi",MTV India
 http://visioncable2020.com:25461/Kamrul99/1234590/710
-#EXTINF:-1,MTV Beats HD
+#EXTINF:-1 group-title="Bangladeshi",MTV Beats HD
 http://visioncable2020.com:25461/Kamrul99/1234590/1338
-#EXTINF:-1,B4U Music
+#EXTINF:-1 group-title="Bangladeshi",B4U Music
 http://visioncable2020.com:25461/Kamrul99/1234590/595
-#EXTINF:-1,9XM
+#EXTINF:-1 group-title="Bangladeshi",9XM
 http://visioncable2020.com:25461/Kamrul99/1234590/681
-#EXTINF:-1,Mastiii
+#EXTINF:-1 group-title="Bangladeshi",Mastiii
 http://visioncable2020.com:25461/Kamrul99/1234590/602
-#EXTINF:-1,Zee Anmol
+#EXTINF:-1 group-title="Bangladeshi",Zee Anmol
 http://visioncable2020.com:25461/Kamrul99/1234590/612
-#EXTINF:-1,SONY PAL
+#EXTINF:-1 group-title="Bangladeshi",SONY PAL
 http://visioncable2020.com:25461/Kamrul99/1234590/2633
-#EXTINF:-1,Aaj Tak
+#EXTINF:-1 group-title="Bangladeshi",Aaj Tak
 http://visioncable2020.com:25461/Kamrul99/1234590/609
-#EXTINF:-1,Zee Smile
+#EXTINF:-1 group-title="Bangladeshi",Zee Smile
 http://visioncable2020.com:25461/Kamrul99/1234590/2466
-#EXTINF:-1,NDTV 24x7 
+#EXTINF:-1 group-title="Bangladeshi",NDTV 24x7 
 http://visioncable2020.com:25461/Kamrul99/1234590/607
-#EXTINF:-1,T Sports HD
+#EXTINF:-1 group-title="Bangladeshi",T Sports HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2431
-#EXTINF:-1,T Sports BD HD
+#EXTINF:-1 group-title="Bangladeshi",T Sports BD HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2628
-#EXTINF:-1,Sony Six HD
+#EXTINF:-1 group-title="Bangladeshi",Sony Six HD
 http://visioncable2020.com:25461/Kamrul99/1234590/614
-#EXTINF:-1,Sony Ten 1 4K
+#EXTINF:-1 group-title="Bangladeshi",Sony Ten 1 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/2651
-#EXTINF:-1,Sony Ten 2 4K
+#EXTINF:-1 group-title="Bangladeshi",Sony Ten 2 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/2434
-#EXTINF:-1,Sony Ten 3 4K
+#EXTINF:-1 group-title="Bangladeshi",Sony Ten 3 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/2836
-#EXTINF:-1,Sony Ten 3 HD
+#EXTINF:-1 group-title="Bangladeshi",Sony Ten 3 HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2856
-#EXTINF:-1,Star Sports 1 HD
+#EXTINF:-1 group-title="Bangladeshi",Star Sports 1 HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2865
-#EXTINF:-1,Star Sports 1 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Sports 1 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/668
-#EXTINF:-1,Star Sports 2 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Sports 2 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/650
-#EXTINF:-1,Star Sports Select 1 HD
+#EXTINF:-1 group-title="Bangladeshi",Star Sports Select 1 HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2855
-#EXTINF:-1,Star Sports Select 1 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Sports Select 1 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/651
-#EXTINF:-1,Star Sports Select 2 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Sports Select 2 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/719
-#EXTINF:-1,Ten Sports
+#EXTINF:-1 group-title="Bangladeshi",Ten Sports
 http://visioncable2020.com:25461/Kamrul99/1234590/2866
-#EXTINF:-1,Ten Sports HD
+#EXTINF:-1 group-title="Bangladeshi",Ten Sports HD
 http://visioncable2020.com:25461/Kamrul99/1234590/720
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="Bangladeshi",PTV Sports
 http://visioncable2020.com:25461/Kamrul99/1234590/1162
-#EXTINF:-1,Willow Cricket HD
+#EXTINF:-1 group-title="Bangladeshi",Willow Cricket HD
 http://visioncable2020.com:25461/Kamrul99/1234590/411
-#EXTINF:-1,WWE Network
+#EXTINF:-1 group-title="Bangladeshi",WWE Network
 http://visioncable2020.com:25461/Kamrul99/1234590/408
-#EXTINF:-1,Bein Sports 1
+#EXTINF:-1 group-title="Bangladeshi",Bein Sports 1
 http://visioncable2020.com:25461/Kamrul99/1234590/2369
-#EXTINF:-1,Bein Sports 2 HD
+#EXTINF:-1 group-title="Bangladeshi",Bein Sports 2 HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2370
-#EXTINF:-1,BT Sport 1 HD UK
+#EXTINF:-1 group-title="Bangladeshi",BT Sport 1 HD UK
 http://visioncable2020.com:25461/Kamrul99/1234590/2376
-#EXTINF:-1,FOX Sports 1 HD
+#EXTINF:-1 group-title="Bangladeshi",FOX Sports 1 HD
 http://visioncable2020.com:25461/Kamrul99/1234590/1405
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="Bangladeshi",Fox Sports 2
 http://visioncable2020.com:25461/Kamrul99/1234590/2371
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="Bangladeshi",ESPN
 http://visioncable2020.com:25461/Kamrul99/1234590/406
-#EXTINF:-1,SKY Sports Football
+#EXTINF:-1 group-title="Bangladeshi",SKY Sports Football
 http://visioncable2020.com:25461/Kamrul99/1234590/1164
-#EXTINF:-1,Test Sports 1
+#EXTINF:-1 group-title="Bangladeshi",Test Sports 1
 http://visioncable2020.com:25461/Kamrul99/1234590/2526
-#EXTINF:-1,Test Sports 2
+#EXTINF:-1 group-title="Bangladeshi",Test Sports 2
 http://visioncable2020.com:25461/Kamrul99/1234590/2527
-#EXTINF:-1,Test Sports 3
+#EXTINF:-1 group-title="Bangladeshi",Test Sports 3
 http://visioncable2020.com:25461/Kamrul99/1234590/2835
 #EXTINF:-1,Test Sports 4
 http://visioncable2020.com:25461/Kamrul99/1234590/2529
@@ -269,17 +269,17 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2530
 http://visioncable2020.com:25461/Kamrul99/1234590/414
 #EXTINF:-1,Tennis Channel
 http://visioncable2020.com:25461/Kamrul99/1234590/422
-#EXTINF:-1,Star Movies 4K
+#EXTINF:-1 group-title="Bangladeshi",Star Movies 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/707
-#EXTINF:-1,Sony Pix HD
+#EXTINF:-1 group-title="Bangladeshi",Sony Pix HD
 http://visioncable2020.com:25461/Kamrul99/1234590/715
-#EXTINF:-1,& FLIX HD
+#EXTINF:-1 group-title="Bangladeshi",& FLIX HD
 http://visioncable2020.com:25461/Kamrul99/1234590/703
-#EXTINF:-1,& Prive HD
+#EXTINF:-1 group-title="Bangladeshi",& Prive HD
 http://visioncable2020.com:25461/Kamrul99/1234590/2449
-#EXTINF:-1,HBO Asia
+#EXTINF:-1 group-title="Bangladeshi",HBO Asia
 http://visioncable2020.com:25461/Kamrul99/1234590/2439
-#EXTINF:-1,Fox Movies
+#EXTINF:-1 group-title="Bangladeshi",Fox Movies
 http://visioncable2020.com:25461/Kamrul99/1234590/2450
 #EXTINF:-1,MBC2
 http://visioncable2020.com:25461/Kamrul99/1234590/2444
@@ -323,45 +323,45 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2462
 http://visioncable2020.com:25461/Kamrul99/1234590/2740
 #EXTINF:-1,IFC
 http://visioncable2020.com:25461/Kamrul99/1234590/2743
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="Bangladeshi",AXN
 http://visioncable2020.com:25461/Kamrul99/1234590/2453
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 group-title="Bangladeshi",Animal Planet HD
 http://visioncable2020.com:25461/Kamrul99/1234590/387
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="Bangladeshi",National Geographic
 http://visioncable2020.com:25461/Kamrul99/1234590/393
-#EXTINF:-1,Nat Geo Wild (Hindi)
+#EXTINF:-1 group-title="Bangladeshi",Nat Geo Wild (Hindi)
 http://visioncable2020.com:25461/Kamrul99/1234590/691
-#EXTINF:-1,Sony BBC Earth 4K
+#EXTINF:-1 group-title="Bangladeshi",Sony BBC Earth 4K
 http://visioncable2020.com:25461/Kamrul99/1234590/714
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="Bangladeshi",Discovery Channel
 http://visioncable2020.com:25461/Kamrul99/1234590/2196
-#EXTINF:-1,Travel XP India
+#EXTINF:-1 group-title="Bangladeshi",Travel XP India
 http://visioncable2020.com:25461/Kamrul99/1234590/2656
-#EXTINF:-1,Animal Planet India
+#EXTINF:-1 group-title="Bangladeshi",Animal Planet India
 http://visioncable2020.com:25461/Kamrul99/1234590/2630
-#EXTINF:-1,Sony BBC Earth ( Hindi ) 
+#EXTINF:-1 group-title="Bangladeshi",Sony BBC Earth ( Hindi ) 
 http://visioncable2020.com:25461/Kamrul99/1234590/2604
-#EXTINF:-1,Discovery Channel ( Hindi )
+#EXTINF:-1 group-title="Bangladeshi",Discovery Channel ( Hindi )
 http://visioncable2020.com:25461/Kamrul99/1234590/2603
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 group-title="Bangladeshi",Nat Geo Wild
 http://visioncable2020.com:25461/Kamrul99/1234590/2594
-#EXTINF:-1,Warner
+#EXTINF:-1 group-title="Bangladeshi",Warner
 http://visioncable2020.com:25461/Kamrul99/1234590/2517
 #EXTINF:-1,Love Nature
 http://visioncable2020.com:25461/Kamrul99/1234590/2469
 #EXTINF:-1,Outdoor Channel
 http://visioncable2020.com:25461/Kamrul99/1234590/2468
-#EXTINF:-1,Travel TV
+#EXTINF:-1 group-title="Bangladeshi",Travel TV
 http://visioncable2020.com:25461/Kamrul99/1234590/2467
-#EXTINF:-1,NatGeo People
+#EXTINF:-1 group-title="Bangladeshi",NatGeo People
 http://visioncable2020.com:25461/Kamrul99/1234590/2464
-#EXTINF:-1,Animal Planet ( Hindi )
+#EXTINF:-1 group-title="Bangladeshi",Animal Planet ( Hindi )
 http://visioncable2020.com:25461/Kamrul99/1234590/2458
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="Bangladeshi",Discovery Science
 http://visioncable2020.com:25461/Kamrul99/1234590/2455
-#EXTINF:-1,Discovery India
+#EXTINF:-1 group-title="Bangladeshi",Discovery India
 http://visioncable2020.com:25461/Kamrul99/1234590/2451
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Bangladeshi",TLC HD
 http://visioncable2020.com:25461/Kamrul99/1234590/384
 #EXTINF:-1,Makkah Live
 http://visioncable2020.com:25461/Kamrul99/1234590/2198
@@ -391,17 +391,17 @@ http://visioncable2020.com:25461/Kamrul99/1234590/366
 http://visioncable2020.com:25461/Kamrul99/1234590/367
 #EXTINF:-1,Ahlulbayt TV
 http://visioncable2020.com:25461/Kamrul99/1234590/362
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="Bangladeshi",Cartoon Network
 http://visioncable2020.com:25461/Kamrul99/1234590/382
-#EXTINF:-1,Nicktoons
+#EXTINF:-1 group-title="Bangladeshi",Nicktoons
 http://visioncable2020.com:25461/Kamrul99/1234590/383
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1 group-title="Bangladeshi",Nickelodeon HD
 http://visioncable2020.com:25461/Kamrul99/1234590/388
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 group-title="Bangladeshi",Disney Jr
 http://visioncable2020.com:25461/Kamrul99/1234590/391
-#EXTINF:-1,History
+#EXTINF:-1 group-title="Bangladeshi",History
 http://visioncable2020.com:25461/Kamrul99/1234590/394
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="Bangladeshi",MTV HD
 http://visioncable2020.com:25461/Kamrul99/1234590/396
 #EXTINF:-1,MTV 90's
 http://visioncable2020.com:25461/Kamrul99/1234590/399
@@ -439,17 +439,17 @@ http://visioncable2020.com:25461/Kamrul99/1234590/938
 http://visioncable2020.com:25461/Kamrul99/1234590/972
 #EXTINF:-1,GEO Kahani
 http://visioncable2020.com:25461/Kamrul99/1234590/984
-#EXTINF:-1,MTA World
+#EXTINF:-1 group-title="Bangladeshi",MTA World
 http://visioncable2020.com:25461/Kamrul99/1234590/1001
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 group-title="Bangladeshi",MTV Hits
 http://visioncable2020.com:25461/Kamrul99/1234590/1017
-#EXTINF:-1,Disney XD HD
+#EXTINF:-1 group-title="Bangladeshi",Disney XD HD
 http://visioncable2020.com:25461/Kamrul99/1234590/1018
 #EXTINF:-1,Abbtakk News
 http://visioncable2020.com:25461/Kamrul99/1234590/1019
-#EXTINF:-1,Disney Jr HD
+#EXTINF:-1 group-title="Bangladeshi",Disney Jr HD
 http://visioncable2020.com:25461/Kamrul99/1234590/1028
-#EXTINF:-1,NICK Jr
+#EXTINF:-1 group-title="Bangladeshi",NICK Jr
 http://visioncable2020.com:25461/Kamrul99/1234590/1055
 #EXTINF:-1,Express Entertainment 
 http://visioncable2020.com:25461/Kamrul99/1234590/1056
@@ -483,7 +483,7 @@ http://visioncable2020.com:25461/Kamrul99/1234590/1094
 http://visioncable2020.com:25461/Kamrul99/1234590/1099
 #EXTINF:-1,HGTV
 http://visioncable2020.com:25461/Kamrul99/1234590/1106
-#EXTINF:-1,VH1
+#EXTINF:-1 group-title="Bangladeshi",VH1
 http://visioncable2020.com:25461/Kamrul99/1234590/1110
 #EXTINF:-1,CBSN ( New York )
 http://visioncable2020.com:25461/Kamrul99/1234590/1446
@@ -511,7 +511,7 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2287
 http://visioncable2020.com:25461/Kamrul99/1234590/2677
 #EXTINF:-1,CGTN
 http://visioncable2020.com:25461/Kamrul99/1234590/2672
-#EXTINF:-1,Discovery Kids (India)
+#EXTINF:-1 group-title="Bangladeshi",Discovery Kids (India)
 http://visioncable2020.com:25461/Kamrul99/1234590/2665
 #EXTINF:-1,HUM Masala
 http://visioncable2020.com:25461/Kamrul99/1234590/2655
@@ -519,15 +519,15 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2655
 http://visioncable2020.com:25461/Kamrul99/1234590/2639
 #EXTINF:-1,Horror ch+1
 http://visioncable2020.com:25461/Kamrul99/1234590/2637
-#EXTINF:-1,TLC HD ( Hindi )
+#EXTINF:-1 group-title="Bangladeshi",TLC HD ( Hindi )
 http://visioncable2020.com:25461/Kamrul99/1234590/2631
-#EXTINF:-1,Vh1 Europe
+#EXTINF:-1 group-title="Bangladeshi",Vh1 Europe
 http://visioncable2020.com:25461/Kamrul99/1234590/2627
 #EXTINF:-1,MTV Block Party
 http://visioncable2020.com:25461/Kamrul99/1234590/2602
 #EXTINF:-1,MTV Biggest Pop
 http://visioncable2020.com:25461/Kamrul99/1234590/2601
-#EXTINF:-1,M TV
+#EXTINF:-1 group-title="Bangladeshi",M TV
 http://visioncable2020.com:25461/Kamrul99/1234590/2600
 #EXTINF:-1,A&E Network
 http://visioncable2020.com:25461/Kamrul99/1234590/2598
@@ -535,11 +535,11 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2598
 http://visioncable2020.com:25461/Kamrul99/1234590/2597
 #EXTINF:-1,NASA TV
 http://visioncable2020.com:25461/Kamrul99/1234590/2596
-#EXTINF:-1,DESTINATION AMERICA
+#EXTINF:-1 group-title="Bangladeshi",DESTINATION AMERICA
 http://visioncable2020.com:25461/Kamrul99/1234590/2595
-#EXTINF:-1,Sony Yay ( Hindi )
+#EXTINF:-1 group-title="Bangladeshi",Sony Yay ( Hindi )
 http://visioncable2020.com:25461/Kamrul99/1234590/2537
-#EXTINF:-1,Discovery Kids India
+#EXTINF:-1 group-title="Bangladeshi",Discovery Kids India
 http://visioncable2020.com:25461/Kamrul99/1234590/2536
 #EXTINF:-1,CMC TV
 http://visioncable2020.com:25461/Kamrul99/1234590/2519
@@ -557,9 +557,9 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2459
 http://visioncable2020.com:25461/Kamrul99/1234590/2452
 #EXTINF:-1,Retro TV
 http://visioncable2020.com:25461/Kamrul99/1234590/2442
-#EXTINF:-1,Mtv Live
+#EXTINF:-1 group-title="Bangladeshi",Mtv Live
 http://visioncable2020.com:25461/Kamrul99/1234590/2441
-#EXTINF:-1,History 18
+#EXTINF:-1 group-title="Bangladeshi",History 18
 http://visioncable2020.com:25461/Kamrul99/1234590/2440
 #EXTINF:-1,TV One
 http://visioncable2020.com:25461/Kamrul99/1234590/2438
@@ -579,11 +579,11 @@ http://visioncable2020.com:25461/Kamrul99/1234590/440
 http://visioncable2020.com:25461/Kamrul99/1234590/1006
 #EXTINF:-1,Madina Live
 http://visioncable2020.com:25461/Kamrul99/1234590/2197
-#EXTINF:-1,Wow!! kids US
+#EXTINF:-1 group-title="Bangladeshi",Wow!! kids US
 http://visioncable2020.com:25461/Kamrul99/1234590/2731
-#EXTINF:-1,Apna Channel
+#EXTINF:-1 group-title="Bangladeshi",Apna Channel
 http://visioncable2020.com:25461/Kamrul99/1234590/985
-#EXTINF:-1,Nick India
+#EXTINF:-1 group-title="Bangladeshi",Nick India
 http://visioncable2020.com:25461/Kamrul99/1234590/2634
-#EXTINF:-1,Nat Geo Wild India
+#EXTINF:-1 group-title="Bangladeshi",Nat Geo Wild India
 http://visioncable2020.com:25461/Kamrul99/1234590/2768
