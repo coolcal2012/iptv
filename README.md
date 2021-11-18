@@ -69,111 +69,111 @@ https://236s.short.gy/DreamTV/Bijoy.m3u8
 https://236s.short.gy/DreamTV/Gaan.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg", Duronto
 https://236s.short.gy/DreamTV/Duranta.m3u8																			***** Bangla IPTV ****															**Indian Bangla**
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangladeshi",Star Jalsha
 https://236s.short.gy/DreamTV/ChSJ.m3u8
-#EXTINF:0 tvg-logo="https://mpng.subpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="Indian Bangla",Jalsha Movies HD
+#EXTINF:0 tvg-logo="https://mpng.subpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="Bangladeshi",Jalsha Movies HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",Zee Bangla HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Bangladeshi",Zee Bangla HD
 https://236s.short.gy/Dreamtv/ZeeBnHD.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla",Zee Bangla Cinema
+#EXTINF:0 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangladeshi",Zee Bangla Cinema
 https://236s.short.gy/DreamTV/ZCnmBn.m3u8
-#EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" group-title="Indian Bangla",Colors Bangla HD
+#EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" group-title="Bangladeshi",Colors Bangla HD
 http://suncable.serveftp.com/ColorsBangla-ENC/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla",Sun Bangla
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Bangladeshi",Sun Bangla
 https://236s.short.gy/DreamTV/SunBN.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/DD_Bangla_Logo.jpg" group-title="Indian Bangla",DD Bangla
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/DD_Bangla_Logo.jpg" group-title="Bangladeshi",DD Bangla
 https://236s.short.gy/DreamTV/DDBN.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="Indian Bangla",Sangeet Bangla
+#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="Bangladeshi",Sangeet Bangla
 https://236s.short.gy/DreamTV/SangeetBn.m3u8																				                                                       ** Hindi **
-#EXTINF:0 tvg-logo="https://i.imgur.com/2PxMp6d.png" group-title="Hindi",Sony HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/2PxMp6d.png" group-title="Bangladeshi",Sony HD
 https://236s.short.gy/DreamTV/SonYTV.m3u8
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
+#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Bangladeshi",Sony Max HD
 https://236s.short.gy/DreamTV/SonyMaX.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Bangladeshi",Zee Cinema HD
 https://236s.short.gy/Dreamtv/ZcinemaHD.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="Hindi",STAR Gold HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="Bangladeshi",STAR Gold HD
 https://236s.short.gy/DreamTV/GoldHD.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/O8OM5Eq.jpg" group-title="Hindi",UTV Action
+#EXTINF:0 tvg-logo="https://i.imgur.com/O8OM5Eq.jpg" group-title="Bangladeshi",UTV Action
 https://236s.short.gy/DreamTV/UTV.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",And Pictures HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Bangladeshi",And Pictures HD
 https://236s.short.gy/Dreamtv/andpics.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",And TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Bangladeshi",And TV
 https://236s.short.gy/DreamTV/&Tv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Hindi",Zing
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Bangladeshi",Zing
 https://236s.short.gy/DreamTV/ZinG.m3u8
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Hindi",Colors Cineplex HD
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Bangladeshi",Colors Cineplex HD
 https://236s.short.gy/DreamTV/cineplex.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Bangladeshi",Zee TV
 https://236s.short.gy/DreamTV/Zee.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee Tv HD
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Bangladeshi",Zee Tv HD
 https://236s.short.gy/DreamTV/ZeeHD.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi",Colors HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Bangladeshi",Colors HD
 https://236s.short.gy/DreamTV/ColorsHd.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sab_TV.png" group-title="Hindi",Sony SAB
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sab_TV.png" group-title="Bangladeshi",Sony SAB
 https://236s.short.gy/DreamTV/Sab.m3u8
-#EXTINF:-0 tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg" group-title="Hindi",& Xplore HD
+#EXTINF:-0 tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg" group-title="Bangladeshi",& Xplore HD
 https://236s.short.gy/DreamTV/&xploreHd.m3u8
-#EXTINF:-1tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8045.QIndiaTV.in/1x1/1x/test_pic1588323963553.jpg" group-title="Hindi",The Q India
+#EXTINF:-1tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8045.QIndiaTV.in/1x1/1x/test_pic1588323963553.jpg" group-title="Bangladeshi",The Q India
 https://236s.short.gy/DreamTV/Theq.m3u8
-#EXTINF:-0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-207/channel_web/09207e24.png" group-title="Hindi",E24
+#EXTINF:-0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-207/channel_web/09207e24.png" group-title="Bangladeshi",E24
 https://236s.short.gy/DreamTV/e24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5LnfFQP.jpg" group-title="Hindi",DD Retro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LnfFQP.jpg" group-title="Bangladeshi",DD Retro
 https://236s.short.gy/DreamTV/retro.m3u8																																															                                                      **English Movie**
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="English Movie",HBO
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="Bangladeshi",HBO
 https://236s.short.gy/DreamTV/HbO.m3u8
-#EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="English Movie",& Flix HD
+#EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="Bangladeshi",& Flix HD
 https://236s.short.gy/DreamTV/&FlixHD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movie",& Prive HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Bangladeshi",& Prive HD
 https://236s.short.gy/DreamTV/&PriveHD.m3u8																			                                                                         **Music**
-#EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM
+#EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Bangladeshi",9XM
 https://236s.short.gy/DreamTV/9XM.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",9X Jalwaa
+#EXTINF:0 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Bangladeshi",9X Jalwaa
 https://236s.short.gy/DreamTV/9XJalwa.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/MTV_HD%2B.jpg" group-title="Music",MTV HD+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/MTV_HD%2B.jpg" group-title="Bangladeshi",MTV HD+
 https://236s.short.gy/DreamTV/MtvHD.m3u8                                                                             ** Documentery 
-#EXTINF:0 tvg-logo="https://i.imgur.com/SEvBqtE.jpg" group-title="Documentery",Animal Planet
+#EXTINF:0 tvg-logo="https://i.imgur.com/SEvBqtE.jpg" group-title="Bangladeshi",Animal Planet
 https://236s.short.gy/DreamTV/animalPlnt.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Bangla
+#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Bangladeshi",Discovery Bangla
 https://236s.short.gy/DreamTV/DisBangla.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/jXZCYvK.jpg" group-title="Documentery",Discovery Hindi
+#EXTINF:0 tvg-logo="https://i.imgur.com/jXZCYvK.jpg" group-title="Bangladeshi",Discovery Hindi
 https://236s.short.gy/DreamTV/DisHindi.m3u8
-#EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
+#EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Bangladeshi",Discovery Turbo
 https://236s.short.gy/DreamTV/DisTurbo.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gIbwrgN.png" group-title="Documentery",Discovery Science Hindi
+#EXTINF:0 tvg-logo="https://i.imgur.com/gIbwrgN.png" group-title="Bangladeshi",Discovery Science Hindi
 https://236s.short.gy/DreamTV/DisScience.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KftxgdM.jpg" group-title="Documentery",Nat Geo Wild
+#EXTINF:0 tvg-logo="https://i.imgur.com/KftxgdM.jpg" group-title="Bangladeshi",Nat Geo Wild
 https://236s.short.gy/DreamTV/wild.m3u8
-#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentery",National Geographic
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Bangladeshi",National Geographic
 https://236s.short.gy/DreamTV/natgeo.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Documentery",Travel XP
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Bangladeshi",Travel XP
 https://236s.short.gy/DreamTV/travelXp.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentery",TLC HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Bangladeshi",TLC HD
 https://236s.short.gy/DreamTV/Tlc.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/132px-Sony_Yay_Logo.jpg" group-title="Kids",Sony YAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/132px-Sony_Yay_Logo.jpg" group-title="Bangladeshi",Sony YAY
 https://236s.short.gy/DreamTV/YaY.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201808/discovery_kids.jpg" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201808/discovery_kids.jpg" group-title="Bangladeshi",Discovery Kids
 https://236s.short.gy/DreamTV/Kids.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rhl8UOA.jpg" tvg-name="Nick"  group-title="Kids",Nick Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rhl8UOA.jpg" tvg-name="Nick"  group-title="Bangladeshi",Nick Bangla
 https://236s.short.gy/DreamTV/nick.m3u8
-#EXTINF:-1 tvg-logo="https://images.pngnice.com/download/2007/Sonic-The-Hedgehog-Logo-PNG-File.png" group-title="Kids", Sonic Bangla
+#EXTINF:-1 tvg-logo="https://images.pngnice.com/download/2007/Sonic-The-Hedgehog-Logo-PNG-File.png" group-title="Bangladeshi", Sonic Bangla
 https://236s.short.gy/DreamTV/sOnicBn.m3u8
-#EXTINF:-1 tvg-logo="https://artandgraft.com/assets/images/project-images/HD_POGO_logo.jpg" group-title="Kids", PoGo Hindi
+#EXTINF:-1 tvg-logo="https://artandgraft.com/assets/images/project-images/HD_POGO_logo.jpg" group-title="Bangladeshi", PoGo Hindi
 https://236s.short.gy/DreamTV/pOgOhin.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/04/17/Catoon_Network_HD%2B.jpg" group-title="Kids",CN HD+
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/04/17/Catoon_Network_HD%2B.jpg" group-title="Bangladeshi",CN HD+
 https://236s.short.gy/DreamTV/CnHd+.m3u8														****UCL/La Liga***                                                           																																																												**Sports
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Bangladeshi",Sony Ten 1 HD
 https://236s.short.gy/DreamTV/TeN1HD.m3u8
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Sports",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Bangladeshi",Sony Ten 2 HD
 https://236s.short.gy/DreamTV/TeN2HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Bangladeshi",Sony Six HD
 https://236s.short.gy/DreamTV/SonYSix.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Bangladeshi",Star Sports 1 HD
 https://236s.short.gy/DreamTV/ChSP1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJhMpeC.jpg" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJhMpeC.jpg" group-title="Bangladeshi",Star Sports 2 HD
 https://236s.short.gy/DreamTV/ChSP2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7m8LXs0.jpg" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7m8LXs0.jpg" group-title="Bangladeshi",Star Sports Select 2 HD
 https://236s.short.gy/DreamTV/Select2.m3u8
-#EXTINF:0 tvg-name="PTV Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports HD
+#EXTINF:0 tvg-name="PTV Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Bangladeshi",PTV Sports HD
 https://236s.short.gy/DreamTV/PTV.m3u8
 
 
