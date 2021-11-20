@@ -310,915 +310,915 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscXu1MCjBuuMvO4pjeW9WRM/m3u8
 #EXTINF:-1,IN-GUJ | TS COLORS TV
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUeRjyx0orVzBfj_1p9S-3A/m3u8
 #EXTINF:-1,IN | TS POGO HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd5y6cTfmaPAFi24lYemmqk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd5y6cTfmaPAFi24lYemmqk/m3u8
 #EXTINF:-1,IN-GUJ | TS VTV NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsehv7873PnPsnSP5uLAoSRw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsehv7873PnPsnSP5uLAoSRw/m3u8
 #EXTINF:-1,IN-GUJ | TS TV9 BHARATVARSH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQmk16jyG8Mf9BShGgnbaXA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQmk16jyG8Mf9BShGgnbaXA/m3u8
 #EXTINF:-1,IN-PUNJ | TS INDIA NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaeDbWq69-Q4T-jaU1X9FT8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaeDbWq69-Q4T-jaU1X9FT8/m3u8
 #EXTINF:-1,IN-PUNJ | TS MH1 SHRADDHA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQC6kclUJ-BZFZmi0IhS1eY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQC6kclUJ-BZFZmi0IhS1eY/m3u8
 #EXTINF:-1,IN-PUNJ | TS MH1 PRIME NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaeW7RkYSQK48uRvugU-GZ4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaeW7RkYSQK48uRvugU-GZ4/m3u8
 #EXTINF:-1,IN-TG | TS HINDU DHARMAM
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfEIsXA5HwOYsdWsJxR7Hhs/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfEIsXA5HwOYsdWsJxR7Hhs/m3u8
 #EXTINF:-1,IN-TG | TS V6 NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWrUlghNCWgZsmMe076KuoM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWrUlghNCWgZsmMe076KuoM/m3u8
 #EXTINF:-1,IN-TG | TS TV9 TELUGU
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWnfymngTaiIfCQTUF3TBoE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWnfymngTaiIfCQTUF3TBoE/m3u8
 #EXTINF:-1,IN-TG | TS SAKSHI TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseGAGdjWLf0GrKjYlo_qj0E/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseGAGdjWLf0GrKjYlo_qj0E/m3u8
 #EXTINF:-1,IN-TG | TS RAJ NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZLvpKex4sdNt_1oQWYFQ2M/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZLvpKex4sdNt_1oQWYFQ2M/m3u8
 #EXTINF:-1,IN-TG | TS RAJ MUSIC
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsczzi7KcTeZXPkI_oPQgzpM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsczzi7KcTeZXPkI_oPQgzpM/m3u8
 #EXTINF:-1,IN-TG | TS STAR MAA MOVIES HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseOkPq0TaELyR8tdGDCSS8Q/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseOkPq0TaELyR8tdGDCSS8Q/m3u8
 #EXTINF:-1,IN-TG | TS STAR MAA GOLD HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX-2eaMLAgp_ligUOUXpjG4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX-2eaMLAgp_ligUOUXpjG4/m3u8
 #EXTINF:-1,IN-TG | TS GEMINI TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV7SXvnB83FCLd-DHufTPh0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV7SXvnB83FCLd-DHufTPh0/m3u8
 #EXTINF:-1,IN-TG | TS GEMINI MOVIES FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY2HJiCLu3IVPnghGgkCCm8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY2HJiCLu3IVPnghGgkCCm8/m3u8
 #EXTINF:-1,IN-TG | TS ETV TELANGANA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVp3a2o6Lxy2NvqmpIojaKA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVp3a2o6Lxy2NvqmpIojaKA/m3u8
 #EXTINF:-1,IN-TG | TS ETV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTj8bYb4JXuaK1DShD0R2HM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTj8bYb4JXuaK1DShD0R2HM/m3u8
 #EXTINF:-1,IN-TG | TS ETV PLUS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXkIvH-hZ2hvHHM4YuBRgN0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXkIvH-hZ2hvHHM4YuBRgN0/m3u8
 #EXTINF:-1,IN-TG | TS ETV LIFE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQF4dMrKVhuyYVt1_zf1I0o/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQF4dMrKVhuyYVt1_zf1I0o/m3u8
 #EXTINF:-1,IN-TG | TS ETV CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd_JAPb2doR2Waor4ViHVbI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd_JAPb2doR2Waor4ViHVbI/m3u8
 #EXTINF:-1,IN-TG | TS ETV ANDHRA PRADESH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWkkRf2fBsKQcC0flSP5iy0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWkkRf2fBsKQcC0flSP5iy0/m3u8
 #EXTINF:-1,IN-TG | TS ETV ABHIRUCHI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf2_pSV0DigTg3UvtLl5GaY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf2_pSV0DigTg3UvtLl5GaY/m3u8
 #EXTINF:-1,IN-MY | TS RAJ NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY9mqw7pYUDQk2_Fxj1sYD8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY9mqw7pYUDQk2_Fxj1sYD8/m3u8
 #EXTINF:-1,IN-MY | TS MATHRUBHUMI NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscMe0s11FNYpAcRuHv4fqq4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscMe0s11FNYpAcRuHv4fqq4/m3u8
 #EXTINF:-1,IN-MY | TS KAPPA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf5OnXCVQitltmmSkVt_FOo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf5OnXCVQitltmmSkVt_FOo/m3u8
 #EXTINF:-1,IN-MY | TS RAJ MUSIX
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQkKIhzdKarnJOQzgQIwtek/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQkKIhzdKarnJOQzgQIwtek/m3u8
 #EXTINF:-1,IN-MY | TS ASIANET PLUS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscOIX1UdIOcgRhqOtPsOThY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscOIX1UdIOcgRhqOtPsOThY/m3u8
 #EXTINF:-1,IN-MY | TS FLOWER TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaV_u2m65AR5oBhh1__NkCU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaV_u2m65AR5oBhh1__NkCU/m3u8
 #EXTINF:-1,IN-MY | TS ASIANET MOVIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWJLWi_Q-KDJnUvi6yTZwrs/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWJLWi_Q-KDJnUvi6yTZwrs/m3u8
 #EXTINF:-1,IN-KN | TS UDAYA TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR5aLgvWc0-ntlD37v7EkLI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR5aLgvWc0-ntlD37v7EkLI/m3u8
 #EXTINF:-1,IN-KN | TS RAJ NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ5HaHmpBS6yNNxQLEgbZf4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ5HaHmpBS6yNNxQLEgbZf4/m3u8
 #EXTINF:-1,IN-KN | TS RAJ MUSIC
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaLpyBNLoGdGmgQgrpQu9HE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaLpyBNLoGdGmgQgrpQu9HE/m3u8
 #EXTINF:-1,IN-TM | TS JAYA TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUdmygdA4C_5JTLLCcGwS5A/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUdmygdA4C_5JTLLCcGwS5A/m3u8
 #EXTINF:-1,IN-TM | TS POLIMER NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbSJ1hXCO0_bVOC-ITTAksM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbSJ1hXCO0_bVOC-ITTAksM/m3u8
 #EXTINF:-1,IN | TS EK ONKAR DEVOTIONAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbe3oS5z0YOP8zW-6a7GwdA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbe3oS5z0YOP8zW-6a7GwdA/m3u8
 #EXTINF:-1,IN | TS SANSKAR TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscFJt9eTJHkLV7aSjsYXu8w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscFJt9eTJHkLV7aSjsYXu8w/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS 18 INDIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaIStbwh2HGVldWlxx9_zwI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaIStbwh2HGVldWlxx9_zwI/m3u8
 #EXTINF:-1,IN-GUJ | TS NEWS 18 HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSiDShVZ7C1-y_NQaKZFrz0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSiDShVZ7C1-y_NQaKZFrz0/m3u8
 #EXTINF:-1,NPL | TS NEPALI 1 TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseoBo6x44X2CzcAe71B6Gu0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseoBo6x44X2CzcAe71B6Gu0/m3u8
 #EXTINF:-1,IN-NEWS | TS NDTV INDIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsabHUvUIlA14AKwrL1ldGLo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsabHUvUIlA14AKwrL1ldGLo/m3u8
 #EXTINF:-1,IN | TS NICK HD+ ENG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUOXs5iZSspXV44O-U-e4_I/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUOXs5iZSspXV44O-U-e4_I/m3u8
 #EXTINF:-1,IN-NEWS | TS CNN NEWS 18
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSXj48DvHaegh8dZkGsepq4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSXj48DvHaegh8dZkGsepq4/m3u8
 #EXTINF:-1,IN-NEWS | TS CNN NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTvCeDTtIGgbn3eF2-m7S4g/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTvCeDTtIGgbn3eF2-m7S4g/m3u8
 #EXTINF:-1,IN-NEWS | TS NDTV 24x7
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTnq5fkl0y2kEDQBWgwBFQ0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTnq5fkl0y2kEDQBWgwBFQ0/m3u8
 #EXTINF:-1,IN-NEWS | TS NDTV PROFIT PRIME
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRWxEegBFGLGy_xyLSe0CWg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRWxEegBFGLGy_xyLSe0CWg/m3u8
 #EXTINF:-1,IN-NEWS | TS GOOD TIMES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRxauaFFDk9qexvNPJ5BENw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRxauaFFDk9qexvNPJ5BENw/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS X
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZWjv4m0wd3RKKPLHtINULo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZWjv4m0wd3RKKPLHtINULo/m3u8
 #EXTINF:-1,IN-NEWS | TS TIMES NOW WORLD FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXQ-LKhtcg6S68dwyt_4okA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXQ-LKhtcg6S68dwyt_4okA/m3u8
 #EXTINF:-1,IN-NEWS | TS GULISTAN NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbGupvG2kCWYc8jNjyEI3oM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbGupvG2kCWYc8jNjyEI3oM/m3u8
 #EXTINF:-1,IN-NEWS | TS ABP NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR04tEXhjgvvzDBG5VX5TSY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR04tEXhjgvvzDBG5VX5TSY/m3u8
 #EXTINF:-1,IN | TS MTV BEATS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYlflQLASzMfEM7yb6i2Bqg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYlflQLASzMfEM7yb6i2Bqg/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQhk-kVqDZdZxn4i9pWXdmg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQhk-kVqDZdZxn4i9pWXdmg/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS 24
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUpjtokBYBFlIqovzny0cPc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUpjtokBYBFlIqovzny0cPc/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS NATION
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscy3KQFWQ1_Oktufb2HYCyk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscy3KQFWQ1_Oktufb2HYCyk/m3u8
 #EXTINF:-1,IN-NEWS | TS TEZ NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRctaQpVqyRIWt68md1RbHo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRctaQpVqyRIWt68md1RbHo/m3u8
 #EXTINF:-1,IN | TS TATA SKY FITNESS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT2TSrGpHzox7kfDmjuPH94/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT2TSrGpHzox7kfDmjuPH94/m3u8
 #EXTINF:-1,IN | TS CARTOON NETWORK HD+
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbTfOxb7eRXTcX9a_QvibjY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbTfOxb7eRXTcX9a_QvibjY/m3u8
 #EXTINF:-1,IN | TS SONY MAX 2
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ7cvaSw60eCeXqQVtVLgck/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ7cvaSw60eCeXqQVtVLgck/m3u8
 #EXTINF:-1,IN | TS FOOD FOOD HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjWos_z21zcuC-yVUkm0tU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjWos_z21zcuC-yVUkm0tU/m3u8
 #EXTINF:-1,IN | TS NICK SONIC
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd1gLCULvu9Hw8bKQAoEIPY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd1gLCULvu9Hw8bKQAoEIPY/m3u8
 #EXTINF:-1,IN | TS AASTHA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZQJPPfTxUDvBZbwH84dHBE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZQJPPfTxUDvBZbwH84dHBE/m3u8
 #EXTINF:-1,IN | TS AASTHA BHAJAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXDoMDok7RGHGB1zAidkkfg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXDoMDok7RGHGB1zAidkkfg/m3u8
 #EXTINF:-1,IN | TS ZOOM
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVGIz-sONV16M6FT6jRLWZU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVGIz-sONV16M6FT6jRLWZU/m3u8
 #EXTINF:-1,IN | TS ZEE ACTION
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZPbdYCcF1UW2n3T5iufPCc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZPbdYCcF1UW2n3T5iufPCc/m3u8
 #EXTINF:-1,IN | TS ZEE BOLLYWOOD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU8_GOl8dwAY3ptIbqrKLQY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU8_GOl8dwAY3ptIbqrKLQY/m3u8
 #EXTINF:-1,IN | TS TATA SKY COOKING
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYOIrBpj5e6To3XJqZTAGRw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYOIrBpj5e6To3XJqZTAGRw/m3u8
 #EXTINF:-1,IN | TS TATA SKY FUN LEARN JUNIOR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTi9SYBVPLhez6lTlpVIWUo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTi9SYBVPLhez6lTlpVIWUo/m3u8
 #EXTINF:-1,IN | TS MNX FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsccYSLq_OFEfmVCuxfbPFtM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsccYSLq_OFEfmVCuxfbPFtM/m3u8
 #EXTINF:-1,IN | TS B-FLIX MOVIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQAk3EVLuf5bLTDxqtUCzlU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQAk3EVLuf5bLTDxqtUCzlU/m3u8
 #EXTINF:-1,IN-TM | TS RAJ TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQJep-docHwStK7XdD5fKo0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQJep-docHwStK7XdD5fKo0/m3u8
 #EXTINF:-1,IN-KN | TS PUBLIC TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX19VyoeoluVLzd9YX5ZfbA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX19VyoeoluVLzd9YX5ZfbA/m3u8
 #EXTINF:-1,IN | TS SONY WAH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZOEo7WpbV7NDsTNxlgkOP8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZOEo7WpbV7NDsTNxlgkOP8/m3u8
 #EXTINF:-1,IN | TS & TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaShsZmiSseubMa7MIF5-eU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaShsZmiSseubMa7MIF5-eU/m3u8
 #EXTINF:-1,IN | TS MTV FHD+
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX9-AOIJFogBoVa0Ko3mQQ4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX9-AOIJFogBoVa0Ko3mQQ4/m3u8
 #EXTINF:-1,IN | TS ETV CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX-bnjmyvlWhP7ydei7ebpo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX-bnjmyvlWhP7ydei7ebpo/m3u8
 #EXTINF:-1,IN | TS MOVIES NOW FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf6Ura2ezmL2VgoMDIZx9JY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf6Ura2ezmL2VgoMDIZx9JY/m3u8
 #EXTINF:-1,IN | TS NICKELODEON JUNIOR ENG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQfqC4ChUFeuGIpd9o6Y-ng/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQfqC4ChUFeuGIpd9o6Y-ng/m3u8
 #EXTINF:-1,IN | TS NAT GEO WILD HD HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qse3dc9FjZK9s4Vw5RkOnm6M/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qse3dc9FjZK9s4Vw5RkOnm6M/m3u8
 #EXTINF:-1,IN-TM | TS RAJ MUSIX
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVJJFLKL4_3yKF3JlhuDttI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVJJFLKL4_3yKF3JlhuDttI/m3u8
 #EXTINF:-1,IN-NEWS | TS JANTANTRA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc2u2Pih5nSy-Exw-Re6BFo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc2u2Pih5nSy-Exw-Re6BFo/m3u8
 #EXTINF:-1,IN-KN | TS TV 5
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTIhNcaAzkPjMEjHUBVHZ1I/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTIhNcaAzkPjMEjHUBVHZ1I/m3u8
 #EXTINF:-1,IN-TG | TS TV 5 NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd3eFVgWYfcfRntyjgsO7E4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd3eFVgWYfcfRntyjgsO7E4/m3u8
 #EXTINF:-1,IN-MAR | TS NEWS18 LOKMAT
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsazWvBdtALQQvsBDrwektJU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsazWvBdtALQQvsBDrwektJU/m3u8
 #EXTINF:-1,IN | TS MN+ MOVIES FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc1eOY4RcOeO6_MW3_wyWlM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc1eOY4RcOeO6_MW3_wyWlM/m3u8
 #EXTINF:-1,BD | TS SANGEET BANGLA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYbXP2O_GGUBuvpzVvUovWI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYbXP2O_GGUBuvpzVvUovWI/m3u8
 #EXTINF:-1,IN | TS CBEEBIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRvdfnoWG3lnlAId8tTVvf8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRvdfnoWG3lnlAId8tTVvf8/m3u8
 #EXTINF:-1,IN-NEWS | TS CAPTAIN NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR0IT_uC-6BEkWd9IDNZxvg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR0IT_uC-6BEkWd9IDNZxvg/m3u8
 #EXTINF:-1,IN | TS DISCOVERY WORLD HINDI HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXGmuHNgVZGBC12YkugLowc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXGmuHNgVZGBC12YkugLowc/m3u8
 #EXTINF:-1,IN-MAR | TS SONY MARATHI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsczAj95ce3aoA8rZLzokZaM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsczAj95ce3aoA8rZLzokZaM/m3u8
 #EXTINF:-1,IN-MAR | TS ZEE MARATHI FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscTEQEfurMdy4g2VOUJ0u8Y/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscTEQEfurMdy4g2VOUJ0u8Y/m3u8
 #EXTINF:-1,IN | TS ANIMAL PLANET WORLD FHD HIN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscIZC99cu7D2yU5tcWb74wA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscIZC99cu7D2yU5tcWb74wA/m3u8
 #EXTINF:-1,BD | TS AAKAASH AATH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbaFj0HlKQQvDXc1vR0VpxY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbaFj0HlKQQvDXc1vR0VpxY/m3u8
 #EXTINF:-1,IN-TG | TS ABN ANDHRA JYOTHI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS4SAvLKq5ksp3uRo-TdIM4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS4SAvLKq5ksp3uRo-TdIM4/m3u8
 #EXTINF:-1,BD | TS ABP ANANDA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVBJtgLOcQ_Sc-aOjuaAqMQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVBJtgLOcQ_Sc-aOjuaAqMQ/m3u8
 #EXTINF:-1,IN-GUJ | TS ABP ASMITA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYQQEpE4Zs5WDBvB9-UqtG0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYQQEpE4Zs5WDBvB9-UqtG0/m3u8
 #EXTINF:-1,IN-MAR | TS ABP MAJHA HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbnadIpPOQtNYfz8Q5KwckU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbnadIpPOQtNYfz8Q5KwckU/m3u8
 #EXTINF:-1,IN-ODIA | TS ALANKAR TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQxqNG2I5hmAIeC2BXu3xVY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQxqNG2I5hmAIeC2BXu3xVY/m3u8
 #EXTINF:-1,IN-MY | TS AMRITA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYWpKSk77bz9BPP7iPPl8hI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYWpKSk77bz9BPP7iPPl8hI/m3u8
 #EXTINF:-1,IN | TS ARIHANT TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXR_GWHTTkFefCOunbfUPmg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXR_GWHTTkFefCOunbfUPmg/m3u8
 #EXTINF:-1,IN-MY | TS ASIANET NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTMAovPOozKW2vWSHE12SJE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTMAovPOozKW2vWSHE12SJE/m3u8
 #EXTINF:-1,IN-MY | TS ASIANET NEWS HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS-l59Xm59SO37wv59klC0w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS-l59Xm59SO37wv59klC0w/m3u8
 #EXTINF:-1,IN-NEWS | TS BBC WORLD NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa_lJhj-_b2j0-Fqax8FwQ4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa_lJhj-_b2j0-Fqax8FwQ4/m3u8
 #EXTINF:-1,IN-TG | TS BHAKTI TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ98Q79W34hFGH_Zj1tZs-Q/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ98Q79W34hFGH_Zj1tZs-Q/m3u8
 #EXTINF:-1,IN-NEWS | TS BHARAT SAMACHAR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUa-olsK7b9jgVhgOagontQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUa-olsK7b9jgVhgOagontQ/m3u8
 #EXTINF:-1,IN-BJPURI | TS BHOJPURI CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZSgtRGd9aMJLt6SQ7BRchU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZSgtRGd9aMJLt6SQ7BRchU/m3u8
 #EXTINF:-1,IN | TS BIG GANGA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZUGBBRlIDJqXgF98YFCEyA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZUGBBRlIDJqXgF98YFCEyA/m3u8
 #EXTINF:-1,IN | TS ZEE BIG MAGIC
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscopn93bZL84LTW5NTRPXJ0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscopn93bZL84LTW5NTRPXJ0/m3u8
 #EXTINF:-1,BD | TS CALCUTTA NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZvGnDK2ZDOIjvVgEyOoV40/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZvGnDK2ZDOIjvVgEyOoV40/m3u8
 #EXTINF:-1,IN-NEWS | TS CHANNEL NEWS ASIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf-YM-X0gCYIfl9W9sU9c-k/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf-YM-X0gCYIfl9W9sU9c-k/m3u8
 #EXTINF:-1,IN-PUNJ | TS CHARDIKLA TIMES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbIvC-B1uVMlknBMRvIQtMM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbIvC-B1uVMlknBMRvIQtMM/m3u8
 #EXTINF:-1,IN-NEWS | TS CNBC TV 18
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXNdOjn_5zFt29LmSeASvP4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXNdOjn_5zFt29LmSeASvP4/m3u8
 #EXTINF:-1,IN | TS COLORS ODIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRGEhzjHvsHeBiHhQgAOCpU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRGEhzjHvsHeBiHhQgAOCpU/m3u8
 #EXTINF:-1,IN-BJPURI | TS DANGAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsft5mBbie4bc5hhYOBoAO1s/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsft5mBbie4bc5hhYOBoAO1s/m3u8
 #EXTINF:-1,IN-NEWS | TS DD BHARATI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSdGqhgVpIWk443AP6K3jw4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSdGqhgVpIWk443AP6K3jw4/m3u8
 #EXTINF:-1,IN-NEWS | TS DD BIHAR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXJYEV3ldgyE0bbuJED7Mx8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXJYEV3ldgyE0bbuJED7Mx8/m3u8
 #EXTINF:-1,IN | TS DD CHANDANA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYmFNPgXI2DUc9zVpEJcYso/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYmFNPgXI2DUc9zVpEJcYso/m3u8
 #EXTINF:-1,IN-GUJ | TS DD GIRNAR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYrI0hN9DgG0G9YG_xW2s0k/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYrI0hN9DgG0G9YG_xW2s0k/m3u8
 #EXTINF:-1,IN-NEWS | TS DD INDIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWLq59sgRR4fPI9FtIEYzYQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWLq59sgRR4fPI9FtIEYzYQ/m3u8
 #EXTINF:-1,IN-NEWS | TS DD KASHIR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfvguhxRBpte-pnhOJEArs4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfvguhxRBpte-pnhOJEArs4/m3u8
 #EXTINF:-1,IN-NEWS | TS DD KISAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTdtoDtHZc40-mjBAxIylZg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTdtoDtHZc40-mjBAxIylZg/m3u8
 #EXTINF:-1,IN-NEWS | TS DD MADHYA PRADESH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUrA5NTq8k52SxYygysq8is/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUrA5NTq8k52SxYygysq8is/m3u8
 #EXTINF:-1,IN-MY | TS DD MALAYALAM
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfqgsO5id9ru1pDk-e0TpoE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfqgsO5id9ru1pDk-e0TpoE/m3u8
 #EXTINF:-1,IN | TS DD NATIONAL HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsToPWmsYX13FfYrwBf7rYrc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsToPWmsYX13FfYrwBf7rYrc/m3u8
 #EXTINF:-1,IN-NEWS | TS DD NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXrc2q0rFobIxvZaRvsoR_I/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXrc2q0rFobIxvZaRvsoR_I/m3u8
 #EXTINF:-1,IN-ASAM | TS DD NORTH EAST
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfV5yRXTOt5d2IG4YHhIGfA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfV5yRXTOt5d2IG4YHhIGfA/m3u8
 #EXTINF:-1,IN-ODIA | TS DD ODIYA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT1kqjfB_1cqfGtBi_qFiRg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT1kqjfB_1cqfGtBi_qFiRg/m3u8
 #EXTINF:-1,IN-TM | TS DD PODHIGAI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa15Ga_cqqn5hFKCBxn_rco/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa15Ga_cqqn5hFKCBxn_rco/m3u8
 #EXTINF:-1,IN-PUNJ | TS DD PUNJABI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscLclMCZ8N5nqULQN_GPsWE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscLclMCZ8N5nqULQN_GPsWE/m3u8
 #EXTINF:-1,IN-NEWS | TS DD RAJASTHAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaOKa9VYNlx8M3jJhwiz_VA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaOKa9VYNlx8M3jJhwiz_VA/m3u8
 #EXTINF:-1,IN-MAR | TS DD SAHYADRI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsROW5_4LrhflJyyuC9KR61U/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsROW5_4LrhflJyyuC9KR61U/m3u8
 #EXTINF:-1,IN-TG | TS DD SAPTAGIRI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTXQW6KcZnCcf5ii16pIt9o/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTXQW6KcZnCcf5ii16pIt9o/m3u8
 #EXTINF:-1,IN-NEWS | TS DD UTTAR PRADESH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdViWmV3J7tH6xNBGvQ6tVM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdViWmV3J7tH6xNBGvQ6tVM/m3u8
 #EXTINF:-1,IN-MAR | TS DD YADAGIRI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR9efBFmn1J6nEk-CTiQnE0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR9efBFmn1J6nEk-CTiQnE0/m3u8
 #EXTINF:-1,IN-ODIA | TS OTV KHABRAIN.IN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV0rdy1hXyL-4XVj0zvenTk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV0rdy1hXyL-4XVj0zvenTk/m3u8
 #EXTINF:-1,IN | TS DIVYA TV DEVOTIONAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ5yqDZR-MdYFxkdFJJmfGc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ5yqDZR-MdYFxkdFJJmfGc/m3u8
 #EXTINF:-1,IN-NEWS | TS DW NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscSFXwHPLmDmZT-OpQcjf40/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscSFXwHPLmDmZT-OpQcjf40/m3u8
 #EXTINF:-1,IN-ASAM | TS DY 365
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWYex1-vJ052A0pUWCOl7d4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWYex1-vJ052A0pUWCOl7d4/m3u8
 #EXTINF:-1,IN-NEWS | TS ET NOW
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXDhHHPpEOsy3PuQ_RrVWBI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXDhHHPpEOsy3PuQ_RrVWBI/m3u8
 #EXTINF:-1,IN-MAR | TS FAKT MARATHI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb-Jf8NSaWcmzD3IPgUZNTo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb-Jf8NSaWcmzD3IPgUZNTo/m3u8
 #EXTINF:-1,IN-PUNJ | TS FATEH TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfcoKfNphPOBP5BHibTDvrA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfcoKfNphPOBP5BHibTDvrA/m3u8
 #EXTINF:-1,IN-TG | TS GEMINI MOVIES FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa3rt2DAm2xnN0-zQ1P-bnY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa3rt2DAm2xnN0-zQ1P-bnY/m3u8
 #EXTINF:-1,IN-TG | TS HM TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYMhj5lU9JkS88Lb4_xV3dU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYMhj5lU9JkS88Lb4_xV3dU/m3u8
 #EXTINF:-1,IN-NEWS | TS IBC 24
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa8hHSiBbYqOMfF5gAHKPlU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa8hHSiBbYqOMfF5gAHKPlU/m3u8
 #EXTINF:-1,IN-GUJ | TS INDIA NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfRp6ugLoN6VihaTqR8ide0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfRp6ugLoN6VihaTqR8ide0/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA NEWS MP CH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscbUQ8EhKU4OHbhs8R-kAK8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscbUQ8EhKU4OHbhs8R-kAK8/m3u8
 #EXTINF:-1,IN-PUNJ | Living India News
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUDEFOq5U1sNC15NgRFa_sY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUDEFOq5U1sNC15NgRFa_sY/m3u8
 #EXTINF:-1,IN | TS ZING
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW8JnkHHM83ZSljtmh1KzZ8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW8JnkHHM83ZSljtmh1KzZ8/m3u8
 #EXTINF:-1,IN -MAR | TS ZEE YUVA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYCeWJu_h2Y80mRrXjSbdA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYCeWJu_h2Y80mRrXjSbdA/m3u8
 #EXTINF:-1,IN-NEWS | TS UTTARPRADESH UTTRAKHAND
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfl2SxvchKups5qAvVABFc4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfl2SxvchKups5qAvVABFc4/m3u8
 #EXTINF:-1,UK-Zee TV HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscrd8ebY81P13bTxxrt-MA0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscrd8ebY81P13bTxxrt-MA0/m3u8
 #EXTINF:-1,IN | TS ZEE TV SD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qselyZdR0tCJHudyEUTW2im8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qselyZdR0tCJHudyEUTW2im8/m3u8
 #EXTINF:-1,IN | TS ZEE THIRAI TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUEdoTHc13yNw2lmXp5ZIDc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUEdoTHc13yNw2lmXp5ZIDc/m3u8
 #EXTINF:-1,IN-TG | TS ZEE TELUGU FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXiKEH55oKMgAa-ur6i6qbI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXiKEH55oKMgAa-ur6i6qbI/m3u8
 #EXTINF:-1,IN | TS ZEE TALKIES FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdd1wMUtN66IQub3vpsHu84/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdd1wMUtN66IQub3vpsHu84/m3u8
 #EXTINF:-1,IN | TS ZEE SARTHAK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQp7vLZi3CYZPbF2OfAo3dE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQp7vLZi3CYZPbF2OfAo3dE/m3u8
 #EXTINF:-1,IN-NEWS | TS ZEE RAJASTHAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfVLQwtd_B84K4aIRCDcywQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfVLQwtd_B84K4aIRCDcywQ/m3u8
 #EXTINF:-1,IN-PUNJ | TS ZEE PUNJABI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXYzZhAM9KXxffTbptmkY-c/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXYzZhAM9KXxffTbptmkY-c/m3u8
 #EXTINF:-1,IN-PUNJ | TS ZEE PUNJAB HARYANA HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscH7kCTEO1A13XCektoPpko/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscH7kCTEO1A13XCektoPpko/m3u8
 #EXTINF:-1,IN-KN | TS ZEE PICCHAR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdYtIYoVfGpAZeJxsimJUWM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdYtIYoVfGpAZeJxsimJUWM/m3u8
 #EXTINF:-1,IN-ODIA | TS NEWS 18 ODISHA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseL0ee6j6Ly-qziFM2muaXA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseL0ee6j6Ly-qziFM2muaXA/m3u8
 #EXTINF:-1,IN-NEWS | TS ZEE NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW0ZHpHZ1OBS_KNxyWm9DHc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW0ZHpHZ1OBS_KNxyWm9DHc/m3u8
 #EXTINF:-1,IN-MAR | TS ZEE MARATHI SD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY40o9M7Kyos-FS22LN7gCU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY40o9M7Kyos-FS22LN7gCU/m3u8
 #EXTINF:-1,IN-NEWS | TS ZEE NEWS MP/CHATTISGARH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQPnCgPVXAU4YpfUhWshYt0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQPnCgPVXAU4YpfUhWshYt0/m3u8
 #EXTINF:-1,IN-MY | TS ZEE KERALAM FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV542NACVJGYLekrCSa5Bdw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV542NACVJGYLekrCSa5Bdw/m3u8
 #EXTINF:-1,IN-NEWS | TS ZEE HINDUSTAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ7wkLKRP88VEdnuhSKLvhE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ7wkLKRP88VEdnuhSKLvhE/m3u8
 #EXTINF:-1,IN | TS ZEE CLASSIC
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUGWtJXXEnDvgoZMFurOZJ0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUGWtJXXEnDvgoZMFurOZJ0/m3u8
 #EXTINF:-1,IN-TG | TS ZEE CINEMALU FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb2Q9zEdbIk7w58oxuVfwbM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb2Q9zEdbIk7w58oxuVfwbM/m3u8
 #EXTINF:-1,IN | TS ZEE CINEMA SD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscT-KsASurStNXIaVDrW4RM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscT-KsASurStNXIaVDrW4RM/m3u8
 #EXTINF:-1,IN-NEWS | TS ZEE BUSINESS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd_B-1PKwO9z9GGCjMIg_44/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd_B-1PKwO9z9GGCjMIg_44/m3u8
 #EXTINF:-1,IN | TS ZEE BISKOPE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsREjf-MzD8BnFG_Ip077Zr0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsREjf-MzD8BnFG_Ip077Zr0/m3u8
 #EXTINF:-1,IN-NEWS| TS BIHAR JHARKHAND
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTcBLXYjjDvU4tz2g_xkL8g/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTcBLXYjjDvU4tz2g_xkL8g/m3u8
 #EXTINF:-1,BD | TS BANGLA CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdmuNLPrBp7U0_URVjICfo8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdmuNLPrBp7U0_URVjICfo8/m3u8
 #EXTINF:-1,IN | TS ZEE ANMOL CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc3qFtzhlMz9hp6VvtVxlrM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc3qFtzhlMz9hp6VvtVxlrM/m3u8
 #EXTINF:-1,IN-MAR | TS ZEE 24 TAAS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscc8piHvSxR0gQvdvanPvkE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscc8piHvSxR0gQvdvanPvkE/m3u8
 #EXTINF:-1,IN-GUJ | TS ZEE 24 KALAK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ8S66UTfKuVJinlHvJWTd0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ8S66UTfKuVJinlHvJWTd0/m3u8
 #EXTINF:-1,BD | TS ZEE 24 GHANTA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscpHpwuf2NZtyjeuzZYa4hA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscpHpwuf2NZtyjeuzZYa4hA/m3u8
 #EXTINF:-1,IN-NEWS | TS WION NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdL20pjuk0smSEiVqk-iEg4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdL20pjuk0smSEiVqk-iEg4/m3u8
 #EXTINF:-1,IN-MY | TS KAIRALI WE TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZGscl7L1xaKaKWGmwn1-pc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZGscl7L1xaKaKWGmwn1-pc/m3u8
 #EXTINF:-1,IN-NEWS | TS VEDIC TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR6-quwI34xgASpVps69lKg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR6-quwI34xgASpVps69lKg/m3u8
 #EXTINF:-1,IN-MAR | TS TV9 MARATHI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXxi6nvvhCLHZjLxvkyRMgc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXxi6nvvhCLHZjLxvkyRMgc/m3u8
 #EXTINF:-1,IN-KN | TS TV9 KANNADA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTlb82l1yLIZZisya7remvo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTlb82l1yLIZZisya7remvo/m3u8
 #EXTINF:-1,IN-GUJ | TS TV9 GUJRATI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsREOUeACkgY3VgkpCj7uHhk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsREOUeACkgY3VgkpCj7uHhk/m3u8
 #EXTINF:-1,IN-NEWS | TS TV 5 MONDE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseGt3GzGt2C7FCsb89EuOCg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseGt3GzGt2C7FCsb89EuOCg/m3u8
 #EXTINF:-1,IN-TM | TS TRAVEL XP
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseTTm_w9-RcXOlu1TUvUKjI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseTTm_w9-RcXOlu1TUvUKjI/m3u8
 #EXTINF:-1,IN-TG | TS T NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscOrEwMzt6ia4WQZ2juwEeA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscOrEwMzt6ia4WQZ2juwEeA/m3u8
 #EXTINF:-1,IN | TS THE Q ENTERTAINMENT
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUELmChe7XggP5NlvopLLVw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUELmChe7XggP5NlvopLLVw/m3u8
 #EXTINF:-1,IN-ODIA | TS TARANG TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsetkHeCfg7vkyRKcWE6D3jE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsetkHeCfg7vkyRKcWE6D3jE/m3u8
 #EXTINF:-1,IN-ODIA | TS TARANG MUSIC
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU1dtFe0bdOvizoVUjNvJoM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU1dtFe0bdOvizoVUjNvJoM/m3u8
 #EXTINF:-1,IN-MY | TS SURYA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSc1kj0VVITNZQdwa7_e0us/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSc1kj0VVITNZQdwa7_e0us/m3u8
 #EXTINF:-1,IN-MY | TS SURYA CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbJaQBP_xoOPuN87UsESADA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbJaQBP_xoOPuN87UsESADA/m3u8
 #EXTINF:-1,IN-NEWS | TS SUDARSHAN NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscBasUmFdDrw7mCjA_FWvRQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscBasUmFdDrw7mCjA_FWvRQ/m3u8
 #EXTINF:-1,IN | TS STAR SPORTS 2 FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/m3u8
 #EXTINF:-1,IN-KN | TS SRI SANKARA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaU39QHfecOw4vrcfyAHvbk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaU39QHfecOw4vrcfyAHvbk/m3u8
 #EXTINF:-1,IN | TS SONY MAX SD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUYs6uJnGGhdotorqCnS6kQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUYs6uJnGGhdotorqCnS6kQ/m3u8
 #EXTINF:-1,BD | TS SONY AATH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbgIQ7x-J4TX8zMLTYHNVO8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbgIQ7x-J4TX8zMLTYHNVO8/m3u8
 #EXTINF:-1,IN-NEWS | TS SHUBH TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR0wU_02XNj-ak3b4UEbeZ8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR0wU_02XNj-ak3b4UEbeZ8/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA NEWS RAJASTHAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsegPtRKMQns2pFmHUUW9g5A/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsegPtRKMQns2pFmHUUW9g5A/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA NEWS UP
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSyyeCTbQkVsYIWAhGGsrJE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSyyeCTbQkVsYIWAhGGsrJE/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA TODAY
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYIzXMREHwGhSfKB8Jt8Xls/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYIzXMREHwGhSfKB8Jt8Xls/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXhsfRenzm4QJ_y_2CzjHBM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXhsfRenzm4QJ_y_2CzjHBM/m3u8
 #EXTINF:-1,IN-NEWS | TS AUSTRALIA TODAY
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbzkdvglDggjWutDVfUZBgA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbzkdvglDggjWutDVfUZBgA/m3u8
 #EXTINF:-1,IN-ASAM | TS INDRADHANU
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS-4DWEAEVIhtC0ZzUA3nTY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS-4DWEAEVIhtC0ZzUA3nTY/m3u8
 #EXTINF:-1,BD | TS STAR JALSHA MOVIES FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsezqDnAfyc8SCX_W9m0x-os/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsezqDnAfyc8SCX_W9m0x-os/m3u8
 #EXTINF:-1,IN-TM | TS JAYA PLUS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseHHKG8vL9NkU3NsotTfUCE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseHHKG8vL9NkU3NsotTfUCE/m3u8
 #EXTINF:-1,IN-MY | TS KAIRALI NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaXiqx36frdiy14HhkoXS9Y/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaXiqx36frdiy14HhkoXS9Y/m3u8
 #EXTINF:-1,IN-MY | TS KAIRALI TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQpVc8f2QC9FQAB0yj6_SKY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQpVc8f2QC9FQAB0yj6_SKY/m3u8
 #EXTINF:-1,IN-ODIA | TS KALAINGAR TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS0Y0r9RwQG2YsSzRK7kOuE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS0Y0r9RwQG2YsSzRK7kOuE/m3u8
 #EXTINF:-1,IN-ODIA | TS ZEE KALINGA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV6CsRd5VdOo65ciYj2ay-Q/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV6CsRd5VdOo65ciYj2ay-Q/m3u8
 #EXTINF:-1,IN-ODIA | TS KANAK NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSC5acTOw1PDLryD-5V53l8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSC5acTOw1PDLryD-5V53l8/m3u8
 #EXTINF:-1,IN-KN | TS KASTURI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaRNgS5yidP73_sz-zhtG9o/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaRNgS5yidP73_sz-zhtG9o/m3u8
 #EXTINF:-1,IN-NEWS | TS LOK SABHA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZBN0QTo-FcPJtfFPBtr4V4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZBN0QTo-FcPJtfFPBtr4V4/m3u8
 #EXTINF:-1,IN-TM | TS MAKKAL TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfopoW7Qds4VIaCVC8HwM3w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfopoW7Qds4VIaCVC8HwM3w/m3u8
 #EXTINF:-1,IN-MY | TS MANORAMA NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTx-lgpJO4ZDEitKkqn5xRM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTx-lgpJO4ZDEitKkqn5xRM/m3u8
 #EXTINF:-1,IN-NEWS | TS MIRROR NOW
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXOCmvd2yWhhsx1uqdWlWpE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXOCmvd2yWhhsx1uqdWlWpE/m3u8
 #EXTINF:-1,IN-MY | TS NEWS 18 KERALA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf-It_-lxbaFVeGIoXZTwms/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf-It_-lxbaFVeGIoXZTwms/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS 18 RAJASTHAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfZL0bfSCrVXi9_5xgzTBOg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfZL0bfSCrVXi9_5xgzTBOg/m3u8
 #EXTINF:-1,IN-ASAM | TS NEWS LIVE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscz36ARBMUVpGHQLBeZd0lE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscz36ARBMUVpGHQLBeZd0lE/m3u8
 #EXTINF:-1,IN-News | TS NEWS STATE MP/CG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV_9VPlvuxfSMtHyxPAbkEg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV_9VPlvuxfSMtHyxPAbkEg/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS STATE UP-UK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfmCIstl0rLMjHDdk6nvCHA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfmCIstl0rLMjHDdk6nvCHA/m3u8
 #EXTINF:-1,BD | TS NEWS TIMES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQkHy6I5jlDpP4K28XqhYM0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQkHy6I5jlDpP4K28XqhYM0/m3u8
 #EXTINF:-1,IN-ASAM | TS NORTH EAST LIVE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXPda_NHqqqt3DUawpEsWBM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXPda_NHqqqt3DUawpEsWBM/m3u8
 #EXTINF:-1,IN | TS PEACE OF MIND
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseQl7IOoeE_1dFXv2DGRWb8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseQl7IOoeE_1dFXv2DGRWb8/m3u8
 #EXTINF:-1,IN | TS & PICTURES SD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUF77MHtEYNTNJrMzWOinYA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUF77MHtEYNTNJrMzWOinYA/m3u8
 #EXTINF:-1,IN-PUNJ | TS PITAARA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbvhhOtj-v-Zelk8XRpt1XY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbvhhOtj-v-Zelk8XRpt1XY/m3u8
 #EXTINF:-1,IN-ASAM | TS PRAG NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWTn6BjH0oqGqZPQznVBU9w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWTn6BjH0oqGqZPQznVBU9w/m3u8
 #EXTINF:-1,IN-ASAM | TS PROTIDIN TIME
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsahuZH-BJ2VfGXLb4pLvgCc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsahuZH-BJ2VfGXLb4pLvgCc/m3u8
 #EXTINF:-1,IN-PUNJ | TS PTC CHAKDE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscbFDAAGodoodJHP73il94Q/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscbFDAAGodoodJHP73il94Q/m3u8
 #EXTINF:-1,UK-PUNJ | PTC NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscNlSGQKJ9qHrX5KP_-Z_34/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscNlSGQKJ9qHrX5KP_-Z_34/m3u8
 #EXTINF:-1,IN-PUNJ | TS PTC NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRJDGwTrmR1bJNg680vFTFs/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRJDGwTrmR1bJNg680vFTFs/m3u8
 #EXTINF:-1,IN-PUNJ | TS PTC PUNJABI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaH1l3Ph_5192547bnaMN2A/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaH1l3Ph_5192547bnaMN2A/m3u8
 #EXTINF:-1,IN-TM | TS RAJ DIGITAL PLUS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTbhfzJAGVaWe3lWB9UPX4s/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTbhfzJAGVaWe3lWB9UPX4s/m3u8
 #EXTINF:-1,IN-NEWS | TS SANSAD TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTEFX-xmAYfFff0BLJzjm3g/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTEFX-xmAYfFff0BLJzjm3g/m3u8
 #EXTINF:-1,IN-ASAM | TS RAMDHENU
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsafLpH4_hEyVqDAsh5yMn0k/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsafLpH4_hEyVqDAsh5yMn0k/m3u8
 #EXTINF:-1,IN-ASAM | TS RANG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdPsGSHflGATLEm5F0nM-7Y/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdPsGSHflGATLEm5F0nM-7Y/m3u8
 #EXTINF:-1,IN-ASAM | TS RENGONI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaYzQ3T-9zGpiiVDSyD2zZ4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaYzQ3T-9zGpiiVDSyD2zZ4/m3u8
 #EXTINF:-1,IN-NEWS | TS REPUBLIC TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWypQSgwoa8doMnLaTTD8xI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWypQSgwoa8doMnLaTTD8xI/m3u8
 #EXTINF:-1,BD | TS RUPOSHI BANGLA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSw7ktScOkZhCYF8DQBJI38/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSw7ktScOkZhCYF8DQBJI38/m3u8
 #EXTINF:-1,IN-MAR | TS SAAM TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQnc3u8tihPLRGeyJjqv5Yo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQnc3u8tihPLRGeyJjqv5Yo/m3u8
 #EXTINF:-1,IN | TS SADHNA TV DEVOTIONAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW1fbr6vgFYntBOecmHd19k/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW1fbr6vgFYntBOecmHd19k/m3u8
 #EXTINF:-1,IN-MAR | TS SANGEET MARATHI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf9XBzvVK5aaU5gBWPH9WkE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf9XBzvVK5aaU5gBWPH9WkE/m3u8
 #EXTINF:-1,IN-MAR | TS 9X JHAKAAS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbRqF1vfByUc5-USv7tauV4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbRqF1vfByUc5-USv7tauV4/m3u8
 #EXTINF:-1,IN-ASAM | TS NEWS 18 ASSAM
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR23DEKqpJnQRRAZ9Gem9oc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR23DEKqpJnQRRAZ9Gem9oc/m3u8
 #EXTINF:-1,BD | TS ZEE BAN CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRBQcxvdMC0_Mpdwu3EA29I/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRBQcxvdMC0_Mpdwu3EA29I/m3u8
 #EXTINF:-1,IN-TM | TS DISCOVERY KIDS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYNy0gVUuM1SXAvqIQt3j5A/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYNy0gVUuM1SXAvqIQt3j5A/m3u8
 #EXTINF:-1,IN-TM | TS NICK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUC05bha5BqenvqOPbZhE8U/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUC05bha5BqenvqOPbZhE8U/m3u8
 #EXTINF:-1,IN-TG | TS NICK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWritKWKqTISzxtkplKNEGY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWritKWKqTISzxtkplKNEGY/m3u8
 #EXTINF:-1,IN-TG |TS  NTV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsawMtJbXuyylxM3DZ5bUyOI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsawMtJbXuyylxM3DZ5bUyOI/m3u8
 #EXTINF:-1,IN | TS ENTER 10
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVF1Ph-7dMIr_0ci-INLLN0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVF1Ph-7dMIr_0ci-INLLN0/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS 18 MADHYAPRADESH CHHATTISGARH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQNmGG28eNVaXxWZ5QoIb7Q/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQNmGG28eNVaXxWZ5QoIb7Q/m3u8
 #EXTINF:-1,IN-TM | TS CARTOON NETWORK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsddBDyOBbmiFBOb0cXsIXWE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsddBDyOBbmiFBOb0cXsIXWE/m3u8
 #EXTINF:-1,IN-TG | TS CARTOON NETWORK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQe41EDDBy4auoosb0FHp4g/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQe41EDDBy4auoosb0FHp4g/m3u8
 #EXTINF:-1,IN-TM | TS POGO
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaay3bu-OG3jxinteEd65gw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaay3bu-OG3jxinteEd65gw/m3u8
 #EXTINF:-1,IN | TS ANIMAL PLANET WORLD FHD ENG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZQB7eWm0rhGFEtirCYSA8g/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZQB7eWm0rhGFEtirCYSA8g/m3u8
 #EXTINF:-1,IN-GUJ | TS CNBC BAZAR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS_zgXbZaUNiNKMoNVREDgc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS_zgXbZaUNiNKMoNVREDgc/m3u8
 #EXTINF:-1,BD | TS DD BAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYA5AIcgXSWCsctr5vEZQtY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYA5AIcgXSWCsctr5vEZQtY/m3u8
 #EXTINF:-1,IN-KN | TS TV5 NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTIkoOz_FAsDKqfK-rpAV_4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTIkoOz_FAsDKqfK-rpAV_4/m3u8
 #EXTINF:-1,IN-TM | TS COLORS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZxjzHdivP39fink8nBO9Mw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZxjzHdivP39fink8nBO9Mw/m3u8
 #EXTINF:-1,IN-TM | TS SONY YAY
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd5thQ8zm5cJOR_ovbVWzi8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd5thQ8zm5cJOR_ovbVWzi8/m3u8
 #EXTINF:-1,IN-TG | TS SONY YAY
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQPZ191R9deTeEwU_AC1sOg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQPZ191R9deTeEwU_AC1sOg/m3u8
 #EXTINF:-1,IN-TM | TS SONY BBC EARTH FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQOZMVd4UlO_Lssi5kOhZfs/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQOZMVd4UlO_Lssi5kOhZfs/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS 18 UP
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQpa2K0WJRRW5JcJk-tza8w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQpa2K0WJRRW5JcJk-tza8w/m3u8
 #EXTINF:-1,IN | TS SHOWBOX MUSIC
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbZEIjb2XcMK7059PgmV924/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbZEIjb2XcMK7059PgmV924/m3u8
 #EXTINF:-1,IN-TG | TS VISSA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQmv1t6zLGnXCtR4OkyHyNc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQmv1t6zLGnXCtR4OkyHyNc/m3u8
 #EXTINF:-1,IN | TS NICKELODEON HD+
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT0N_9t33qGgOautT8oMACc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT0N_9t33qGgOautT8oMACc/m3u8
 #EXTINF:-1,IN-TM | TS JAYA MAX
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSC8Hp0qRdUNeAPT50CKTo0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSC8Hp0qRdUNeAPT50CKTo0/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA NEWS HARYANA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb2bgF7QXWRZFXe3N2CIhp8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb2bgF7QXWRZFXe3N2CIhp8/m3u8
 #EXTINF:-1,IN-NEWS | TS SADHNA MP/CG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY2O9c7hgV5zwwqnS1_HqFc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY2O9c7hgV5zwwqnS1_HqFc/m3u8
 #EXTINF:-1,IN-NEWS | TS SADHNA PLUS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseKjjqHhqY3QOC2uOjalZWc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseKjjqHhqY3QOC2uOjalZWc/m3u8
 #EXTINF:-1,IN-NEWS | TS UDAYA NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXj1fbTJhnFSZf75y3jYzwg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXj1fbTJhnFSZf75y3jYzwg/m3u8
 #EXTINF:-1,IN-NEWS | TS INDIA NEW PUNJABI HIMACHAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb_-rXNQgLx2YhObcHkIjmI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb_-rXNQgLx2YhObcHkIjmI/m3u8
 #EXTINF:-1,IN-NEWS | TS CNBC BAJAR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZwHPT8UkywQZnVy-lVwmhw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZwHPT8UkywQZnVy-lVwmhw/m3u8
 #EXTINF:-1,IN-NEWS | TS AL JAZEERA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaDL99XxpBj3PfdFgDCnfZU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaDL99XxpBj3PfdFgDCnfZU/m3u8
 #EXTINF:-1,IN-NEWS | TS DD URDU
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYpb8XhokNQP1GntPnfNHK8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYpb8XhokNQP1GntPnfNHK8/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS 18 INDIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfWMglDcQklyk8HH5IA6oE8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfWMglDcQklyk8HH5IA6oE8/m3u8
 #EXTINF:-1,IN | TS TATA SKY FUN LEARN PRESCHOOL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTjifXV4G6ybAXFwifUf8xM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTjifXV4G6ybAXFwifUf8xM/m3u8
 #EXTINF:-1,IN | TS TATA SKY SHOW BIZZ / BEAUTY
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXtQvWieuktBDGh8nOVEWJQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXtQvWieuktBDGh8nOVEWJQ/m3u8
 #EXTINF:-1,IN | TS TATA SKY GUJRATI CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZgEPcOvSE-EkGsK3gOGKJk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZgEPcOvSE-EkGsK3gOGKJk/m3u8
 #EXTINF:-1,IN | TS TATA SKY SENIORS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVu3yS5pKDoDwF4Hpao5Ons/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVu3yS5pKDoDwF4Hpao5Ons/m3u8
 #EXTINF:-1,IN | TS TATA SKY KANNADA CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQv-fQulfXjszyBf_vqcbIg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQv-fQulfXjszyBf_vqcbIg/m3u8
 #EXTINF:-1,IN | TS TATA SKY HOLLYWOOD LOCAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTQQ5Wu4w3KUz4Mm8M-wJNk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTQQ5Wu4w3KUz4Mm8M-wJNk/m3u8
 #EXTINF:-1,IN | TS TATA SKY HITS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsefXTjrSdRVmYwoov6uueKg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsefXTjrSdRVmYwoov6uueKg/m3u8
 #EXTINF:-1,IN | TS TATA SKY CURIOUSITY STREAMS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf86TnEnExwmsnP3tIEabl8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf86TnEnExwmsnP3tIEabl8/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS 11 BHARAT
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU8JDCjWtiDJjx6XodbO9dI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU8JDCjWtiDJjx6XodbO9dI/m3u8
 #EXTINF:-1,IN | TS TATA SKY ENGLISH IN HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdo1e2tYEbMmRpV9iCBWIqc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdo1e2tYEbMmRpV9iCBWIqc/m3u8
 #EXTINF:-1,IN | TS TATA SKY ACTING ADDA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbo0Av7HQTmA6ArxUZJKT8Y/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbo0Av7HQTmA6ArxUZJKT8Y/m3u8
 #EXTINF:-1,IN | TS TATA SKY JAVED AKHTAR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd9LzGvZqofghZ-JEFrgFBc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd9LzGvZqofghZ-JEFrgFBc/m3u8
 #EXTINF:-1,IN | TS TATA SKY MANAGER
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUdrhzbr3dbQffMbQf_--LU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUdrhzbr3dbQffMbQf_--LU/m3u8
 #EXTINF:-1,IN | TS TATA SKY THEATRE FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYrXtysNdz-3jJyPar6x8F4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYrXtysNdz-3jJyPar6x8F4/m3u8
 #EXTINF:-1,IN-NEWS | TS NEWS INDIA 24x7
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdSgEvWw0YYDhrn5w0LrCOQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdSgEvWw0YYDhrn5w0LrCOQ/m3u8
 #EXTINF:-1,IN | TS E24
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZxNiZGIabNbBOpeRO3CGnQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZxNiZGIabNbBOpeRO3CGnQ/m3u8
 #EXTINF:-1,IN | TS TATA SKY SHORTS TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV9CNKG7w0unWCb4wRRXY34/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV9CNKG7w0unWCb4wRRXY34/m3u8
 #EXTINF:-1,IN | TS SHOW BOX
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfnH3OeFqVW8wOAZ79sUZR0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfnH3OeFqVW8wOAZ79sUZR0/m3u8
 #EXTINF:-1,IN | TS TATA SKY VEDIC MATHS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUYID8DLv4zN78NUtlfvZeE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUYID8DLv4zN78NUtlfvZeE/m3u8
 #EXTINF:-1,IN-KN | TS SUVARNA NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVWkCN_AMBRwEKXp26ewGyA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVWkCN_AMBRwEKXp26ewGyA/m3u8
 #EXTINF:-1,IN-MY | TS SURYA MOVIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbcih_zNMrYD5nrJh8ZX4kY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbcih_zNMrYD5nrJh8ZX4kY/m3u8
 #EXTINF:-1,IN-PUNJ | TS PTC GOLD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdfz6km10_3wRFZPQ4fwjzc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdfz6km10_3wRFZPQ4fwjzc/m3u8
 #EXTINF:-1,IN-PUNJ | TS 9X TASHAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR-pO8T7w2LOsOWHJXWqhGY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR-pO8T7w2LOsOWHJXWqhGY/m3u8
 #EXTINF:-1,IN-PUNJ | TS MANORANJAN MOVIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXN36tFZOV8Ns6Aa9m2koe0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXN36tFZOV8Ns6Aa9m2koe0/m3u8
 #EXTINF:-1,IN-MY | TS MAZAVALI MANORAMA FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZNkP3MeYtz8TCiw2xIA28s/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZNkP3MeYtz8TCiw2xIA28s/m3u8
 #EXTINF:-1,IN-MY | TS MEDIA ONE TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSt2rIJVEqDf7Lqz73qjkoY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSt2rIJVEqDf7Lqz73qjkoY/m3u8
 #EXTINF:-1,IN-TG | TS SONY BBC EARTH FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQEvwxcd1mhYKywSgwj0vCE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQEvwxcd1mhYKywSgwj0vCE/m3u8
 #EXTINF:-1,IN-TM | TS ZEE TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVv5nOf9VLV7iSxu5rOWe98/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVv5nOf9VLV7iSxu5rOWe98/m3u8
 #EXTINF:-1,IN-TM | TS PUTIYA THALAMURAI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTCqVdPbL2LI3Z85Z8VUBQg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTCqVdPbL2LI3Z85Z8VUBQg/m3u8
 #EXTINF:-1,IN-ODIA | TS PRATHANA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRkLQ23-o0Q67L-gg-dGvUE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRkLQ23-o0Q67L-gg-dGvUE/m3u8
 #EXTINF:-1,IN | TS ISHWAR TV DEVOTIONAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWHZcGKQAZ_IAJ58XRXJXnM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWHZcGKQAZ_IAJ58XRXJXnM/m3u8
 #EXTINF:-1,IN | TS SATSANG TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbzGqarwF3n5HIzLEDBD1yQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbzGqarwF3n5HIzLEDBD1yQ/m3u8
 #EXTINF:-1,IN | TS GOOD TIMES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWu7x2vJf_yHovwcKw0nHFo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWu7x2vJf_yHovwcKw0nHFo/m3u8
 #EXTINF:-1,IN-NEWS | TS CNBC AWAZ
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVm-AGeAcvQMB-OEiq0F4M/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVm-AGeAcvQMB-OEiq0F4M/m3u8
 #EXTINF:-1,IN | TS DD NATIONAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWCy0B7GpciRg8GMAhYCOrE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWCy0B7GpciRg8GMAhYCOrE/m3u8
 #EXTINF:-1,IN| TS CINEMA TV INDIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ_cvmFmBJRQBXHKdxQAA8w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ_cvmFmBJRQBXHKdxQAA8w/m3u8
 #EXTINF:-1,IN | TS DD SPORTS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRtcBcLZegf87uZKWWkpEe8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRtcBcLZegf87uZKWWkpEe8/m3u8
 #EXTINF:-1,IN-NEWS | TS APN NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjJwqXxtYVFwPFwy39K7JQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjJwqXxtYVFwPFwy39K7JQ/m3u8
 #EXTINF:-1,IN-PUNJ | TS GARV PUNJAB
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscGbR8xC4Z22h7n28l3h4MM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscGbR8xC4Z22h7n28l3h4MM/m3u8
 #EXTINF:-1,IN-MY | TS MAZHAVIL MANORAMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTkwBASkGAVnsh-Ef-RqDVc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTkwBASkGAVnsh-Ef-RqDVc/m3u8
 #EXTINF:-1,IN-MY | TS SHOLAM TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseUDe3Pt88d6DcBLjrsJSwo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseUDe3Pt88d6DcBLjrsJSwo/m3u8
 #EXTINF:-1,IN-TM | TS DISCOVERY WORLD FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYRkCmd5eBsEWya4hqNkzAY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYRkCmd5eBsEWya4hqNkzAY/m3u8
 #EXTINF:-1,IN-TG | DISCOVERY WORLD FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRFQ0HH4lcPB314XeCOQmsY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRFQ0HH4lcPB314XeCOQmsY/m3u8
 #EXTINF:-1,IN-TG | TS HISTORY 18 FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ_zS4csurAGXvPFMnSdMzI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ_zS4csurAGXvPFMnSdMzI/m3u8
 #EXTINF:-1,IN-TM | TS HISTORY TV18 HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQWEUb1phQfzJBNGd2aik9g/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQWEUb1phQfzJBNGd2aik9g/m3u8
 #EXTINF:-1,IN | VT COLORS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsayfzNklOhI03SYBda3q1CA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsayfzNklOhI03SYBda3q1CA/m3u8
 #EXTINF:-1,IN | VT COLORS RISHTEY FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbjo7YUvFpUi9VeDkOOsHG4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbjo7YUvFpUi9VeDkOOsHG4/m3u8
 #EXTINF:-1,IN | VT COLORS CINEPLEX FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXS_MGKabXktxeGWNcsw6BU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXS_MGKabXktxeGWNcsw6BU/m3u8
 #EXTINF:-1,IN | VT MTV HD+
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfSbOT4_w7ZaDCT0y_wqBgM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfSbOT4_w7ZaDCT0y_wqBgM/m3u8
 #EXTINF:-1,IN | VT MTV BEATS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseXnSHhNkEgDOzhuDkEWHjg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseXnSHhNkEgDOzhuDkEWHjg/m3u8
 #EXTINF:-1,IN | VT NICK FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVjE2IQutMDxuILfynruxdM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVjE2IQutMDxuILfynruxdM/m3u8
 #EXTINF:-1,IN | VT NICK JR FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfjEwObiUiTt9samp7cEEis/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfjEwObiUiTt9samp7cEEis/m3u8
 #EXTINF:-1,IN | VT CLUBBING TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYNLn-OSxiXyhQ5N-bXzEAc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYNLn-OSxiXyhQ5N-bXzEAc/m3u8
 #EXTINF:-1,IN | VT SONIC KIDS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV2fNrDnleWoP-geigy9_Mk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsV2fNrDnleWoP-geigy9_Mk/m3u8
 #EXTINF:-1,IN | VT COLORS INFINITY FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXotLPkM2l9QdjtuzlGM_Xg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXotLPkM2l9QdjtuzlGM_Xg/m3u8
 #EXTINF:-1,IN-KN | VT COLORS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQFb2AA2aW-YYNskuecWDgg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQFb2AA2aW-YYNskuecWDgg/m3u8
 #EXTINF:-1,IN | VT NEWS 18 INDIA FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ-mCb3OmVzvxTYGDOOdovo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZ-mCb3OmVzvxTYGDOOdovo/m3u8
 #EXTINF:-1,IN-KN | VT COLORS SUPER FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWG5trsBfPqbzQUOQ_DXes4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWG5trsBfPqbzQUOQ_DXes4/m3u8
 #EXTINF:-1,IN | VT CNN NEWS 18 ENG FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX2dQIO-rn-NsXzp_fZj1Tw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX2dQIO-rn-NsXzp_fZj1Tw/m3u8
 #EXTINF:-1,IN-TM | VT NEWS 18 TAMIL-NAIDU FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUaQqee8zx3bwoKDuSnfyNc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUaQqee8zx3bwoKDuSnfyNc/m3u8
 #EXTINF:-1,IN-MAR | VT COLORS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseAmFuN0f0AryC3Fv9Luk-U/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseAmFuN0f0AryC3Fv9Luk-U/m3u8
 #EXTINF:-1,IN-BG | VT COLORS BANGLA FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdMdXmoUVtycfGNl0R2c-og/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdMdXmoUVtycfGNl0R2c-og/m3u8
 #EXTINF:-1,IN-ODIA | VT COLORS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX9pYqzhJC4sOVG5y3iZlOY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX9pYqzhJC4sOVG5y3iZlOY/m3u8
 #EXTINF:-1,IN-GUJ | VT COLORS FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTQthdUGwpwqnBl73iX7HME/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTQthdUGwpwqnBl73iX7HME/m3u8
 #EXTINF:-1,IN-NEWS | TS KASHISH NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQQ4oB-RMRuIwzLhPTcKq_I/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQQ4oB-RMRuIwzLhPTcKq_I/m3u8
 #EXTINF:-1,IN-NEWS | TS SAMAY RAJASTHAN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRfqyon_rqnsCeVMy8lRPf4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRfqyon_rqnsCeVMy8lRPf4/m3u8
 #EXTINF:-1,IN-NEWS | TS SMBC EXPRESS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdHZnNt9pzJXJOVKgYAj80k/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdHZnNt9pzJXJOVKgYAj80k/m3u8
 #EXTINF:-1,IN-NEWS | TS CHANNEL WIN
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR3z2HYUc1K13t9peneA_Gc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR3z2HYUc1K13t9peneA_Gc/m3u8
 #EXTINF:-1,IN-NEWS | TS GOOD NEWS TODAY
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS0OpKBwo1iUeq_Op05omxU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS0OpKBwo1iUeq_Op05omxU/m3u8
 #EXTINF:-1,IN-NEWS | TS PRIME NEWS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzUbqkdtACAPWs6Ok64_Ig/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzUbqkdtACAPWs6Ok64_Ig/m3u8
 #EXTINF:-1,IN | BIGG BOSS 24X7 FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTSnTiCul_otjHY0ybxLmYU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTSnTiCul_otjHY0ybxLmYU/m3u8
 #EXTINF:-1,IN | BIGG BOSS 24X7 HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYLiON-AAes_WOA0Mxovbg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYLiON-AAes_WOA0Mxovbg/m3u8
 #EXTINF:-1,IN-TG | STUDIO YUVA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseA8Nk1Si-yoMmXOCWD6REw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseA8Nk1Si-yoMmXOCWD6REw/m3u8
 #EXTINF:-1,T20 WORLD CUP - Kannada
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZRJZrJjehYxTQ-TTj0KwJ4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZRJZrJjehYxTQ-TTj0KwJ4/m3u8
 #EXTINF:-1,T20 WORLD CUP AD FREE - English
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXLONZLsfm02jy3zkP4dyWQ/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXLONZLsfm02jy3zkP4dyWQ/m3u8
 #EXTINF:-1,T20 WORLD CUP AD FREE - Hindi
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscU1pUK2gJJMmO9HML_wMXA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscU1pUK2gJJMmO9HML_wMXA/m3u8
 #EXTINF:-1,T20 WORLD CUP - Tamil
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsab8e-tDT5rHk0FnsmxaRGY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsab8e-tDT5rHk0FnsmxaRGY/m3u8
 #EXTINF:-1,T20 WORLD CUP AD FREE - Telugu
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ-fk9dgc3zOmipIMawSlkA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ-fk9dgc3zOmipIMawSlkA/m3u8
 #EXTINF:-1,T20 WORLD CUP AD FREE - Bengali
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTlRUMCrEIhv3xg7Y0U6WR0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTlRUMCrEIhv3xg7Y0U6WR0/m3u8
 #EXTINF:-1,T20 WORLD CUP AD FREE - Dugout
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTScgeoZom8FYqAhvE0Hvdo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTScgeoZom8FYqAhvE0Hvdo/m3u8
 #EXTINF:-1,IN | STAR MOVIES FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVkVVck3Ti6rhSm3aaiWMUo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVkVVck3Ti6rhSm3aaiWMUo/m3u8
 #EXTINF:-1,IN | STAR MOVIES SELECT FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZrEsctW43u9_b2CZsSsd5M/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZrEsctW43u9_b2CZsSsd5M/m3u8
 #EXTINF:-1,IN | & FLIX FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWwb8EtIubYhfOGlxdLFlEE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWwb8EtIubYhfOGlxdLFlEE/m3u8
 #EXTINF:-1,IN | B4U KADAK
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR9q3UYoQqIaag8qXKIxnZY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR9q3UYoQqIaag8qXKIxnZY/m3u8
 #EXTINF:-1,IN | COLORS RISHTEY
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTkpM2BgWFMRJ_V4DORypH8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTkpM2BgWFMRJ_V4DORypH8/m3u8
 #EXTINF:-1,IN | SONY PAL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRx1xODQqoj-OWBt2R1q-gM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRx1xODQqoj-OWBt2R1q-gM/m3u8
 #EXTINF:-1,IN | STAR UTSAV MOVIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsReiq6eZDmwrncyIy_K7czI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsReiq6eZDmwrncyIy_K7czI/m3u8
 #EXTINF:-1,IN | D2H MAHA MOVIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscziOfpB4a7SN3DYxwmF810/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscziOfpB4a7SN3DYxwmF810/m3u8
 #EXTINF:-1,IN | STAR UTSAV SD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTGm90vwRVzdARghy-MR9KY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTGm90vwRVzdARghy-MR9KY/m3u8
 #EXTINF:-1,IN | STAR GOLD SELECT FHD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 #EXTINF:-1,IN | WOW Kidz Hindi
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYgYtFaRZt4zskKvhILguo0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYgYtFaRZt4zskKvhILguo0/m3u8
 #EXTINF:-1,UK-Utsav Bharat SD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscVjhCz5eQshDWjN1v_qrY4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscVjhCz5eQshDWjN1v_qrY4/m3u8
 #EXTINF:-1,UK-Colors TV HD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsec-QJEJEA8Vg-GJ8SjIL9U/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsec-QJEJEA8Vg-GJ8SjIL9U/m3u8
 #EXTINF:-1,UK-Colors Rishtey SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXh2RXckeq_CiZszkJRqxGE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXh2RXckeq_CiZszkJRqxGE/m3u8
 #EXTINF:-1,UK-Zee Cinema HD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXrsOdGXI68QgWruP5EIlns/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXrsOdGXI68QgWruP5EIlns/m3u8
 #EXTINF:-1,UK-SONY SAB SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS7Hq_S9InPL8OnyXk5zy_0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS7Hq_S9InPL8OnyXk5zy_0/m3u8
 #EXTINF:-1,UK-Utsav Bharat
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscqnAe1OlBT2aActid2v0WE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscqnAe1OlBT2aActid2v0WE/m3u8
 #EXTINF:-1,UK-Utsav Plus SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsddpKM6_5QgZVS-Lr6uB2pg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsddpKM6_5QgZVS-Lr6uB2pg/m3u8
 #EXTINF:-1,UK-Zee TV FHD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUJWMZgwjOCBOjFoROhDY1w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUJWMZgwjOCBOjFoROhDY1w/m3u8
 #EXTINF:-1,UK-SONY TV HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc1j8OUhIxCYg3Qie-sVXII/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc1j8OUhIxCYg3Qie-sVXII/m3u8
 #EXTINF:-1,UK-SONY MAX SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQMwM40NACWWKfqot80AxAo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQMwM40NACWWKfqot80AxAo/m3u8
 #EXTINF:-1,UK-Utsav Gold SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdFvL3HcS8NougAye_w7rPE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdFvL3HcS8NougAye_w7rPE/m3u8
 #EXTINF:-1,UK-Brit Asia TV SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfMgU52Km0k0dNzx6sCysy0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfMgU52Km0k0dNzx6sCysy0/m3u8
 #EXTINF:-1,IN | STAR WORLD PREMIERE FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaNBPqj3ZipZCwjQXu-b7Lo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaNBPqj3ZipZCwjQXu-b7Lo/m3u8
 #EXTINF:-1,UK-B4U Movies SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscZIl53Lslw5AE7-eqPxwqA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscZIl53Lslw5AE7-eqPxwqA/m3u8
 #EXTINF:-1,UK-SONY SAB TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscSR5LUFbtpGNVC0S_uVMiA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscSR5LUFbtpGNVC0S_uVMiA/m3u8
 #EXTINF:-1,UK-Zee Cinema SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfKC9aKvAhECWuWtTKQVIGo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfKC9aKvAhECWuWtTKQVIGo/m3u8
 #EXTINF:-1,UK-B4U Music
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaXjh1j_FQgO37_KhLA6Z4k/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaXjh1j_FQgO37_KhLA6Z4k/m3u8
 #EXTINF:-1,IN | D2H DABANGG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW6vF_Y6LA92mpnsORmpUE8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsW6vF_Y6LA92mpnsORmpUE8/m3u8
 #EXTINF:-1,IN | UTV ACTION
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUIirSF58EJWKm496k_or84/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUIirSF58EJWKm496k_or84/m3u8
 #EXTINF:-1,IN | ZEE CAFE HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX5ZBxVdiwP63NsZmzbKLFc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX5ZBxVdiwP63NsZmzbKLFc/m3u8
 #EXTINF:-1,UK-Colors Cineplex SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXQLGtxYeZwJkkh-MgpFGTg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXQLGtxYeZwJkkh-MgpFGTg/m3u8
 #EXTINF:-1,IN | WOW CINEMA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa_awv1vmPnCI4JWu37nDCU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa_awv1vmPnCI4JWu37nDCU/m3u8
 #EXTINF:-1,IN | ZEE5 ORIGNALS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS-bSwvQ_MzfBsK7w_SD-2w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS-bSwvQ_MzfBsK7w_SD-2w/m3u8
 #EXTINF:-1,IN | ZEE5 ROMANACE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU4mkazI1zJMpDY772NDERc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsU4mkazI1zJMpDY772NDERc/m3u8
 #EXTINF:-1,IN | D2H SONY BBC EARTH FHD HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfOqFB-T3CdVQPOAJEElRFo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfOqFB-T3CdVQPOAJEElRFo/m3u8
 #EXTINF:-1,IN | D2H SONY BBC EARTH FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXaYCx7pMDaZoD6kBeoQBSI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXaYCx7pMDaZoD6kBeoQBSI/m3u8
 #EXTINF:-1,IN | D2H SONIC HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSHW4DARDmvrSEgoIjsvkag/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSHW4DARDmvrSEgoIjsvkag/m3u8
 #EXTINF:-1,IN | D2H ROMEDY NOW FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTv_nP9u4wwKOcds9TZuW9o/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTv_nP9u4wwKOcds9TZuW9o/m3u8
 #EXTINF:-1,IN | D2H POGO HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseu1dZoZcOcYpPSqp1mYNeA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseu1dZoZcOcYpPSqp1mYNeA/m3u8
 #EXTINF:-1,IN | D2H POGO ENGLISH
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdRiAYQdAnlPPhLv1hS6rt4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdRiAYQdAnlPPhLv1hS6rt4/m3u8
 #EXTINF:-1,IN | D2H NICK JUNIOR HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSzl_VKAJxri54dXQgit0fI/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSzl_VKAJxri54dXQgit0fI/m3u8
 #EXTINF:-1,IN | D2H NICK JUNIOR ENG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ2b4LRlB-UJEQbW9XNLEsg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ2b4LRlB-UJEQbW9XNLEsg/m3u8
 #EXTINF:-1,IN | D2H NICK HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVAYvyyMijVT4XeDq_wco4M/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVAYvyyMijVT4XeDq_wco4M/m3u8
 #EXTINF:-1,IN | D2H NICK+ FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbNnRVxhJLaRyutudXiSHvg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbNnRVxhJLaRyutudXiSHvg/m3u8
 #EXTINF:-1,IN | D2H NAT GEO HINDI FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsehFJRJCrYR00_CdRpqqqko/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsehFJRJCrYR00_CdRpqqqko/m3u8
 #EXTINF:-1,IN | D2H NAT GEO ENG FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS9JDhunw6x83E59LXn0Omw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS9JDhunw6x83E59LXn0Omw/m3u8
 #EXTINF:-1,IN | D2H NAT GEO WILD HINDI FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQUvPr4RIXh2Vz64Z0dOcT0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQUvPr4RIXh2Vz64Z0dOcT0/m3u8
 #EXTINF:-1,IN | D2H NAT GEO WILD ENG FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXlZCjPrZDwaHnuajCiOgw0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXlZCjPrZDwaHnuajCiOgw0/m3u8
 #EXTINF:-1,IN | D2H MTV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWOqGo2TSwbAZHm75fPqHzw/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWOqGo2TSwbAZHm75fPqHzw/m3u8
 #EXTINF:-1,IN | D2H MOVIE ACTIVE FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYTq6zIkfQc6qX-GBlznnKE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYTq6zIkfQc6qX-GBlznnKE/m3u8
 #EXTINF:-1,IN | D2H MOVIES NOW
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZqUV-E5jQbl64iC9qB5lTg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZqUV-E5jQbl64iC9qB5lTg/m3u8
 #EXTINF:-1,IN | D2H MNX FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQD5ZureR3vgrG0vnNbSDvk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQD5ZureR3vgrG0vnNbSDvk/m3u8
 #EXTINF:-1,IN | D2H HUNGAMA TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSt-Jq3awl7iMIGpmq_ZTzY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSt-Jq3awl7iMIGpmq_ZTzY/m3u8
 #EXTINF:-1,IN | D2H HISTORY TV18 HINDI FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYrLOrwye2K4mI1AnPzIgo4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYrLOrwye2K4mI1AnPzIgo4/m3u8
 #EXTINF:-1,IN | D2H HISTORY TV18 ENG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbCnfbLYBy75lue2ge3Z8AY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbCnfbLYBy75lue2ge3Z8AY/m3u8
 #EXTINF:-1,IN | D2H FOX LIFE HINDI FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQXGBRTg5Kb8tmheKbCy83o/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQXGBRTg5Kb8tmheKbCy83o/m3u8
 #EXTINF:-1,IN | D2H FOX LIFE ENGLISH FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscVz_0fnUXEcTD6YFpoGYx4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qscVz_0fnUXEcTD6YFpoGYx4/m3u8
 #EXTINF:-1,IN | D2H DISNEY JUNIOR
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXov4Lj91lwfBo3frHEQmQE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXov4Lj91lwfBo3frHEQmQE/m3u8
 #EXTINF:-1,IN | D2H DISNEY CHANNEL
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWc6em3H3SQbpb6omlWN93w/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWc6em3H3SQbpb6omlWN93w/m3u8
 #EXTINF:-1,IN | D2H DISCOVERY TURBO
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfPqeOvo3zLMXxCV8bLLpN0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfPqeOvo3zLMXxCV8bLLpN0/m3u8
 #EXTINF:-1,IN | D2H DISCOVERY SCIENCE
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRvK3jdTiAFRY-I_pflpSGs/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRvK3jdTiAFRY-I_pflpSGs/m3u8
 #EXTINF:-1,IN | D2H DISCOVERY KIDS HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSk__aLzizgK2COuFN_2Gcg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSk__aLzizgK2COuFN_2Gcg/m3u8
 #EXTINF:-1,IN | D2H DISCOVERY HINDI FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVEYQ8P3W2Ixjod9dTrmbI8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVEYQ8P3W2Ixjod9dTrmbI8/m3u8
 #EXTINF:-1,IN | D2H DISCOVERY ENGLISH FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWzKke3RomyIUN7X5BDFUfE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWzKke3RomyIUN7X5BDFUfE/m3u8
 #EXTINF:-1,IN | D2H COLORS TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVmKXFX-4nkf4OK9h08Ktlc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVmKXFX-4nkf4OK9h08Ktlc/m3u8
 #EXTINF:-1,IN | D2H COLORS INFINITY FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTFZheltFnBh_FJB0RNtEU8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTFZheltFnBh_FJB0RNtEU8/m3u8
 #EXTINF:-1,IN | D2H COLORS CINEPLEX FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseDvp4GJolJFoHae_oZdvAo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseDvp4GJolJFoHae_oZdvAo/m3u8
 #EXTINF:-1,IN | D2H CARTOON NETWORK HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT3TtQ7sBOyFLXu4_0Mwqro/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT3TtQ7sBOyFLXu4_0Mwqro/m3u8
 #EXTINF:-1,IN | D2H ANIMAL PLANET FHD ENG
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS4Gw5jLbNwRPNLxRXpBpXM/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsS4Gw5jLbNwRPNLxRXpBpXM/m3u8
 #EXTINF:-1,IN | D2H & PRIVE FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfYY5llKlUoqN7ILnvMI0as/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsfYY5llKlUoqN7ILnvMI0as/m3u8
 #EXTINF:-1,IN | D2H & PICTURES FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWFEOacH7q8pSlT5ARbIpT4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsWFEOacH7q8pSlT5ARbIpT4/m3u8
 #EXTINF:-1,IN | D2H & FLIX ENGLISH FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXlnGOShKxTMNdtZT6SK5_I/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXlnGOShKxTMNdtZT6SK5_I/m3u8
 #EXTINF:-1,IN | D2H & FLIX HINDI FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR6LJOz9NHm2ksSI6uqceTA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR6LJOz9NHm2ksSI6uqceTA/m3u8
 #EXTINF:-1,IN | AT & Xplore HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZTJf-wT6s37bQ0fxYANDMo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZTJf-wT6s37bQ0fxYANDMo/m3u8
 #EXTINF:-1,IN | STAR GOLD 2
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdhSUDC_dhmT-36ml6YwI84/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdhSUDC_dhmT-36ml6YwI84/m3u8
 #EXTINF:-1,IN | D2H ANIMAL PLANET FHD HINDI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUtmbpaM7CCYrtFI07wMKqo/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUtmbpaM7CCYrtFI07wMKqo/m3u8
 #EXTINF:-1,IN | D2H MTV BEATS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseIObHqKt9GJmflwNqxpLfk/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qseIObHqKt9GJmflwNqxpLfk/m3u8
 #EXTINF:-1,IN | D2H & TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbKDfY_xpypT_2Rp4-0G-5c/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbKDfY_xpypT_2Rp4-0G-5c/m3u8
 #EXTINF:-1,IN | ZEE5 MUSIC Co
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSL-_w3Pi7FKMB-MYmgFYcY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSL-_w3Pi7FKMB-MYmgFYcY/m3u8
 #EXTINF:-1,IN | HAREKRSNA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbqETHRcv9HcNHcLq_9lBBg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsbqETHRcv9HcNHcLq_9lBBg/m3u8
 #EXTINF:-1,IN | LIVING FOODZ HD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdtqANGLE7kqr_z3s0n1fAg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdtqANGLE7kqr_z3s0n1fAg/m3u8
 #EXTINF:-1,IN | UTV MOVIES
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qserM7x3WM8iJK6s5MD-F9mU/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qserM7x3WM8iJK6s5MD-F9mU/m3u8
 #EXTINF:-1,IN | D2H MOVIE PLUS
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYTkOchXxW81OquaG1qFOuc/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYTkOchXxW81OquaG1qFOuc/m3u8
 #EXTINF:-1,IN | D2H DILLAGI TV
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXJILZ20FhdqELeYMMUHu-s/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXJILZ20FhdqELeYMMUHu-s/m3u8
 #EXTINF:-1,IN | MUSIC INDIA
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb7o3IG5hGgmSW5NU1dG9Xg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb7o3IG5hGgmSW5NU1dG9Xg/m3u8
 #EXTINF:-1,IN | ZEE ETC PUNJABI
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdl3oKcPyS38kJj4AAW-ZT8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdl3oKcPyS38kJj4AAW-ZT8/m3u8
 #EXTINF:-1,IN | & PRIVE FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVG9bMecQgAZ0xefSa--nT0/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVG9bMecQgAZ0xefSa--nT0/m3u8
 #EXTINF:-1,UK-SONY MAX 2 SD*
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsed7pT2zwYoKwqqGeEK2GD8/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsed7pT2zwYoKwqqGeEK2GD8/m3u8
 #EXTINF:-1,IN | ZEE SALAAM
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQxgr5DwswsSkVvuvaBe4DA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQxgr5DwswsSkVvuvaBe4DA/m3u8
 #EXTINF:-1,IN | D2H SONY MAX 2
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRcGgj9uylMW3cW-GHihps4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsRcGgj9uylMW3cW-GHihps4/m3u8
 #EXTINF:-1,IN | D2H SONY MAX FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVJtLoa161-Vpb4GsUhmkXA/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVJtLoa161-Vpb4GsUhmkXA/m3u8
 #EXTINF:-1,IN | D2H SONY PIX FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa-DXoGILkYdQJB_R6i2OFg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsa-DXoGILkYdQJB_R6i2OFg/m3u8
 #EXTINF:-1,IN | D2H SONY SAB FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTo6ulcEsHHeOmgOMhSpj5o/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsTo6ulcEsHHeOmgOMhSpj5o/m3u8
 #EXTINF:-1,IN | D2H SONY TV FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXnUMufF0duqD9ayE4WmH8M/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXnUMufF0duqD9ayE4WmH8M/m3u8
 #EXTINF:-1,IN | D2H STAR BHARAT FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX04MsOzzK9sPDpKrpjYsV4/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX04MsOzzK9sPDpKrpjYsV4/m3u8
 #EXTINF:-1,IN | D2H STAR GOLD 2
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
 #EXTINF:-1,IN | D2H STAR GOLD FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/m3u8
 #EXTINF:-1,IN | D2H STAR GOLD SELECT FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZhUT1u9TMmOpA-lYHQBs2o/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZhUT1u9TMmOpA-lYHQBs2o/m3u8
 #EXTINF:-1,IN | D2H STAR MOVIES SELECT FHD
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ81YftqwJBM7j1KHrRcyLY/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQ81YftqwJBM7j1KHrRcyLY/m3u8
 #EXTINF:-1,IN | D2H STAR PLUS FHD
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY3FucfM5f28ca9ivgUZjS8/m3u8
 #EXTINF:-1,IN | D2H STAR WORLD FHD
