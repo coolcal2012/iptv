@@ -83,11 +83,11 @@ http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/42.m3u8
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Documentary",Sony BBC Earth HD
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="Hindi",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="Bangla",Movies Now
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Music",Zee ETC
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Bangla",Zee ETC
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="Music",9xM
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="Bangla",9xM
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="http://roarmediazone.com/tv/weblogo/108.jpg" group-title="Bangla",ATN NEWS
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/49.m3u8
@@ -103,9 +103,9 @@ http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/54.m3u8
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://roarmediazone.com/tv/weblogo/96.jpg" group-title="Bangla",MY TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="Music",Dhoom Music
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="Bangla",Dhoom Music
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/86.jpg" group-title="Music",Gaan Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/86.jpg" group-title="Bangla",Gaan Bangla
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/58.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="http://roarmediazone.com/tv/weblogo/110.jpg" group-title="Bangla",Nagorik TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/59.m3u8
@@ -183,7 +183,7 @@ http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/99.m3u8
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="Bangla",Sony Aath
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="a Bangla",T Sports
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="Bangla",Mnx
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/39.m3u8
