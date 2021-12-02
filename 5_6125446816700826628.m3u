@@ -1,0 +1,795 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
+https://236s.short.gy/DreamTV/Colors_HD.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF: -1 group-title="Hindi", IN: STAR SPORTS 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+#EXTINF: -1 group-title="Hindi", IN: STAR SPORTS 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
+#EXTINF: -1 group-title="Hindi", IN: Food TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/176
+#EXTINF: -1 group-title="Hindi", IN: TEN 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+#EXTINF: -1 group-title="Hindi", IN: TEN 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
+#EXTINF: -1 group-title="Hindi", IN: TEN 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+#EXTINF: -1 group-title="Hindi", IN: TEN 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+#EXTINF: -1 group-title="Hindi", IN: TEN Golf HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
+#EXTINF: -1 group-title="Hindi", IN: Zee TV-HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/181
+#EXTINF: -1 group-title="Hindi", IN: ZEE ETC HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/180
+#EXTINF: -1 group-title="Hindi", IN: Zee Cinema
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/189
+#EXTINF: -1 group-title="Hindi", IN: Zee Cafe
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
+#EXTINF: -1 group-title="Hindi", IN: Zee News
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/183
+#EXTINF: -1 group-title="Hindi", IN: Zee 24 Kalak
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/184
+#EXTINF: -1 group-title="Hindi", IN: Zee Anmol
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/186
+#EXTINF: -1 group-title="Hindi", IN: Zee Action
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/187
+#EXTINF: -1 group-title="Hindi", IN: Zee Classic
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
+#EXTINF: -1 group-title="Hindi", IN: Zee Living
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/190
+#EXTINF: -1 group-title="Hindi", IN: SUN TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/161
+#EXTINF: -1 group-title="Hindi", IN: STAR PLUS HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/191
+#EXTINF: -1 group-title="Hindi", IN: Star Jalsha
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
+#EXTINF: -1 group-title="Hindi", IN: Sony Six
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#EXTINF: -1 group-title="Hindi", IN: J Movie
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3421
+#EXTINF: -1 group-title="Hindi", IN: Sanskar TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16638
+#EXTINF: -1 group-title="Hindi", IN: GEMINI Movies
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3422
+#EXTINF: -1 group-title="Hindi", IN: STAR GOLD HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
+#EXTINF: -1 group-title="Hindi", IN: SONY TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
+#EXTINF: -1 group-title="Hindi", IN: SONY SAB ASIA
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/195
+#EXTINF: -1 group-title="Hindi", IN: SONY MIX
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/196
+#EXTINF: -1 group-title="Hindi", IN: SONY MAX2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
+#EXTINF: -1 group-title="Hindi", IN: KTV-HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/162
+#EXTINF: -1 group-title="Hindi", IN: JAYA TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/164
+#EXTINF: -1 group-title="Hindi", IN: CNBC Awaaz
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18530
+#EXTINF: -1 group-title="Hindi", IN: JAYA Plus
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/165
+#EXTINF: -1 group-title="Hindi", IN: JAYA MOVIES
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/163
+#EXTINF: -1 group-title="Hindi", IN: COLORS TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/198
+#EXTINF: -1 group-title="Hindi", IN: B4U MOVIES
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/201
+#EXTINF: -1 group-title="Hindi", IN: B4U MUSIC
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/200
+#EXTINF: -1 group-title="Hindi", IN: B4U PLUS
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/199
+#EXTINF: -1 group-title="Hindi", IN: ASIANET
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/166
+#EXTINF: -1 group-title="Hindi", IN: ASIANET PLUS
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/167
+#EXTINF: -1 group-title="Hindi", IN: ASIANET MOVIES
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/168
+#EXTINF: -1 group-title="Hindi", PK: PTV SPORTS HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5221
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English", Discovery Science English
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English", Discovery Turbo
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
+https://last.gcdn.co/IND414/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Bangla
+https://last.gcdn.co/IND415/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC SD Hindi
+https://236s.short.gy/DreamTV/PriveHD.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="English", FX HD
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", HBO
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English", Rush Channel
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="Sports", Sony ten 2
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
+https://236s.short.gy/DreamTV/ChSP1.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports", Star Sports 2
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
+https://236s.short.gy/DreamTV/PTV.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Indian Worldwide", Cartoon Network English
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2456.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Indian Worldwide", Discovery Kids Hindi
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Indian Worldwide", Nick Junior Hindi
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF: -1 group-title="Indian Worldwide", SUN MUSIC HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43592
+#EXTINF: -1 group-title="Indian Worldwide", SUN TV HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43591
+#EXTINF: -1 group-title="Indian Worldwide", SURYA TV HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43590
+#EXTINF: -1 group-title="Indian Worldwide", UDAYA TV HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43589
+#EXTINF: -1 group-title="Indian Worldwide", ZEE MARATHI HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43588
+#EXTINF: -1 group-title="Indian Worldwide", ZEE TALKIES HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43587
+#EXTINF: -1 group-title="Indian Worldwide", ITN TV LK VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/89760
+#EXTINF: -1 group-title="Indian Worldwide", Sri TV LK VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/89761
+#EXTINF: -1 group-title="Indian Worldwide", ETV ABHIRUCHI IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/89958
+#EXTINF: -1 group-title="Indian Worldwide", ETV Life IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/89960
+#EXTINF: -1 group-title="Indian Worldwide", ABN ANDHRA J IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/89961
+#EXTINF: -1 group-title="Indian Worldwide", ##########   India   ##########
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2543
+#EXTINF: -1 group-title="Indian Worldwide", &TV FHD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15879
+#EXTINF: -1 group-title="Indian Worldwide", 9X Jhakaas IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2871
+#EXTINF: -1 group-title="Indian Worldwide", 9XM IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2870
+#EXTINF: -1 group-title="Indian Worldwide", 9XM Jalwa IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2869
+#EXTINF: -1 group-title="Indian Worldwide", 9xTashan IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2868
+#EXTINF: -1 group-title="Indian Worldwide", B4U Music IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2866
+#EXTINF: -1 group-title="Indian Worldwide", SUN Music IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4739
+#EXTINF: -1 group-title="Indian Worldwide", Music India IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2840
+#EXTINF: -1 group-title="Indian Worldwide", B4U Plus IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2841
+#EXTINF: -1 group-title="Indian Worldwide", MTV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2842
+#EXTINF: -1 group-title="Indian Worldwide", &pictures HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2867
+#EXTINF: -1 group-title="Indian Worldwide", And TV HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2865
+#EXTINF: -1 group-title="Indian Worldwide", Colors TV HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2856
+#EXTINF: -1 group-title="Indian Worldwide", Star Plus HD US IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2814
+#EXTINF: -1 group-title="Indian Worldwide", Zing TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2815
+#EXTINF: -1 group-title="Indian Worldwide", Star Gold IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2819
+#EXTINF: -1 group-title="Indian Worldwide", Sony Six HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2820
+#EXTINF: -1 group-title="Indian Worldwide", Sony Pix IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2821
+#EXTINF: -1 group-title="Indian Worldwide", Sony Pal IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2822
+#EXTINF: -1 group-title="Indian Worldwide", SetMax2 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2825
+#EXTINF: -1 group-title="Indian Worldwide", Sab TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2826
+#EXTINF: -1 group-title="Indian Worldwide", Rishtey IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2828
+#EXTINF: -1 group-title="Indian Worldwide", Set Max UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4756
+#EXTINF: -1 group-title="Indian Worldwide", Sony Sab HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4742
+#EXTINF: -1 group-title="Indian Worldwide", Sony UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4760
+#EXTINF: -1 group-title="Indian Worldwide", Star Plus UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4757
+#EXTINF: -1 group-title="Indian Worldwide", UTV Movies Inter IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4746
+#EXTINF: -1 group-title="Indian Worldwide", Colors TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6010
+#EXTINF: -1 group-title="Indian Worldwide", Colors UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5994
+#EXTINF: -1 group-title="Indian Worldwide", Rishtey Cine UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5986
+#EXTINF: -1 group-title="Indian Worldwide", Rishtey UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6011
+#EXTINF: -1 group-title="Indian Worldwide", Sab TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6014
+#EXTINF: -1 group-title="Indian Worldwide", Sony Max HD UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5984
+#EXTINF: -1 group-title="Indian Worldwide", Sony Sab UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5983
+#EXTINF: -1 group-title="Indian Worldwide", Sony TV Asia UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5982
+#EXTINF: -1 group-title="Indian Worldwide", Sony TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6012
+#EXTINF: -1 group-title="Indian Worldwide", Star Gold UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5981
+#EXTINF: -1 group-title="Indian Worldwide", Star Life OK UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5980
+#EXTINF: -1 group-title="Indian Worldwide", Star Utsav UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5979
+#EXTINF: -1 group-title="Indian Worldwide", Zee Cinema HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6015
+#EXTINF: -1 group-title="Indian Worldwide", Zee TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6013
+#EXTINF: -1 group-title="Indian Worldwide", Zing UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6016
+#EXTINF: -1 group-title="Indian Worldwide", Zoom UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6017
+#EXTINF: -1 group-title="Indian Worldwide", Sony MIX IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1352
+#EXTINF: -1 group-title="Indian Worldwide", Movies OK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2843
+#EXTINF: -1 group-title="Indian Worldwide", LifeOK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2848
+#EXTINF: -1 group-title="Indian Worldwide", B4U Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2849
+#EXTINF: -1 group-title="Indian Worldwide", UTV Bindas IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2803
+#EXTINF: -1 group-title="Indian Worldwide", Zee Action IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2797
+#EXTINF: -1 group-title="Indian Worldwide", Zee Anmol IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2796
+#EXTINF: -1 group-title="Indian Worldwide", UTV Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2795
+#EXTINF: -1 group-title="Indian Worldwide", Zee Business IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2794
+#EXTINF: -1 group-title="Indian Worldwide", Zee Zindagi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2785
+#EXTINF: -1 group-title="Indian Worldwide", ZeeNews IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2784
+#EXTINF: -1 group-title="Indian Worldwide", Zee Classic IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1346
+#EXTINF: -1 group-title="Indian Worldwide", Zee Cinema IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1347
+#EXTINF: -1 group-title="Indian Worldwide", Life OK HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4744
+#EXTINF: -1 group-title="Indian Worldwide", Zindagi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4763
+#EXTINF: -1 group-title="Indian Worldwide", Zoom IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4751
+#EXTINF: -1 group-title="Indian Worldwide", Star Plus IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2816
+#EXTINF: -1 group-title="Indian Worldwide", Zee ETC IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4762
+#EXTINF: -1 group-title="Indian Worldwide", Living Foodz 2 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4753
+#EXTINF: -1 group-title="Indian Worldwide", MH1 Shradha IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4740
+#EXTINF: -1 group-title="Indian Worldwide", News 24 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2854
+#EXTINF: -1 group-title="Indian Worldwide", Times Now IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4749
+#EXTINF: -1 group-title="Indian Worldwide", AAJ TAK UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5999
+#EXTINF: -1 group-title="Indian Worldwide", ABP News UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5998
+#EXTINF: -1 group-title="Indian Worldwide", And TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5997
+#EXTINF: -1 group-title="Indian Worldwide", NDTV 24x7 UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5988
+#EXTINF: -1 group-title="Indian Worldwide", AAJ TAK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4752
+#EXTINF: -1 group-title="Indian Worldwide", India TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4743
+#EXTINF: -1 group-title="Indian Worldwide", NDTV India IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4745
+#EXTINF: -1 group-title="Indian Worldwide", Zee News IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4759
+#EXTINF: -1 group-title="Indian Worldwide", Discovery IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2857
+#EXTINF: -1 group-title="Indian Worldwide", IBN 7 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4721
+#EXTINF: -1 group-title="Indian Worldwide", Ten Action IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2808
+#EXTINF: -1 group-title="Indian Worldwide", TEN 1 HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2809
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 1 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2813
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 2 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2812
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 3 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2811
+#EXTINF: -1 group-title="Indian Worldwide", Eleven Sport Network Asia IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1340
+#EXTINF: -1 group-title="Indian Worldwide", HBO IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2852
+#EXTINF: -1 group-title="Indian Worldwide", Ten Cricket HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2807
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 1 HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1344
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 2 HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1343
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 3 HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1342
+#EXTINF: -1 group-title="Indian Worldwide", TEN Golf HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2806
+#EXTINF: -1 group-title="Indian Worldwide", Ten Sports IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2805
+#EXTINF: -1 group-title="Indian Worldwide", Willow Cricket IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2798
+#EXTINF: -1 group-title="Indian Worldwide", Akkal Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5900
+#EXTINF: -1 group-title="Indian Worldwide", Sangat TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5910
+#EXTINF: -1 group-title="Indian Worldwide", PTC Chak DE Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5907
+#EXTINF: -1 group-title="Indian Worldwide", PTC News Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5908
+#EXTINF: -1 group-title="Indian Worldwide", PTC Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2829
+#EXTINF: -1 group-title="Indian Worldwide", Sikh Channel Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5911
+#EXTINF: -1 group-title="Indian Worldwide", Sanjh TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5889
+#EXTINF: -1 group-title="Indian Worldwide", PTC Chakde IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2830
+#EXTINF: -1 group-title="Indian Worldwide", Punjab TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5909
+#EXTINF: -1 group-title="Indian Worldwide", 9X Tashan Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5899
+#EXTINF: -1 group-title="Indian Worldwide", AOne Music Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5897
+#EXTINF: -1 group-title="Indian Worldwide", AOne Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5913
+#EXTINF: -1 group-title="Indian Worldwide", Britasia Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5901
+#EXTINF: -1 group-title="Indian Worldwide", ChakDE TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5896
+#EXTINF: -1 group-title="Indian Worldwide", Chardiala Time TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5902
+#EXTINF: -1 group-title="Indian Worldwide", Desi Channel Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5895
+#EXTINF: -1 group-title="Indian Worldwide", ETC Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5903
+#EXTINF: -1 group-title="Indian Worldwide", Jus One TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5904
+#EXTINF: -1 group-title="Indian Worldwide", JUS Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5905
+#EXTINF: -1 group-title="Indian Worldwide", MH1 News Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5892
+#EXTINF: -1 group-title="Indian Worldwide", MH1 Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5906
+#EXTINF: -1 group-title="Indian Worldwide", Zee Punjabi Haryana TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5888
+#EXTINF: -1 group-title="Indian Worldwide", Zee Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5912
+#EXTINF: -1 group-title="Indian Worldwide", ChakDE IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2864
+#EXTINF: -1 group-title="Indian Worldwide", Dabang TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2863
+#EXTINF: -1 group-title="Indian Worldwide", DD Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2862
+#EXTINF: -1 group-title="Indian Worldwide", Desi TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2860
+#EXTINF: -1 group-title="Indian Worldwide", MH1 Music IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2844
+#EXTINF: -1 group-title="Indian Worldwide", Media Punjab IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2845
+#EXTINF: -1 group-title="Indian Worldwide", Manoranjan TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2846
+#EXTINF: -1 group-title="Indian Worldwide", ARY Digital UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5996
+#EXTINF: -1 group-title="Indian Worldwide", Britasia TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5995
+#EXTINF: -1 group-title="Indian Worldwide", GEO News UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5993
+#EXTINF: -1 group-title="Indian Worldwide", GEO TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5991
+#EXTINF: -1 group-title="Indian Worldwide", HUM Europe UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5990
+#EXTINF: -1 group-title="Indian Worldwide", Noor TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5987
+#EXTINF: -1 group-title="Indian Worldwide", Takbeer TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5978
+#EXTINF: -1 group-title="Indian Worldwide", Aamar Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5945
+#EXTINF: -1 group-title="Indian Worldwide", ABP Ananda Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5947
+#EXTINF: -1 group-title="Indian Worldwide", Asian TV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5948
+#EXTINF: -1 group-title="Indian Worldwide", ATN Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5949
+#EXTINF: -1 group-title="Indian Worldwide", ATN Music TV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5943
+#EXTINF: -1 group-title="Indian Worldwide", ATN News Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5950
+#EXTINF: -1 group-title="Indian Worldwide", ATN UK Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5944
+#EXTINF: -1 group-title="Indian Worldwide", Bangla Vision Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5952
+#EXTINF: -1 group-title="Indian Worldwide", Bijoy Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5953
+#EXTINF: -1 group-title="Indian Worldwide", Boishakhi Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5954
+#EXTINF: -1 group-title="Indian Worldwide", BTV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5955
+#EXTINF: -1 group-title="Indian Worldwide", BTV World Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5956
+#EXTINF: -1 group-title="Indian Worldwide", Channel 24 Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5957
+#EXTINF: -1 group-title="Indian Worldwide", Channel 9 Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5940
+#EXTINF: -1 group-title="Indian Worldwide", Channel 99 Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5958
+#EXTINF: -1 group-title="Indian Worldwide", Channel I EU Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5939
+#EXTINF: -1 group-title="Indian Worldwide", Channel S Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5938
+#EXTINF: -1 group-title="Indian Worldwide", Channel I Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5959
+#EXTINF: -1 group-title="Indian Worldwide", Colors+ Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5937
+#EXTINF: -1 group-title="Indian Worldwide", DBC News Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5936
+#EXTINF: -1 group-title="Indian Worldwide", DD Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5935
+#EXTINF: -1 group-title="Indian Worldwide", Deepto HD Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5934
+#EXTINF: -1 group-title="Indian Worldwide", Deshe Bideshe TV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5933
+#EXTINF: -1 group-title="Indian Worldwide", DeshTV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5960
+#EXTINF: -1 group-title="Indian Worldwide", Dhoom Music Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5961
+#EXTINF: -1 group-title="Indian Worldwide", Dhoom Music Bangla HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5931
+#EXTINF: -1 group-title="Indian Worldwide", Ekattor TV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5962
+#EXTINF: -1 group-title="Indian Worldwide", ETV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5963
+#EXTINF: -1 group-title="Indian Worldwide", Gaan Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5964
+#EXTINF: -1 group-title="Indian Worldwide", Independent Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5965
+#EXTINF: -1 group-title="Indian Worldwide", iTV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5929
+#EXTINF: -1 group-title="Indian Worldwide", Jamuna TV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5966
+#EXTINF: -1 group-title="Indian Worldwide", Maasaranga Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5967
+#EXTINF: -1 group-title="Indian Worldwide", Masranga TV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5927
+#EXTINF: -1 group-title="Indian Worldwide", Mohana Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5968
+#EXTINF: -1 group-title="Indian Worldwide", Movie Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5925
+#EXTINF: -1 group-title="Indian Worldwide", Music Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5924
+#EXTINF: -1 group-title="Indian Worldwide", MyTV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5951
+#EXTINF: -1 group-title="Indian Worldwide", News 24 HD Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5923
+#EXTINF: -1 group-title="Indian Worldwide", NRB TV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5921
+#EXTINF: -1 group-title="Indian Worldwide", NTV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5969
+#EXTINF: -1 group-title="Indian Worldwide", Probashi Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5919
+#EXTINF: -1 group-title="Indian Worldwide", R Plus News Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5970
+#EXTINF: -1 group-title="Indian Worldwide", Ruposhi Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5972
+#EXTINF: -1 group-title="Indian Worldwide", Sangeet Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5918
+#EXTINF: -1 group-title="Indian Worldwide", SATV Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5973
+#EXTINF: -1 group-title="Indian Worldwide", Somoy Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5975
+#EXTINF: -1 group-title="Indian Worldwide", Star Jalsa Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5976
+#EXTINF: -1 group-title="Indian Worldwide", Star Jhalsa Movies Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5916
+#EXTINF: -1 group-title="Indian Worldwide", Tarang Music IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5915
+#EXTINF: -1 group-title="Indian Worldwide", Time Television Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5914
+#EXTINF: -1 group-title="Indian Worldwide", TV UK Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5942
+#EXTINF: -1 group-title="Indian Worldwide", Zee Bangla Cinema IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2827
+#EXTINF: -1 group-title="Indian Worldwide", Star Jalsha IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4765
+#EXTINF: -1 group-title="Indian Worldwide", Zee Bangla IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4764
+#EXTINF: -1 group-title="Indian Worldwide", Teleugu ETV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6002
+#EXTINF: -1 group-title="Indian Worldwide", Teleugu Maa Movies UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6001
+#EXTINF: -1 group-title="Indian Worldwide", Teleugu Maa TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6000
+#EXTINF: -1 group-title="Indian Worldwide", ETV Telangana IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4732
+#EXTINF: -1 group-title="Indian Worldwide", Jaya Max UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6007
+#EXTINF: -1 group-title="Indian Worldwide", Jaya Movie UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6006
+#EXTINF: -1 group-title="Indian Worldwide", Jaya TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6005
+#EXTINF: -1 group-title="Indian Worldwide", Kairali IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4724
+#EXTINF: -1 group-title="Indian Worldwide", Zee Marathi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4741
+#EXTINF: -1 group-title="Indian Worldwide", Zee Marathi HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4747
+#EXTINF: -1 group-title="Indian Worldwide", Zee Telugu Ditto IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4758
+#EXTINF: -1 group-title="Indian Worldwide", AsiaNet IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1355
+#EXTINF: -1 group-title="Indian Worldwide", Star Vijay IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2855
+#EXTINF: -1 group-title="Indian Worldwide", Star Movies Action IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2859
+#EXTINF: -1 group-title="Indian Worldwide", Dillagi Amrita IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2858
+#EXTINF: -1 group-title="Indian Worldwide", Colors Gujrati IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2861
+#EXTINF: -1 group-title="Indian Worldwide", AsiaNet Plus IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1354
+#EXTINF: -1 group-title="Indian Worldwide", Kannada Colors UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6004
+#EXTINF: -1 group-title="Indian Worldwide", Maa Gold IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2837
+#EXTINF: -1 group-title="Indian Worldwide", Janam TV 2 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2804
+#EXTINF: -1 group-title="Indian Worldwide", Gemini Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2801
+#EXTINF: -1 group-title="Indian Worldwide", Polimer TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2800
+#EXTINF: -1 group-title="Indian Worldwide", Jaya Movies HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2790
+#EXTINF: -1 group-title="Indian Worldwide", Zee Talkies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2789
+#EXTINF: -1 group-title="Indian Worldwide", Zee TV HD US IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2787
+#EXTINF: -1 group-title="Indian Worldwide", Zee TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2788
+#EXTINF: -1 group-title="Indian Worldwide", Zee Tamil IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2786
+#EXTINF: -1 group-title="Indian Worldwide", Sun TV HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1348
+#EXTINF: -1 group-title="Indian Worldwide", Star Plus HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1349
+#EXTINF: -1 group-title="Indian Worldwide", Star Gold HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1350
+#EXTINF: -1 group-title="Indian Worldwide", Star Movies HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2818
+#EXTINF: -1 group-title="Indian Worldwide", Sony TV HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1351
+#EXTINF: -1 group-title="Indian Worldwide", Jaya Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1353
+#EXTINF: -1 group-title="Indian Worldwide", Gemini Movies 1 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4734
+#EXTINF: -1 group-title="Indian Worldwide", Gemini Movies 2 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4735
+#EXTINF: -1 group-title="Indian Worldwide", Gemini TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4733
+#EXTINF: -1 group-title="Indian Worldwide", KTV USA IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4730
+#EXTINF: -1 group-title="Indian Worldwide", Star Pravah IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4754
+#EXTINF: -1 group-title="Indian Worldwide", Jaya Max 2 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4736
+#EXTINF: -1 group-title="Indian Worldwide", Jaya Plus IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4737
+#EXTINF: -1 group-title="Indian Worldwide", Jaya TV USA IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4738
+#EXTINF: -1 group-title="Indian Worldwide", Puthiya IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4723
+#EXTINF: -1 group-title="Indian Worldwide", RAJ Digital Plus IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4761
+#EXTINF: -1 group-title="Indian Worldwide", RAJ Musix IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4731
+#EXTINF: -1 group-title="Indian Worldwide", RAJ TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4729
+#EXTINF: -1 group-title="Indian Worldwide", Raj Digital Plus UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6009
+#EXTINF: -1 group-title="Indian Worldwide", Raj TV UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6008
+#EXTINF: -1 group-title="Indian Worldwide", Sonic Nickelodeon IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2824
+#EXTINF: -1 group-title="Indian Worldwide", Santhora TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4727
+#EXTINF: -1 group-title="Indian Worldwide", Food Food IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2853
+#EXTINF: -1 group-title="Indian Worldwide", Housefull Action IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2851
+#EXTINF: -1 group-title="Indian Worldwide", Nickelodeon IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2833
+#EXTINF: -1 group-title="Indian Worldwide", Pogo TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2839
+#EXTINF: -1 group-title="Indian Worldwide", Manoranjan Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2847
+#EXTINF: -1 group-title="Indian Worldwide", Nick Jr IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2834
+#EXTINF: -1 group-title="Indian Worldwide", Akaal Channel Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5898
+#EXTINF: -1 group-title="Indian Worldwide", Sangat UK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5985
+#EXTINF: -1 group-title="Indian Worldwide", Sony SAB FHD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15880
+#EXTINF: -1 group-title="Indian Worldwide", Sony HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15884
+#EXTINF: -1 group-title="Indian Worldwide", Zee Cinema FHD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15883
+#EXTINF: -1 group-title="Indian Worldwide", Zee TV HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/9519
+#EXTINF: -1 group-title="Indian Worldwide", Zee TV FHD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15886
+#EXTINF: -1 group-title="Indian Worldwide", Sony Max HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15885
+#EXTINF: -1 group-title="Indian Worldwide", Animal Planet HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16015
+#EXTINF: -1 group-title="Indian Worldwide", Big Magic IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16031
+#EXTINF: -1 group-title="Indian Worldwide", Desi Plus HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16043
+#EXTINF: -1 group-title="Indian Worldwide", Discovery Kids IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16024
+#EXTINF: -1 group-title="Indian Worldwide", Discovery Science IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16011
+#EXTINF: -1 group-title="Indian Worldwide", Discovery Turbo IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16010
+#EXTINF: -1 group-title="Indian Worldwide", Discovery World HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16014
+#EXTINF: -1 group-title="Indian Worldwide", E24 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16035
+#EXTINF: -1 group-title="Indian Worldwide", Enterr 10 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16028
+#EXTINF: -1 group-title="Indian Worldwide", Masti TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16034
+#EXTINF: -1 group-title="Indian Worldwide", Rishtey Cineplex IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16017
+#EXTINF: -1 group-title="Indian Worldwide", WB HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16016
+#EXTINF: -1 group-title="Indian Worldwide", Sony MAX 2 IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16032
+#EXTINF: -1 group-title="Indian Worldwide", Sony MAX IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16036
+#EXTINF: -1 group-title="Indian Worldwide", Sony SAB IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16038
+#EXTINF: -1 group-title="Indian Worldwide", Sony Ten 1 FHD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16041
+#EXTINF: -1 group-title="Indian Worldwide", Sony TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16037
+#EXTINF: -1 group-title="Indian Worldwide", Sony WAH IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16039
+#EXTINF: -1 group-title="Indian Worldwide", Star Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16019
+#EXTINF: -1 group-title="Indian Worldwide", Star Utsav IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16018
+#EXTINF: -1 group-title="Indian Worldwide", Sony YAY IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/24717
+#EXTINF: -1 group-title="Indian Worldwide", Travel XP HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16013
+#EXTINF: -1 group-title="Indian Worldwide", WOW Cinema IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16026
+#EXTINF: -1 group-title="Indian Worldwide", WOW Kidz IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16040
+#EXTINF: -1 group-title="Indian Worldwide", Zing IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16029
+#EXTINF: -1 group-title="Indian Worldwide", & Flix HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16046
+#EXTINF: -1 group-title="Indian Worldwide", SONY SIX HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43597
+#EXTINF: -1 group-title="Indian Worldwide", SONY TEN2 HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43595
+#EXTINF: -1 group-title="Indian Worldwide", COLORS KANNADA HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43614
+#EXTINF: -1 group-title="Indian Worldwide", STAR VIJAY HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43604
+#EXTINF: -1 group-title="Indian Worldwide", ZEE HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43626
+#EXTINF: -1 group-title="Indian Worldwide", AND PICTURES VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43625
+#EXTINF: -1 group-title="Indian Worldwide", COLORS GUJARATI HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43624
+#EXTINF: -1 group-title="Indian Worldwide", STAR GOLD FHD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43622
+#EXTINF: -1 group-title="Indian Worldwide", SONY SAB FHD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43620
+#EXTINF: -1 group-title="Indian Worldwide", CINEPLEX HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43617
+#EXTINF: -1 group-title="Indian Worldwide", COLORS BANGLA HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43616
+#EXTINF: -1 group-title="Indian Worldwide", COLORS HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43615
+#EXTINF: -1 group-title="Indian Worldwide", COLORS MARATHI HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43613
+#EXTINF: -1 group-title="Indian Worldwide", STAR GOLD SELECT HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43612
+#EXTINF: -1 group-title="Indian Worldwide", STAR PLUS HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43611
+#EXTINF: -1 group-title="Indian Worldwide", STAR PRAVAH HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43610
+#EXTINF: -1 group-title="Indian Worldwide", STAR SPORTS 1 HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43609
+#EXTINF: -1 group-title="Indian Worldwide", STAR SPORTS 1 HINDI HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43608
+#EXTINF: -1 group-title="Indian Worldwide", STAR SPORTS 2 HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43607
+#EXTINF: -1 group-title="Indian Worldwide", STAR SPORTS SELECT 1 FHD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43606
+#EXTINF: -1 group-title="Indian Worldwide", STAR SPORTS SELECT 2 FHD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43605
+#EXTINF: -1 group-title="Indian Worldwide", MAA TV HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43603
+#EXTINF: -1 group-title="Indian Worldwide", JALSHA MOVIES HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43602
+#EXTINF: -1 group-title="Indian Worldwide", GEMINI TV HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43601
+#EXTINF: -1 group-title="Indian Worldwide", ETV HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43600
+#EXTINF: -1 group-title="Indian Worldwide", D SPORTS VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43599
+#EXTINF: -1 group-title="Indian Worldwide", ASIANET HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43598
+#EXTINF: -1 group-title="Indian Worldwide", SONY TEN1 HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43596
+#EXTINF: -1 group-title="Indian Worldwide", STAR JALSHA HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43594
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV HD
+https://236s.short.gy/DreamTV/MtvHD.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music", Masti
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
