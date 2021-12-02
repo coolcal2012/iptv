@@ -79,9 +79,9 @@ http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/40.m3u8
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/41.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="Bangla",HBO
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/42.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="http://roarmediazone.com/tv/weblogo/114.jpg" group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="http://roarmediazone.com/tv/weblogo/114.jpg" group-title="Bangla",Discovery HD
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Documentary",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Bangla",Sony BBC Earth HD
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="Bangla",Movies Now
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/45.m3u8
